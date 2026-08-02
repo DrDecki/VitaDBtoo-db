@@ -30,7 +30,8 @@ for f in ('apps.json', 'psp_apps.json'):
 
 ss_have = len([x for x in os.listdir(os.path.join(ROOT, 'screenshots'))
                if x.endswith('.png')]) if os.path.isdir(os.path.join(ROOT, 'screenshots')) else 0
-tr_have = len([x for x in os.listdir(os.path.join(ROOT, 'videos'))
+tr_have = sum(1 for a in load('apps.json') if a.get('trailer'))
+unused_tr = len([x for x in os.listdir(os.path.join(ROOT, 'videos'))
                if x.endswith('.mp4')]) if os.path.isdir(os.path.join(ROOT, 'videos')) else 0
 
 ss_total = tr_total = 0
