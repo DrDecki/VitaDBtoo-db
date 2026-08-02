@@ -526,7 +526,7 @@
         "source": "https://github.com/fgsfdsfgs/UE1",
         "release_page": "https://github.com/fgsfdsfgs/UE1/releases",
         "trailer": "",
-        "size": "2790525",
+        "size": "2181887",
         "data_size": "8614",
         "hash": "92379a14e7e7587f9f34dd0097ff26d7",
         "hash2": "",
@@ -536,7 +536,7 @@
         "tags": "",
         "ai": "0",
         "score": "82.1",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1242",
+        "url": "https://web.archive.org/web/20250122183509id_/https://www.rinnegatamante.eu/files/vitadb/unreal.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/unreal.zip"
     },
     {
@@ -916,7 +916,7 @@
         "source": "https://github.com/noword/Emu4VitaPlus",
         "release_page": "https://github.com/noword/Emu4VitaPlus/releases",
         "trailer": "",
-        "size": "193428422",
+        "size": "166871885",
         "data_size": "0",
         "hash": "822f148fa0d328929d18618882226e9b",
         "hash2": "",
@@ -926,7 +926,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1260",
+        "url": "https://web.archive.org/web/20250703070737id_/https://www.rinnegatamante.eu/files/vitadb/Emu4VitaPlus.vpk",
         "data": ""
     },
     {
@@ -1096,7 +1096,7 @@
         "source": "https://github.com/scummvm/scummvm",
         "release_page": "https://wiki.scummvm.org/index.php?title=PlayStation_Vita",
         "trailer": "",
-        "size": "145275498",
+        "size": "129889683",
         "data_size": "0",
         "hash": "edae694275914f668add96e03085f1a4",
         "hash2": "",
@@ -1106,7 +1106,7 @@
         "tags": "2d,retro,opensource,graphical adventure",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=585",
+        "url": "https://web.archive.org/web/20250219233303id_/https://www.rinnegatamante.eu/files/vitadb/scummvm_release.vpk",
         "data": ""
     },
     {
@@ -1676,7 +1676,7 @@
         "tags": "",
         "ai": "0",
         "score": "84.2",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=459",
+        "url": "https://web.archive.org/web/20260520154206id_/https://www.rinnegatamante.eu/files/vitadb/vitaRTCW.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/iortcw.zip"
     },
     {
@@ -2386,7 +2386,7 @@
         "source": "https://github.com/ihhub/fheroes2",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48768",
         "trailer": "",
-        "size": "14218740",
+        "size": "7289959",
         "data_size": "20400574",
         "hash": "1e942444826577700f47a2dc68d12e05",
         "hash2": "",
@@ -2396,7 +2396,7 @@
         "tags": "2d,fantasy,strategy,turn based,aaa",
         "ai": "0",
         "score": "75.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=354",
+        "url": "https://web.archive.org/web/20250122171336id_/https://www.rinnegatamante.eu/files/vitadb/fheroes2.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/fheroes2_data.zip"
     },
     {
@@ -2486,7 +2486,7 @@
         "tags": "",
         "ai": "0",
         "score": "65",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1377",
+        "url": "https://web.archive.org/web/20260801075834id_/https://www.rinnegatamante.eu/files/vitadb/dmc4.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/dmc4.zip"
     },
     {
@@ -2546,7 +2546,7 @@
         "tags": "",
         "ai": "0",
         "score": "94.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1276",
+        "url": "https://web.archive.org/web/20260520154230id_/https://www.rinnegatamante.eu/files/vitadb/soh.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/soh.zip"
     },
     {
@@ -2986,7 +2986,7 @@
         "source": "https://github.com/Rinnegatamante/PostalVita",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=49641",
         "trailer": "",
-        "size": "2701813",
+        "size": "2289848",
         "data_size": "1713",
         "hash": "09b1473572c1bc65ce43a097e3a62b01",
         "hash2": "",
@@ -2996,7 +2996,7 @@
         "tags": "",
         "ai": "0",
         "score": "60.7",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=415",
+        "url": "https://web.archive.org/web/20241231063808id_/https://www.rinnegatamante.eu/files/vitadb/Postal.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/postal.zip"
     },
     {
@@ -3976,7 +3976,7 @@
         "source": "https://github.com/Rinnegatamante/eldritch-vita",
         "release_page": "",
         "trailer": "",
-        "size": "4428029",
+        "size": "4527067",
         "data_size": "851",
         "hash": "851f028c603da4118423d8c2298b48c9",
         "hash2": "",
@@ -3986,7 +3986,7 @@
         "tags": "",
         "ai": "0",
         "score": "75.6",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1100",
+        "url": "https://web.archive.org/web/20240907030006id_/https://www.rinnegatamante.eu/files/vitadb/Eldritch.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/eldritch.zip"
     },
     {
@@ -4426,7 +4426,7 @@
         "source": "https://github.com/joel16/vitaPDF",
         "release_page": "https://joel16dev.itch.io/vitapdf",
         "trailer": "",
-        "size": "31999916",
+        "size": "32204024",
         "data_size": "0",
         "hash": "feae6b8ec95d1528026d37e962414c36",
         "hash2": "",
@@ -4436,7 +4436,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1290",
+        "url": "https://web.archive.org/web/20250726005625id_/https://www.rinnegatamante.eu/files/vitadb/vitaPDF.vpk",
         "data": ""
     },
     {
@@ -4586,7 +4586,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1324",
+        "url": "https://web.archive.org/web/20260411043604id_/https://www.rinnegatamante.eu/files/vitadb/snowball.vpk",
         "data": ""
     },
     {
@@ -4766,7 +4766,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1317",
+        "url": "https://web.archive.org/web/20260712194752id_/https://www.rinnegatamante.eu/files/vitadb/YARDLINGS.vpk",
         "data": ""
     },
     {
@@ -4786,7 +4786,7 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "114452200",
+        "size": "74123397",
         "data_size": "0",
         "hash": "c12c08752b3f1d352a59fc3f0e6218bb",
         "hash2": "66f8a5947e63e28f446bb22838736dc4",
@@ -4796,7 +4796,7 @@
         "tags": "fanmade,3d,platform,unity,f2p",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1212",
+        "url": "https://web.archive.org/web/20240907050549id_/https://www.rinnegatamante.eu/files/vitadb/sonic_unleashed.vpk",
         "data": ""
     },
     {
@@ -4946,7 +4946,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1313",
+        "url": "https://web.archive.org/web/20250907125907id_/https://www.rinnegatamante.eu/files/vitadb/HIDEKO000.vpk",
         "data": ""
     },
     {
@@ -5366,7 +5366,7 @@
         "tags": "",
         "ai": "0",
         "score": "79.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1287",
+        "url": "https://web.archive.org/web/20260510010924id_/https://www.rinnegatamante.eu/files/vitadb/DropsyVITA.vpk",
         "data": ""
     },
     {
@@ -5486,7 +5486,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1285",
+        "url": "https://web.archive.org/web/20260520154213id_/https://www.rinnegatamante.eu/files/vitadb/SlendrinaCellar.vpk",
         "data": ""
     },
     {
@@ -5536,7 +5536,7 @@
         "source": "https://github.com/Rinnegatamante/zelda3",
         "release_page": "https://www.psx-place.com/threads/release-zelda3-vita-port-of-the-legend-of-zelda-a-link-to-the-past.38470/",
         "trailer": "",
-        "size": "2060552",
+        "size": "2001236",
         "data_size": "16473",
         "hash": "24902a12c1d5360c5c168fdff406b1ee",
         "hash2": "",
@@ -5546,7 +5546,7 @@
         "tags": "aaa,retro,2d,adventure,opensource",
         "ai": "0",
         "score": "91.7",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=993",
+        "url": "https://web.archive.org/web/20250122151132id_/https://www.rinnegatamante.eu/files/vitadb/zelda3_attp.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/zelda3_attp.zip"
     },
     {
@@ -5566,7 +5566,7 @@
         "source": "https://github.com/Rinnegatamante/smw",
         "release_page": "https://www.psx-place.com/threads/release-super-mario-world-vita-port-of-a-reverse-engineering-project-for-super-mario-world.43964/",
         "trailer": "",
-        "size": "1614179",
+        "size": "1568340",
         "data_size": "1891",
         "hash": "700dc625107602188624c06c47f3466e",
         "hash2": "",
@@ -5576,7 +5576,7 @@
         "tags": "aaa,2d,retro,platform,opensource",
         "ai": "0",
         "score": "88.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1215",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/smworld.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/smworld.zip"
     },
     {
@@ -5626,7 +5626,7 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "113170179",
+        "size": "87645624",
         "data_size": "0",
         "hash": "28df76217cc4803a8d702c8597b59d38",
         "hash2": "1ccb2b2c57c7c549f161f1bb7d87a602",
@@ -5636,7 +5636,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=595",
+        "url": "https://web.archive.org/web/20250122154434id_/https://www.rinnegatamante.eu/files/vitadb/LostOnIsland.vpk",
         "data": ""
     },
     {
@@ -5656,7 +5656,7 @@
         "source": "",
         "release_page": "https://ks.renai.us/viewtopic.php?f=3&t=13530",
         "trailer": "",
-        "size": "505035075",
+        "size": "447046987",
         "data_size": "92924751",
         "hash": "9f8ec6ff8f24328470b73f4630c1b897",
         "hash2": "",
@@ -5666,7 +5666,7 @@
         "tags": "visual novel,2d,python,renpy,nsfw",
         "ai": "0",
         "score": "76",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1086",
+        "url": "https://web.archive.org/web/20240909213342id_/https://www.rinnegatamante.eu/files/vitadb/katawa2.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/ks-video.zip"
     },
     {
@@ -5686,7 +5686,7 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "637289911",
+        "size": "580635133",
         "data_size": "0",
         "hash": "9f8ec6ff8f24328470b73f4630c1b897",
         "hash2": "",
@@ -5696,7 +5696,7 @@
         "tags": "",
         "ai": "0",
         "score": "75.8",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1118",
+        "url": "https://web.archive.org/web/20250307193928id_/https://www.rinnegatamante.eu/files/vitadb/everlasting_summer.vpk",
         "data": ""
     },
     {
@@ -5716,7 +5716,7 @@
         "source": "https://github.com/TheXTech/TheXTech",
         "release_page": "https://wohlsoft.ru/projects/TheXTech/",
         "trailer": "",
-        "size": "4501154",
+        "size": "4456627",
         "data_size": "0",
         "hash": "4cb3f492f65cf6829924f1192cf51e76",
         "hash2": "",
@@ -5726,7 +5726,7 @@
         "tags": "",
         "ai": "0",
         "score": "82",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=727",
+        "url": "https://web.archive.org/web/20241228213422id_/https://www.rinnegatamante.eu/files/vitadb/thextech.vpk",
         "data": ""
     },
     {
@@ -5776,7 +5776,7 @@
         "source": "https://github.com/EasyRPG/Player",
         "release_page": "https://blog.easyrpg.org/",
         "trailer": "",
-        "size": "5297501",
+        "size": "4210037",
         "data_size": "50648339",
         "hash": "a60827b19b1dc7461ab868cbef59c1b7",
         "hash2": "",
@@ -5786,7 +5786,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=5",
+        "url": "https://web.archive.org/web/20250122191135id_/https://www.rinnegatamante.eu/files/vitadb/EasyRPG_Player.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/easyrpg.zip"
     },
     {
@@ -5866,7 +5866,7 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "63007285",
+        "size": "41126958",
         "data_size": "0",
         "hash": "7b615892272b4696e73138f4b0dc6c94",
         "hash2": "a7e5735e4b7374dc0f1e20d00501ca2c",
@@ -5876,7 +5876,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1159",
+        "url": "https://web.archive.org/web/20240906225640id_/https://www.rinnegatamante.eu/files/vitadb/CCFCVitaBuild.vpk",
         "data": ""
     },
     {
@@ -5986,7 +5986,7 @@
         "source": "https://github.com/Rinnegatamante/wipeout-rewrite",
         "release_page": "",
         "trailer": "",
-        "size": "1375226",
+        "size": "1256333",
         "data_size": "31929451",
         "hash": "84ac3656763fd69fed267ed7f595eefc",
         "hash2": "",
@@ -5996,7 +5996,7 @@
         "tags": "",
         "ai": "0",
         "score": "74.4",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1116",
+        "url": "https://web.archive.org/web/20240910012432id_/https://www.rinnegatamante.eu/files/vitadb/Wipeout.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/wipeout.zip"
     },
     {
@@ -6086,7 +6086,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1264",
+        "url": "https://web.archive.org/web/20250618031417id_/https://www.rinnegatamante.eu/files/vitadb/bbbv.vpk",
         "data": ""
     },
     {
@@ -6116,7 +6116,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1265",
+        "url": "https://web.archive.org/web/20250804225226id_/https://www.rinnegatamante.eu/files/vitadb/BubblePunk-Vita.vpk",
         "data": ""
     },
     {
@@ -6226,7 +6226,7 @@
         "source": "https://github.com/mgba-emu/mgba/",
         "release_page": "https://mgba.io/",
         "trailer": "",
-        "size": "784831",
+        "size": "784603",
         "data_size": "0",
         "hash": "2f7f94ae920c0925569e78b32baf927d",
         "hash2": "",
@@ -6236,7 +6236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=164",
+        "url": "https://web.archive.org/web/20250207112605id_/https://www.rinnegatamante.eu/files/vitadb/mgba.vpk",
         "data": ""
     },
     {
@@ -6376,7 +6376,7 @@
         "source": "",
         "release_page": "https://poto-software.itch.io/how-to-rob-a-gas-station",
         "trailer": "",
-        "size": "51863224",
+        "size": "51734795",
         "data_size": "0",
         "hash": "3333846b67ff62c18a9bb1349884e929",
         "hash2": "c67c21f26441e6df344ac5ff484b3c20",
@@ -6386,7 +6386,7 @@
         "tags": "f2p,fps,3d,godot",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=839",
+        "url": "https://web.archive.org/web/20240910015234id_/https://www.rinnegatamante.eu/files/vitadb/gas.vpk",
         "data": ""
     },
     {
@@ -6416,7 +6416,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1254",
+        "url": "https://web.archive.org/web/20250207112648id_/https://www.rinnegatamante.eu/files/vitadb/MightyMike.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/MightyMike.zip"
     },
     {
@@ -6476,7 +6476,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1252",
+        "url": "https://web.archive.org/web/20250409195123id_/https://www.rinnegatamante.eu/files/vitadb/LaDeuda.vpk",
         "data": ""
     },
     {
@@ -6506,7 +6506,7 @@
         "tags": "",
         "ai": "0",
         "score": "74.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1253",
+        "url": "https://web.archive.org/web/20250216092120id_/https://www.rinnegatamante.eu/files/vitadb/OttoMatic.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/OttoMatic.zip"
     },
     {
@@ -6566,7 +6566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1248",
+        "url": "https://web.archive.org/web/20250306142808id_/https://www.rinnegatamante.eu/files/vitadb/BlackSailsCurseOfTheDeep.vpk",
         "data": ""
     },
     {
@@ -6596,7 +6596,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1249",
+        "url": "https://web.archive.org/web/20250313011616id_/https://www.rinnegatamante.eu/files/vitadb/RoadOfMailhem.vpk",
         "data": ""
     },
     {
@@ -6626,7 +6626,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1250",
+        "url": "https://web.archive.org/web/20250206193001id_/https://www.rinnegatamante.eu/files/vitadb/ChasingDawn.vpk",
         "data": ""
     },
     {
@@ -6656,7 +6656,7 @@
         "tags": "",
         "ai": "0",
         "score": "87.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=10",
+        "url": "https://web.archive.org/web/20250307183130id_/https://www.rinnegatamante.eu/files/vitadb/vitaQuake.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/vitaQuake.zip"
     },
     {
@@ -6716,7 +6716,7 @@
         "tags": "",
         "ai": "0",
         "score": "79.3",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1247",
+        "url": "https://web.archive.org/web/20250122152102id_/https://www.rinnegatamante.eu/files/vitadb/DOOMIIRPG.vpk",
         "data": ""
     },
     {
@@ -6806,7 +6806,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.8",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1244",
+        "url": "https://web.archive.org/web/20250122182328id_/https://www.rinnegatamante.eu/files/vitadb/dethrace.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/dethrace.zip"
     },
     {
@@ -6836,7 +6836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1091",
+        "url": "https://web.archive.org/web/20250122183422id_/https://www.rinnegatamante.eu/files/vitadb/dolmexica_infinite.vpk",
         "data": ""
     },
     {
@@ -6866,7 +6866,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=792",
+        "url": "https://web.archive.org/web/20250207155050id_/https://www.rinnegatamante.eu/files/vitadb/oceanpop.vpk",
         "data": ""
     },
     {
@@ -6956,7 +6956,7 @@
         "tags": "",
         "ai": "0",
         "score": "73.6",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1241",
+        "url": "https://web.archive.org/web/20250122195044id_/https://www.rinnegatamante.eu/files/vitadb/Nanosaur2.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Nanosaur2.zip"
     },
     {
@@ -7016,7 +7016,7 @@
         "tags": "3d,fps,commercial,arena,online",
         "ai": "0",
         "score": "82.7",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=491",
+        "url": "https://web.archive.org/web/20241231063804id_/https://www.rinnegatamante.eu/files/vitadb/vitaVoyager.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/vitavoyager_data.zip"
     },
     {
@@ -7076,7 +7076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1001",
+        "url": "https://web.archive.org/web/20250329175029id_/https://www.rinnegatamante.eu/files/vitadb/Billy.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/BillyFrontier.zip"
     },
     {
@@ -7106,7 +7106,7 @@
         "tags": "3d,racing,f2p,opensource",
         "ai": "0",
         "score": "73",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=872",
+        "url": "https://web.archive.org/web/20250130134546id_/https://www.rinnegatamante.eu/files/vitadb/CroMag.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/CroMagRally.zip"
     },
     {
@@ -7136,7 +7136,7 @@
         "tags": "3d,fps,arena,online,commercial",
         "ai": "0",
         "score": "87.8",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=375",
+        "url": "https://web.archive.org/web/20250214113234id_/https://www.rinnegatamante.eu/files/vitadb/vitaQuakeIII.vpk",
         "data": ""
     },
     {
@@ -7256,7 +7256,7 @@
         "tags": "2d,platform,indie,godot,8 bit",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1235",
+        "url": "https://web.archive.org/web/20241231063802id_/https://www.rinnegatamante.eu/files/vitadb/tiny_crate.vpk",
         "data": ""
     },
     {
@@ -7286,7 +7286,7 @@
         "tags": "f2p,unity,3d,tps,roguelike",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1140",
+        "url": "https://web.archive.org/web/20250329182443id_/https://www.rinnegatamante.eu/files/vitadb/purified.vpk",
         "data": ""
     },
     {
@@ -7316,7 +7316,7 @@
         "tags": "godot,2d,fanmade,roguelike,f2p",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1087",
+        "url": "https://web.archive.org/web/20250804225059id_/https://www.rinnegatamante.eu/files/vitadb/katawa-crash.vpk",
         "data": ""
     },
     {
@@ -7406,7 +7406,7 @@
         "tags": "2d,shooter,unity,f2p",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1232",
+        "url": "https://web.archive.org/web/20250401001932id_/https://www.rinnegatamante.eu/files/vitadb/Florpix.vpk",
         "data": ""
     },
     {
@@ -7556,7 +7556,7 @@
         "tags": "2d,arcade,game maker,f2p",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1231",
+        "url": "https://web.archive.org/web/20250314121403id_/https://www.rinnegatamante.eu/files/vitadb/IdleMiner.vpk",
         "data": ""
     },
     {
@@ -7586,7 +7586,7 @@
         "tags": "fanmade,platform,f2p,game maker,2d",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1229",
+        "url": "https://web.archive.org/web/20250703070729id_/https://www.rinnegatamante.eu/files/vitadb/111.vpk",
         "data": ""
     },
     {
@@ -7646,7 +7646,7 @@
         "tags": "f2p,3d,unity,casual",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1221",
+        "url": "https://web.archive.org/web/20240906171040id_/https://www.rinnegatamante.eu/files/vitadb/CrossyRoadsClone.vpk",
         "data": ""
     },
     {
@@ -7766,7 +7766,7 @@
         "tags": "puzzle,2d,opensource,lua,f2p",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=771",
+        "url": "https://web.archive.org/web/20250130091038id_/https://www.rinnegatamante.eu/files/vitadb/Flowit.vpk",
         "data": ""
     },
     {
@@ -7916,7 +7916,7 @@
         "tags": "opensource,retro,2d,3d",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1094",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/Emu4VitaArch.vpk",
         "data": ""
     },
     {
@@ -7946,7 +7946,7 @@
         "tags": "retro,2d,metroidvania,platform,f2p",
         "ai": "0",
         "score": "85.7",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1203",
+        "url": "https://web.archive.org/web/20250211084621id_/https://www.rinnegatamante.eu/files/vitadb/CSE2.vpk",
         "data": ""
     },
     {
@@ -8036,7 +8036,7 @@
         "tags": "game maker,2d,platform,indie,commercial",
         "ai": "0",
         "score": "81.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1216",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/WSNL00001.vpk",
         "data": ""
     },
     {
@@ -8156,7 +8156,7 @@
         "tags": "3d,casual,roguelike,unity,arcade",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1124",
+        "url": "https://web.archive.org/web/20250415162309id_/https://www.rinnegatamante.eu/files/vitadb/gnomopolis.vpk",
         "data": ""
     },
     {
@@ -8186,7 +8186,7 @@
         "tags": "2d,sandbox,open world,free roaming,unity",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1146",
+        "url": "https://web.archive.org/web/20250417015648id_/https://www.rinnegatamante.eu/files/vitadb/tinycraft.vpk",
         "data": ""
     },
     {
@@ -8246,7 +8246,7 @@
         "tags": "3d,puzzle,f2p,unity",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1213",
+        "url": "https://web.archive.org/web/20250401002520id_/https://www.rinnegatamante.eu/files/vitadb/ancient_villa.vpk",
         "data": ""
     },
     {
@@ -8276,7 +8276,7 @@
         "tags": "store,opensource,online",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=98",
+        "url": "https://web.archive.org/web/20250618031420id_/https://www.rinnegatamante.eu/files/vitadb/CTManager.vpk",
         "data": ""
     },
     {
@@ -8336,7 +8336,7 @@
         "tags": "opensource,lua",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=724",
+        "url": "https://web.archive.org/web/20250122154937id_/https://www.rinnegatamante.eu/files/vitadb/UX0toSD.vpk",
         "data": ""
     },
     {
@@ -8396,7 +8396,7 @@
         "tags": "arcade,f2p,casual,3d,unity",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1214",
+        "url": "https://web.archive.org/web/20250618031419id_/https://www.rinnegatamante.eu/files/vitadb/clasherball.vpk",
         "data": ""
     },
     {
@@ -8456,7 +8456,7 @@
         "tags": "unity,2d,f2p,casual,fanmade",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1205",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/StratagemHeroVita.vpk",
         "data": ""
     },
     {
@@ -8666,7 +8666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1196",
+        "url": "https://web.archive.org/web/20240906204515id_/https://www.rinnegatamante.eu/files/vitadb/OPOD.vpk",
         "data": ""
     },
     {
@@ -8696,7 +8696,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1198",
+        "url": "https://web.archive.org/web/20250612003814id_/https://www.rinnegatamante.eu/files/vitadb/deshinde.vpk",
         "data": ""
     },
     {
@@ -8726,7 +8726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1197",
+        "url": "https://web.archive.org/web/20250703070752id_/https://www.rinnegatamante.eu/files/vitadb/BreathOfThunder.vpk",
         "data": ""
     },
     {
@@ -8756,7 +8756,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1195",
+        "url": "https://web.archive.org/web/20250130134316id_/https://www.rinnegatamante.eu/files/vitadb/sonic_run.vpk",
         "data": ""
     },
     {
@@ -8786,7 +8786,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1190",
+        "url": "https://web.archive.org/web/20250122145058id_/https://www.rinnegatamante.eu/files/vitadb/smash_tv.vpk",
         "data": ""
     },
     {
@@ -8816,7 +8816,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1191",
+        "url": "https://web.archive.org/web/20250211185358id_/https://www.rinnegatamante.eu/files/vitadb/MightyNo9.vpk",
         "data": ""
     },
     {
@@ -8876,7 +8876,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1187",
+        "url": "https://web.archive.org/web/20250305230337id_/https://www.rinnegatamante.eu/files/vitadb/psee.vpk",
         "data": ""
     },
     {
@@ -9106,7 +9106,7 @@
         "source": "https://github.com/nzp-team/nzportable",
         "release_page": "https://github.com/nzp-team/nzportable/releases",
         "trailer": "",
-        "size": "3347167",
+        "size": "3384432",
         "data_size": "46790302",
         "hash": "0ccbba1b9aeb0540e1c73859e054634b",
         "hash2": "",
@@ -9116,7 +9116,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1028",
+        "url": "https://web.archive.org/web/20241231063809id_/https://files.coolatoms.org/nzp.vpk",
         "data": "https://files.coolatoms.org/nzp-data.zip"
     },
     {
@@ -9506,7 +9506,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1169",
+        "url": "https://web.archive.org/web/20240910160417id_/https://www.rinnegatamante.eu/files/vitadb/boggle.vpk",
         "data": ""
     },
     {
@@ -9536,7 +9536,7 @@
         "tags": "",
         "ai": "0",
         "score": "86.4",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=649",
+        "url": "https://web.archive.org/web/20241231063805id_/https://www.rinnegatamante.eu/files/vitadb/vanillara.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/VanillaRA.zip"
     },
     {
@@ -9566,7 +9566,7 @@
         "tags": "",
         "ai": "0",
         "score": "88.4",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=650",
+        "url": "https://web.archive.org/web/20250228133902id_/https://www.rinnegatamante.eu/files/vitadb/vanillatd.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/VanillaTD.zip"
     },
     {
@@ -9656,7 +9656,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1163",
+        "url": "https://web.archive.org/web/20241231063808id_/https://www.rinnegatamante.eu/files/vitadb/hitem.vpk",
         "data": ""
     },
     {
@@ -9746,7 +9746,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1165",
+        "url": "https://web.archive.org/web/20250130110522id_/https://www.rinnegatamante.eu/files/vitadb/flick.vpk",
         "data": ""
     },
     {
@@ -9806,7 +9806,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1160",
+        "url": "https://web.archive.org/web/20241228213420id_/https://www.rinnegatamante.eu/files/vitadb/ets.vpk",
         "data": ""
     },
     {
@@ -9866,7 +9866,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1158",
+        "url": "https://web.archive.org/web/20250122191822id_/https://www.rinnegatamante.eu/files/vitadb/flare.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/flare.zip"
     },
     {
@@ -9896,7 +9896,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1103",
+        "url": "https://web.archive.org/web/20240913183144id_/https://www.rinnegatamante.eu/files/vitadb/Zik-Zak.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/zik-zak.zip"
     },
     {
@@ -9916,7 +9916,7 @@
         "source": "https://github.com/FWGS/xash3d-fwgs",
         "release_page": "https://github.com/FWGS/xash3d-fwgs/release",
         "trailer": "",
-        "size": "19427375",
+        "size": "7589724",
         "data_size": "45288926",
         "hash": "36bf28c20184549e2db4fbb718114385",
         "hash2": "",
@@ -9926,7 +9926,7 @@
         "tags": "",
         "ai": "0",
         "score": "92",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1157",
+        "url": "https://web.archive.org/web/20240907075835id_/https://files.coolatoms.org/xash.vpk",
         "data": "https://files.coolatoms.org/xash-data.zip"
     },
     {
@@ -9956,7 +9956,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1155",
+        "url": "https://web.archive.org/web/20240905223934id_/https://www.rinnegatamante.eu/files/vitadb/Nextbot4Vita.vpk",
         "data": ""
     },
     {
@@ -10016,7 +10016,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1151",
+        "url": "https://web.archive.org/web/20240909131934id_/https://www.rinnegatamante.eu/files/vitadb/dream_punk.vpk",
         "data": ""
     },
     {
@@ -10076,7 +10076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1127",
+        "url": "https://web.archive.org/web/20250317113328id_/https://www.rinnegatamante.eu/files/vitadb/OpenMRac.vpk",
         "data": ""
     },
     {
@@ -10106,7 +10106,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1101",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/Beat2x.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/beat2x.zip"
     },
     {
@@ -10136,7 +10136,7 @@
         "tags": "",
         "ai": "0",
         "score": "86.3",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1110",
+        "url": "https://web.archive.org/web/20250207234233id_/https://www.rinnegatamante.eu/files/vitadb/freespace.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/freespace2_demo.zip"
     },
     {
@@ -10196,7 +10196,7 @@
         "tags": "",
         "ai": "0",
         "score": "72.4",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1121",
+        "url": "https://web.archive.org/web/20250221072828id_/https://www.rinnegatamante.eu/files/vitadb/lateshift.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/lateshift_data.zip"
     },
     {
@@ -10256,7 +10256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1142",
+        "url": "https://web.archive.org/web/20240914151756id_/https://www.rinnegatamante.eu/files/vitadb/moodi.vpk",
         "data": ""
     },
     {
@@ -10286,7 +10286,7 @@
         "tags": "",
         "ai": "0",
         "score": "83.2",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1152",
+        "url": "https://web.archive.org/web/20250214091654id_/https://www.rinnegatamante.eu/files/vitadb/layton2.vpk",
         "data": ""
     },
     {
@@ -10316,7 +10316,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1149",
+        "url": "https://web.archive.org/web/20250207102837id_/https://www.rinnegatamante.eu/files/vitadb/BonkBots.vpk",
         "data": ""
     },
     {
@@ -10346,7 +10346,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1150",
+        "url": "https://web.archive.org/web/20250122191417id_/https://www.rinnegatamante.eu/files/vitadb/feline_future.vpk",
         "data": ""
     },
     {
@@ -10376,7 +10376,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1153",
+        "url": "https://web.archive.org/web/20240910104654id_/https://www.rinnegatamante.eu/files/vitadb/pinkshake.vpk",
         "data": ""
     },
     {
@@ -10406,7 +10406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1104",
+        "url": "https://web.archive.org/web/20241231063812id_/https://www.rinnegatamante.eu/files/vitadb/The-Four-of-Us-Are-Dying.vpk",
         "data": ""
     },
     {
@@ -10436,7 +10436,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1130",
+        "url": "https://web.archive.org/web/20241228213413id_/https://www.rinnegatamante.eu/files/vitadb/AnimalVitas.vpk",
         "data": ""
     },
     {
@@ -10466,7 +10466,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1133",
+        "url": "https://web.archive.org/web/20250122153422id_/https://www.rinnegatamante.eu/files/vitadb/VitaReckoning.vpk",
         "data": ""
     },
     {
@@ -10496,7 +10496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1134",
+        "url": "https://web.archive.org/web/20250311234012id_/https://www.rinnegatamante.eu/files/vitadb/maze_planet.vpk",
         "data": ""
     },
     {
@@ -10526,7 +10526,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1135",
+        "url": "https://web.archive.org/web/20250206194216id_/https://www.rinnegatamante.eu/files/vitadb/ViTetris.vpk",
         "data": ""
     },
     {
@@ -10556,7 +10556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1136",
+        "url": "https://web.archive.org/web/20250804225056id_/https://www.rinnegatamante.eu/files/vitadb/OnslaughtArena.vpk",
         "data": ""
     },
     {
@@ -10586,7 +10586,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1137",
+        "url": "https://web.archive.org/web/20260410193142id_/https://www.rinnegatamante.eu/files/vitadb/RSimVita.vpk",
         "data": ""
     },
     {
@@ -10616,7 +10616,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1138",
+        "url": "https://web.archive.org/web/20250224115939id_/https://www.rinnegatamante.eu/files/vitadb/genki.vpk",
         "data": ""
     },
     {
@@ -10646,7 +10646,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1139",
+        "url": "https://web.archive.org/web/20250321055446id_/https://www.rinnegatamante.eu/files/vitadb/siren_head.vpk",
         "data": ""
     },
     {
@@ -10676,7 +10676,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1141",
+        "url": "https://web.archive.org/web/20250211191352id_/https://www.rinnegatamante.eu/files/vitadb/edgar.vpk",
         "data": ""
     },
     {
@@ -10706,7 +10706,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1143",
+        "url": "https://web.archive.org/web/20250319105941id_/https://www.rinnegatamante.eu/files/vitadb/Pause.vpk",
         "data": ""
     },
     {
@@ -10736,7 +10736,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1144",
+        "url": "https://web.archive.org/web/20241231063814id_/https://www.rinnegatamante.eu/files/vitadb/Starcatcher.vpk",
         "data": ""
     },
     {
@@ -10766,7 +10766,7 @@
         "tags": "",
         "ai": "0",
         "score": "66.4",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1145",
+        "url": "https://web.archive.org/web/20240905173020id_/https://www.rinnegatamante.eu/files/vitadb/REDRIVER2.vpk",
         "data": ""
     },
     {
@@ -10826,7 +10826,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1128",
+        "url": "https://web.archive.org/web/20250214101135id_/https://www.rinnegatamante.eu/files/vitadb/fire_and_fondness.vpk",
         "data": ""
     },
     {
@@ -10856,7 +10856,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1129",
+        "url": "https://web.archive.org/web/20241228213420id_/https://www.rinnegatamante.eu/files/vitadb/fire_and_fondness_2.vpk",
         "data": ""
     },
     {
@@ -10886,7 +10886,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1125",
+        "url": "https://web.archive.org/web/20240912155627id_/https://www.rinnegatamante.eu/files/vitadb/anarch.vpk",
         "data": ""
     },
     {
@@ -10916,7 +10916,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=783",
+        "url": "https://web.archive.org/web/20240907074034id_/https://www.rinnegatamante.eu/files/vitadb/SimpleFPSplatformer.vpk",
         "data": ""
     },
     {
@@ -11156,7 +11156,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1117",
+        "url": "https://web.archive.org/web/20250312003608id_/https://www.rinnegatamante.eu/files/vitadb/jjjs.vpk",
         "data": ""
     },
     {
@@ -11186,7 +11186,7 @@
         "tags": "",
         "ai": "0",
         "score": "87.2",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1112",
+        "url": "https://web.archive.org/web/20250122093949id_/https://www.rinnegatamante.eu/files/vitadb/TWEWY.vpk",
         "data": ""
     },
     {
@@ -11216,7 +11216,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1113",
+        "url": "https://web.archive.org/web/20250210174720id_/https://www.rinnegatamante.eu/files/vitadb/pnglive.vpk",
         "data": ""
     },
     {
@@ -11246,7 +11246,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1115",
+        "url": "https://web.archive.org/web/20240905181950id_/https://www.rinnegatamante.eu/files/vitadb/Drone-Sim-Vita.vpk",
         "data": ""
     },
     {
@@ -11306,7 +11306,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1119",
+        "url": "https://web.archive.org/web/20250408174751id_/https://www.rinnegatamante.eu/files/vitadb/Techmaniac-THPG.vpk",
         "data": ""
     },
     {
@@ -11336,7 +11336,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=729",
+        "url": "https://web.archive.org/web/20250122153254id_/https://www.rinnegatamante.eu/files/vitadb/rocket_league.vpk",
         "data": ""
     },
     {
@@ -11366,7 +11366,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1109",
+        "url": "https://web.archive.org/web/20260529015345id_/https://www.rinnegatamante.eu/files/vitadb/marmalade_bunkai.vpk",
         "data": ""
     },
     {
@@ -11396,7 +11396,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1102",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/SOSR00003.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/sms3.zip"
     },
     {
@@ -11456,7 +11456,7 @@
         "tags": "",
         "ai": "0",
         "score": "56",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1098",
+        "url": "https://web.archive.org/web/20241228213421id_/https://www.rinnegatamante.eu/files/vitadb/jftekwar.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/jftekwar.zip"
     },
     {
@@ -11486,7 +11486,7 @@
         "tags": "",
         "ai": "0",
         "score": "73",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1092",
+        "url": "https://web.archive.org/web/20250329193333id_/https://www.rinnegatamante.eu/files/vitadb/Prototype.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/prototype.zip"
     },
     {
@@ -11656,7 +11656,7 @@
         "source": "https://github.com/Hydr8gon/NooDS",
         "release_page": "https://github.com/Hydr8gon/NooDS/releases",
         "trailer": "",
-        "size": "382671",
+        "size": "448153",
         "data_size": "0",
         "hash": "7e0ad6983c2f4d7947c23de5680458a1",
         "hash2": "",
@@ -11666,7 +11666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1093",
+        "url": "https://web.archive.org/web/20250122150225id_/https://files.coolatoms.org/noods.vpk",
         "data": ""
     },
     {
@@ -11696,7 +11696,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1089",
+        "url": "https://web.archive.org/web/20250224115742id_/https://www.rinnegatamante.eu/files/vitadb/ZombieDrive.vpk",
         "data": ""
     },
     {
@@ -11816,7 +11816,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1081",
+        "url": "https://web.archive.org/web/20250122203047id_/https://www.rinnegatamante.eu/files/vitadb/ANIMANCER.vpk",
         "data": ""
     },
     {
@@ -11846,7 +11846,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1080",
+        "url": "https://web.archive.org/web/20250122184318id_/https://www.rinnegatamante.eu/files/vitadb/GRIDLOCKE.vpk",
         "data": ""
     },
     {
@@ -11906,7 +11906,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1075",
+        "url": "https://web.archive.org/web/20241228213415id_/https://www.rinnegatamante.eu/files/vitadb/Jailbreaker.vpk",
         "data": ""
     },
     {
@@ -11966,7 +11966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1074",
+        "url": "https://web.archive.org/web/20241228213418id_/https://www.rinnegatamante.eu/files/vitadb/sorcerer.vpk",
         "data": ""
     },
     {
@@ -12056,7 +12056,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1076",
+        "url": "https://web.archive.org/web/20250219091415id_/https://www.rinnegatamante.eu/files/vitadb/Dome_Romantik.vpk",
         "data": ""
     },
     {
@@ -12076,7 +12076,7 @@
         "source": "https://github.com/LumenTuoma/RTDink",
         "release_page": "http://www.dinknetwork.com/forum.cgi?MID=207184&Posts=1",
         "trailer": "",
-        "size": "2830265",
+        "size": "2830604",
         "data_size": "0",
         "hash": "0ef59613ee602238b25922a8354af0cf",
         "hash2": "",
@@ -12086,7 +12086,7 @@
         "tags": "",
         "ai": "0",
         "score": "63.4",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=742",
+        "url": "https://web.archive.org/web/20241228213418id_/https://www.rinnegatamante.eu/files/vitadb/RTDink.vpk",
         "data": ""
     },
     {
@@ -12146,7 +12146,7 @@
         "tags": "",
         "ai": "0",
         "score": "75",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1069",
+        "url": "https://web.archive.org/web/20240906233754id_/https://www.rinnegatamante.eu/files/vitadb/ufoai.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/ufoai.zip"
     },
     {
@@ -12176,7 +12176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=992",
+        "url": "https://web.archive.org/web/20250703070816id_/https://www.rinnegatamante.eu/files/vitadb/call_of_vita.vpk",
         "data": ""
     },
     {
@@ -12206,7 +12206,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1210",
+        "url": "https://web.archive.org/web/20241228213415id_/https://www.rinnegatamante.eu/files/vitadb/SharkShark.vpk",
         "data": ""
     },
     {
@@ -12536,7 +12536,7 @@
         "tags": "",
         "ai": "0",
         "score": "83.3",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1052",
+        "url": "https://web.archive.org/web/20250703070737id_/https://www.rinnegatamante.eu/files/vitadb/dhewm3.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/dhewm3.zip"
     },
     {
@@ -12656,7 +12656,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=782",
+        "url": "https://web.archive.org/web/20250228133025id_/https://www.rinnegatamante.eu/files/vitadb/RedMoon.vpk",
         "data": ""
     },
     {
@@ -12746,7 +12746,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1049",
+        "url": "https://web.archive.org/web/20250122150435id_/https://www.rinnegatamante.eu/files/vitadb/2PlayersPong.vpk",
         "data": ""
     },
     {
@@ -12806,7 +12806,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1042",
+        "url": "https://web.archive.org/web/20250122184655id_/https://www.rinnegatamante.eu/files/vitadb/Sculptor.vpk",
         "data": ""
     },
     {
@@ -12836,7 +12836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1043",
+        "url": "https://web.archive.org/web/20250329182556id_/https://www.rinnegatamante.eu/files/vitadb/candy.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/CandyCrisisResources.zip"
     },
     {
@@ -12896,7 +12896,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1041",
+        "url": "https://web.archive.org/web/20240907082119id_/https://www.rinnegatamante.eu/files/vitadb/cut_the_rope.vpk",
         "data": ""
     },
     {
@@ -13106,7 +13106,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=73",
+        "url": "https://web.archive.org/web/20250207102335id_/https://www.rinnegatamante.eu/files/vitadb/tema.vpk",
         "data": ""
     },
     {
@@ -13256,7 +13256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1031",
+        "url": "https://web.archive.org/web/20241231063804id_/https://www.rinnegatamante.eu/files/vitadb/not_trust.vpk",
         "data": ""
     },
     {
@@ -13316,7 +13316,7 @@
         "tags": "",
         "ai": "0",
         "score": "87.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=716",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/quakespasm.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Quakespasm.zip"
     },
     {
@@ -13346,7 +13346,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1024",
+        "url": "https://web.archive.org/web/20240915120920id_/https://www.rinnegatamante.eu/files/vitadb/smbclient.vpk",
         "data": ""
     },
     {
@@ -13406,7 +13406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1027",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/sanicball.vpk",
         "data": ""
     },
     {
@@ -13466,7 +13466,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1026",
+        "url": "https://web.archive.org/web/20250308090514id_/https://www.rinnegatamante.eu/files/vitadb/sunshine.vpk",
         "data": ""
     },
     {
@@ -13496,7 +13496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1025",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/webdavclient.vpk",
         "data": ""
     },
     {
@@ -13556,7 +13556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=817",
+        "url": "https://web.archive.org/web/20250703070829id_/https://www.rinnegatamante.eu/files/vitadb/ftpclient.vpk",
         "data": ""
     },
     {
@@ -13616,7 +13616,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1057",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/sample_avplayer.vpk",
         "data": ""
     },
     {
@@ -13736,7 +13736,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=583",
+        "url": "https://web.archive.org/web/20250122194922id_/https://www.rinnegatamante.eu/files/vitadb/launcher.vpk",
         "data": ""
     },
     {
@@ -13946,7 +13946,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=605",
+        "url": "https://web.archive.org/web/20241231063809id_/https://www.rinnegatamante.eu/files/vitadb/flycast.vpk",
         "data": ""
     },
     {
@@ -14036,7 +14036,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=798",
+        "url": "https://web.archive.org/web/20250130165107id_/https://www.rinnegatamante.eu/files/vitadb/UniPCemu.vpk",
         "data": ""
     },
     {
@@ -14096,7 +14096,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=991",
+        "url": "https://web.archive.org/web/20240910091411id_/https://www.rinnegatamante.eu/files/vitadb/got.vpk",
         "data": ""
     },
     {
@@ -14126,7 +14126,7 @@
         "tags": "",
         "ai": "0",
         "score": "71.1",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=988",
+        "url": "https://web.archive.org/web/20250122185357id_/https://www.rinnegatamante.eu/files/vitadb/duke2.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/rigel.zip"
     },
     {
@@ -14216,7 +14216,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.7",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=881",
+        "url": "https://web.archive.org/web/20250212162442id_/https://www.rinnegatamante.eu/files/vitadb/Doom64EX.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Doom64EX.zip"
     },
     {
@@ -14246,7 +14246,7 @@
         "tags": "",
         "ai": "0",
         "score": "64.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=880",
+        "url": "https://web.archive.org/web/20241231063809id_/https://www.rinnegatamante.eu/files/vitadb/slender8.vpk",
         "data": ""
     },
     {
@@ -14306,7 +14306,7 @@
         "tags": "",
         "ai": "0",
         "score": "71",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=879",
+        "url": "https://web.archive.org/web/20260216121322id_/https://www.rinnegatamante.eu/files/vitadb/fsnrnue.vpk",
         "data": ""
     },
     {
@@ -14336,7 +14336,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=821",
+        "url": "https://web.archive.org/web/20241231063813id_/https://www.rinnegatamante.eu/files/vitadb/Backrooms.vpk",
         "data": ""
     },
     {
@@ -14456,7 +14456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=850",
+        "url": "https://web.archive.org/web/20250804225107id_/https://www.rinnegatamante.eu/files/vitadb/CrossCraft-SurvivalTest.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/CrossCraftST.zip"
     },
     {
@@ -14486,7 +14486,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=874",
+        "url": "https://web.archive.org/web/20250207155747id_/https://www.rinnegatamante.eu/files/vitadb/neverputt.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Neverputt-dev.zip"
     },
     {
@@ -14546,7 +14546,7 @@
         "tags": "",
         "ai": "0",
         "score": "67",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=862",
+        "url": "https://web.archive.org/web/20250329185957id_/https://www.rinnegatamante.eu/files/vitadb/Linne.vpk",
         "data": ""
     },
     {
@@ -14576,7 +14576,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=859",
+        "url": "https://web.archive.org/web/20250122145451id_/https://www.rinnegatamante.eu/files/vitadb/fnaf4.vpk",
         "data": ""
     },
     {
@@ -14606,7 +14606,7 @@
         "tags": "",
         "ai": "0",
         "score": "85",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=855",
+        "url": "https://web.archive.org/web/20250209182422id_/https://www.rinnegatamante.eu/files/vitadb/Wordle.vpk",
         "data": ""
     },
     {
@@ -14666,7 +14666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=851",
+        "url": "https://web.archive.org/web/20240905195535id_/https://www.rinnegatamante.eu/files/vitadb/Nanosaur.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Nanosaur.zip"
     },
     {
@@ -14726,7 +14726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=848",
+        "url": "https://web.archive.org/web/20250130091938id_/https://www.rinnegatamante.eu/files/vitadb/CrossCraft-Classic.vpk",
         "data": ""
     },
     {
@@ -14756,7 +14756,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=849",
+        "url": "https://web.archive.org/web/20241228213421id_/https://www.rinnegatamante.eu/files/vitadb/there_demo.vpk",
         "data": ""
     },
     {
@@ -14786,7 +14786,7 @@
         "tags": "",
         "ai": "0",
         "score": "74",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=844",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/pako.vpk",
         "data": ""
     },
     {
@@ -14966,7 +14966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=836",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/SonicTimeTwisted.vpk",
         "data": ""
     },
     {
@@ -15026,7 +15026,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=837",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/ONScripter-Vita.vpk",
         "data": ""
     },
     {
@@ -15056,7 +15056,7 @@
         "tags": "",
         "ai": "0",
         "score": "80",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=833",
+        "url": "https://web.archive.org/web/20250130122647id_/https://www.rinnegatamante.eu/files/vitadb/Vita_First_Sight.vpk",
         "data": ""
     },
     {
@@ -15236,7 +15236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=816",
+        "url": "https://web.archive.org/web/20250122151314id_/https://www.rinnegatamante.eu/files/vitadb/Tic-Tac-Toe.vpk",
         "data": ""
     },
     {
@@ -15716,7 +15716,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=803",
+        "url": "https://web.archive.org/web/20250130154252id_/https://www.rinnegatamante.eu/files/vitadb/supra.vpk",
         "data": ""
     },
     {
@@ -15746,7 +15746,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=807",
+        "url": "https://web.archive.org/web/20250415140028id_/https://www.rinnegatamante.eu/files/vitadb/dontopen.vpk",
         "data": ""
     },
     {
@@ -15806,7 +15806,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=675",
+        "url": "https://web.archive.org/web/20250618030706id_/https://www.rinnegatamante.eu/files/vitadb/RollyPoly.vpk",
         "data": ""
     },
     {
@@ -15836,7 +15836,7 @@
         "tags": "",
         "ai": "0",
         "score": "69",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=808",
+        "url": "https://web.archive.org/web/20241231063807id_/https://www.rinnegatamante.eu/files/vitadb/8BB.vpk",
         "data": ""
     },
     {
@@ -15926,7 +15926,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=796",
+        "url": "https://web.archive.org/web/20240910050513id_/https://www.rinnegatamante.eu/files/vitadb/MVPLAYER0.vpk",
         "data": ""
     },
     {
@@ -15956,7 +15956,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=805",
+        "url": "https://web.archive.org/web/20250321005811id_/https://www.rinnegatamante.eu/files/vitadb/UndeadSlayer.vpk",
         "data": ""
     },
     {
@@ -15986,7 +15986,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=794",
+        "url": "https://web.archive.org/web/20250313011947id_/https://www.rinnegatamante.eu/files/vitadb/EverybodyBubbles.vpk",
         "data": ""
     },
     {
@@ -16016,7 +16016,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=392",
+        "url": "https://web.archive.org/web/20250216101753id_/https://www.rinnegatamante.eu/files/vitadb/PiCrest.vpk",
         "data": ""
     },
     {
@@ -16076,7 +16076,7 @@
         "tags": "",
         "ai": "0",
         "score": "74.6",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=790",
+        "url": "https://web.archive.org/web/20250122151736id_/https://www.rinnegatamante.eu/files/vitadb/Vita_Milk.vpk",
         "data": ""
     },
     {
@@ -16106,7 +16106,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=856",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/fnaf-2-vita.vpk",
         "data": ""
     },
     {
@@ -16136,7 +16136,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=788",
+        "url": "https://web.archive.org/web/20250122144117id_/https://www.rinnegatamante.eu/files/vitadb/nKaruga.vpk",
         "data": ""
     },
     {
@@ -16196,7 +16196,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=786",
+        "url": "https://web.archive.org/web/20250618030829id_/https://www.rinnegatamante.eu/files/vitadb/Contrast.vpk",
         "data": ""
     },
     {
@@ -16226,7 +16226,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=801",
+        "url": "https://web.archive.org/web/20251016031419id_/https://www.rinnegatamante.eu/files/vitadb/boris-and-the-dark-survival.vpk",
         "data": ""
     },
     {
@@ -16256,7 +16256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=609",
+        "url": "https://web.archive.org/web/20250214091053id_/https://www.rinnegatamante.eu/files/vitadb/freegemas.vpk",
         "data": ""
     },
     {
@@ -16286,7 +16286,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=784",
+        "url": "https://web.archive.org/web/20250618032102id_/https://www.rinnegatamante.eu/files/vitadb/Issyos.vpk",
         "data": ""
     },
     {
@@ -16316,7 +16316,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=781",
+        "url": "https://web.archive.org/web/20250122143955id_/https://www.rinnegatamante.eu/files/vitadb/EarthProtect.vpk",
         "data": ""
     },
     {
@@ -16646,7 +16646,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=772",
+        "url": "https://web.archive.org/web/20241228213420id_/https://www.rinnegatamante.eu/files/vitadb/Innyume.6.vpk",
         "data": ""
     },
     {
@@ -16676,7 +16676,7 @@
         "tags": "",
         "ai": "0",
         "score": "25.6",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=770",
+        "url": "https://web.archive.org/web/20250306134507id_/https://www.rinnegatamante.eu/files/vitadb/PlumbersDontWearTies.vpk",
         "data": ""
     },
     {
@@ -16856,7 +16856,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=767",
+        "url": "https://web.archive.org/web/20250214090137id_/https://www.rinnegatamante.eu/files/vitadb/GoingNowhere.vpk",
         "data": ""
     },
     {
@@ -16916,7 +16916,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=838",
+        "url": "https://web.archive.org/web/20241228213418id_/https://www.rinnegatamante.eu/files/vitadb/jinyong-legend.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/jinyong-legend.zip"
     },
     {
@@ -16976,7 +16976,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=759",
+        "url": "https://web.archive.org/web/20250130133642id_/https://www.rinnegatamante.eu/files/vitadb/VeryObscureSoulsD.vpk",
         "data": ""
     },
     {
@@ -17066,7 +17066,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=755",
+        "url": "https://web.archive.org/web/20250223104445id_/https://www.rinnegatamante.eu/files/vitadb/Beginning_of_the_end.vpk",
         "data": ""
     },
     {
@@ -17096,7 +17096,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=551",
+        "url": "https://web.archive.org/web/20250804225105id_/https://www.rinnegatamante.eu/files/vitadb/TemporarySpace.vpk",
         "data": ""
     },
     {
@@ -17126,7 +17126,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=603",
+        "url": "https://web.archive.org/web/20250409173035id_/https://www.rinnegatamante.eu/files/vitadb/tspace2.vpk",
         "data": ""
     },
     {
@@ -17456,7 +17456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=741",
+        "url": "https://web.archive.org/web/20240910215137id_/https://www.rinnegatamante.eu/files/vitadb/dzzee.vpk",
         "data": ""
     },
     {
@@ -17786,7 +17786,7 @@
         "tags": "",
         "ai": "0",
         "score": "75.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=705",
+        "url": "https://web.archive.org/web/20251013065940id_/https://www.rinnegatamante.eu/files/vitadb/jfsw.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/jfsw.zip"
     },
     {
@@ -17906,7 +17906,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=722",
+        "url": "https://web.archive.org/web/20250130112743id_/https://www.rinnegatamante.eu/files/vitadb/Mobility.vpk",
         "data": ""
     },
     {
@@ -17936,7 +17936,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=723",
+        "url": "https://web.archive.org/web/20241228213418id_/https://www.rinnegatamante.eu/files/vitadb/Resurgent_fr.vpk",
         "data": ""
     },
     {
@@ -17966,7 +17966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=719",
+        "url": "https://web.archive.org/web/20250618031410id_/https://www.rinnegatamante.eu/files/vitadb/JetMan-3D.vpk",
         "data": ""
     },
     {
@@ -17996,7 +17996,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=718",
+        "url": "https://web.archive.org/web/20250130144333id_/https://www.rinnegatamante.eu/files/vitadb/Resurgent.vpk",
         "data": ""
     },
     {
@@ -18146,7 +18146,7 @@
         "tags": "",
         "ai": "0",
         "score": "84.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=711",
+        "url": "https://web.archive.org/web/20250122183317id_/https://www.rinnegatamante.eu/files/vitadb/jfduke3d.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/jfduke3d.zip"
     },
     {
@@ -18206,7 +18206,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=706",
+        "url": "https://web.archive.org/web/20250329194032id_/https://www.rinnegatamante.eu/files/vitadb/vbanim.vpk",
         "data": ""
     },
     {
@@ -18236,7 +18236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=704",
+        "url": "https://web.archive.org/web/20241231063806id_/https://www.rinnegatamante.eu/files/vitadb/loonies8192.vpk",
         "data": ""
     },
     {
@@ -18266,7 +18266,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=680",
+        "url": "https://web.archive.org/web/20240910115515id_/https://www.rinnegatamante.eu/files/vitadb/SillyTower.vpk",
         "data": ""
     },
     {
@@ -18296,7 +18296,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=701",
+        "url": "https://web.archive.org/web/20250122200007id_/https://www.rinnegatamante.eu/files/vitadb/BatteryAlarm.vpk",
         "data": ""
     },
     {
@@ -18326,7 +18326,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=594",
+        "url": "https://web.archive.org/web/20250307183121id_/https://www.rinnegatamante.eu/files/vitadb/DarkParadigm.vpk",
         "data": ""
     },
     {
@@ -18356,7 +18356,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=689",
+        "url": "https://web.archive.org/web/20240909223003id_/https://www.rinnegatamante.eu/files/vitadb/RealWaitingSim.vpk",
         "data": ""
     },
     {
@@ -18386,7 +18386,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=691",
+        "url": "https://web.archive.org/web/20250130125417id_/https://www.rinnegatamante.eu/files/vitadb/wonkeyadventures.vpk",
         "data": ""
     },
     {
@@ -18416,7 +18416,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=692",
+        "url": "https://web.archive.org/web/20260801075909id_/https://www.rinnegatamante.eu/files/vitadb/happyblocks.vpk",
         "data": ""
     },
     {
@@ -18446,7 +18446,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=693",
+        "url": "https://web.archive.org/web/20250122193319id_/https://www.rinnegatamante.eu/files/vitadb/BoxingGirl.vpk",
         "data": ""
     },
     {
@@ -18506,7 +18506,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=695",
+        "url": "https://web.archive.org/web/20250703070805id_/https://www.rinnegatamante.eu/files/vitadb/crabisland.vpk",
         "data": ""
     },
     {
@@ -18536,7 +18536,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=696",
+        "url": "https://web.archive.org/web/20250122151401id_/https://www.rinnegatamante.eu/files/vitadb/vitaman.vpk",
         "data": ""
     },
     {
@@ -18566,7 +18566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=688",
+        "url": "https://web.archive.org/web/20250303203948id_/https://www.rinnegatamante.eu/files/vitadb/GuessIt.vpk",
         "data": ""
     },
     {
@@ -18626,7 +18626,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=678",
+        "url": "https://web.archive.org/web/20250804225308id_/https://www.rinnegatamante.eu/files/vitadb/TreasureChasers.vpk",
         "data": ""
     },
     {
@@ -18656,7 +18656,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=679",
+        "url": "https://web.archive.org/web/20250216103533id_/https://www.rinnegatamante.eu/files/vitadb/DemonsDown.vpk",
         "data": ""
     },
     {
@@ -18686,7 +18686,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=681",
+        "url": "https://web.archive.org/web/20250304085913id_/https://www.rinnegatamante.eu/files/vitadb/ArsPoetica.vpk",
         "data": ""
     },
     {
@@ -18716,7 +18716,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=682",
+        "url": "https://web.archive.org/web/20250122184530id_/https://www.rinnegatamante.eu/files/vitadb/HaveAGoodOne.vpk",
         "data": ""
     },
     {
@@ -18746,7 +18746,7 @@
         "tags": "",
         "ai": "0",
         "score": "74",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=683",
+        "url": "https://web.archive.org/web/20250703070803id_/https://www.rinnegatamante.eu/files/vitadb/LOVE.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/LOVE_PatchFiles.zip"
     },
     {
@@ -18776,7 +18776,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=684",
+        "url": "https://web.archive.org/web/20250130171617id_/https://www.rinnegatamante.eu/files/vitadb/MIRROR.vpk",
         "data": ""
     },
     {
@@ -18806,7 +18806,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=685",
+        "url": "https://web.archive.org/web/20250215170126id_/https://www.rinnegatamante.eu/files/vitadb/XUMP00001.vpk",
         "data": ""
     },
     {
@@ -18836,7 +18836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=686",
+        "url": "https://web.archive.org/web/20250804225300id_/https://www.rinnegatamante.eu/files/vitadb/WTFDIGTS.vpk",
         "data": ""
     },
     {
@@ -18866,7 +18866,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=687",
+        "url": "https://web.archive.org/web/20250122184527id_/https://www.rinnegatamante.eu/files/vitadb/trex.vpk",
         "data": ""
     },
     {
@@ -18956,7 +18956,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=672",
+        "url": "https://web.archive.org/web/20250703070727id_/https://www.rinnegatamante.eu/files/vitadb/thrustshot.vpk",
         "data": ""
     },
     {
@@ -19016,7 +19016,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=673",
+        "url": "https://web.archive.org/web/20260510010937id_/https://www.rinnegatamante.eu/files/vitadb/AngelCollide.vpk",
         "data": ""
     },
     {
@@ -19076,7 +19076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=665",
+        "url": "https://web.archive.org/web/20250323001218id_/https://www.rinnegatamante.eu/files/vitadb/BrainSplitter.vpk",
         "data": ""
     },
     {
@@ -19106,7 +19106,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=668",
+        "url": "https://web.archive.org/web/20241231063810id_/https://www.rinnegatamante.eu/files/vitadb/STHV.vpk",
         "data": ""
     },
     {
@@ -19166,7 +19166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=662",
+        "url": "https://web.archive.org/web/20250207232353id_/https://www.rinnegatamante.eu/files/vitadb/rebuilt.vpk",
         "data": ""
     },
     {
@@ -19196,7 +19196,7 @@
         "tags": "",
         "ai": "0",
         "score": "70.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=657",
+        "url": "https://web.archive.org/web/20250209210622id_/https://www.rinnegatamante.eu/files/vitadb/FranBowChapter3.vpk",
         "data": ""
     },
     {
@@ -19256,7 +19256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=648",
+        "url": "https://web.archive.org/web/20250321024653id_/https://www.rinnegatamante.eu/files/vitadb/Pocket_Wonder_Sport.vpk",
         "data": ""
     },
     {
@@ -19316,7 +19316,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.7",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=638",
+        "url": "https://web.archive.org/web/20250221092633id_/https://www.rinnegatamante.eu/files/vitadb/Minit.vpk",
         "data": ""
     },
     {
@@ -19346,7 +19346,7 @@
         "tags": "",
         "ai": "0",
         "score": "70.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=641",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/FranBowChapter2.vpk",
         "data": ""
     },
     {
@@ -19436,7 +19436,7 @@
         "tags": "",
         "ai": "0",
         "score": "70",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=639",
+        "url": "https://web.archive.org/web/20250618031421id_/https://www.rinnegatamante.eu/files/vitadb/FranBowChapter1.vpk",
         "data": ""
     },
     {
@@ -19466,7 +19466,7 @@
         "tags": "",
         "ai": "0",
         "score": "73",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=640",
+        "url": "https://web.archive.org/web/20250212162111id_/https://www.rinnegatamante.eu/files/vitadb/PleaseDontTouchAnything.vpk",
         "data": ""
     },
     {
@@ -19496,7 +19496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=637",
+        "url": "https://web.archive.org/web/20250122190451id_/https://www.rinnegatamante.eu/files/vitadb/PanComOS.vpk",
         "data": ""
     },
     {
@@ -19556,7 +19556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=634",
+        "url": "https://web.archive.org/web/20250305213324id_/https://www.rinnegatamante.eu/files/vitadb/WeAreBroken.vpk",
         "data": ""
     },
     {
@@ -19586,7 +19586,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=631",
+        "url": "https://web.archive.org/web/20250416120420id_/https://www.rinnegatamante.eu/files/vitadb/Zen_Art_Transhumanism.vpk",
         "data": ""
     },
     {
@@ -19646,7 +19646,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=628",
+        "url": "https://web.archive.org/web/20250211075300id_/https://www.rinnegatamante.eu/files/vitadb/King-of-Machines.vpk",
         "data": ""
     },
     {
@@ -19706,7 +19706,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=627",
+        "url": "https://web.archive.org/web/20250228115526id_/https://www.rinnegatamante.eu/files/vitadb/Roguelight.vpk",
         "data": ""
     },
     {
@@ -19736,7 +19736,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=624",
+        "url": "https://web.archive.org/web/20241231063809id_/https://www.rinnegatamante.eu/files/vitadb/Behind_Every_Great_One.vpk",
         "data": ""
     },
     {
@@ -19766,7 +19766,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=622",
+        "url": "https://web.archive.org/web/20241228213418id_/https://www.rinnegatamante.eu/files/vitadb/Torn.vpk",
         "data": ""
     },
     {
@@ -19856,7 +19856,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=620",
+        "url": "https://web.archive.org/web/20250618031228id_/https://www.rinnegatamante.eu/files/vitadb/FNaFVita.vpk",
         "data": ""
     },
     {
@@ -19886,7 +19886,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=619",
+        "url": "https://web.archive.org/web/20241231063814id_/https://www.rinnegatamante.eu/files/vitadb/PSV_IDPS_Dumper.vpk",
         "data": ""
     },
     {
@@ -19946,7 +19946,7 @@
         "tags": "",
         "ai": "0",
         "score": "82",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=617",
+        "url": "https://web.archive.org/web/20250311184705id_/https://www.rinnegatamante.eu/files/vitadb/hurrican.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/hurrican.zip"
     },
     {
@@ -20006,7 +20006,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=613",
+        "url": "https://web.archive.org/web/20250703070740id_/https://www.rinnegatamante.eu/files/vitadb/LapyGC.vpk",
         "data": ""
     },
     {
@@ -20156,7 +20156,7 @@
         "tags": "",
         "ai": "0",
         "score": "79",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=271",
+        "url": "https://web.archive.org/web/20250703070747id_/https://www.rinnegatamante.eu/files/vitadb/Higurashi-Vita.vpk",
         "data": ""
     },
     {
@@ -20186,7 +20186,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=606",
+        "url": "https://web.archive.org/web/20251013071516id_/https://www.rinnegatamante.eu/files/vitadb/Grave.vpk",
         "data": ""
     },
     {
@@ -20266,7 +20266,7 @@
         "source": "https://github.com/libretro/retroarch",
         "release_page": "https://buildbot.libretro.com/nightly/playstation/vita/",
         "trailer": "",
-        "size": "288812508",
+        "size": "487257047",
         "data_size": "79694008",
         "hash": "f4d308b959e53adfbf643a6c308cddbd",
         "hash2": "",
@@ -20276,7 +20276,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=186",
+        "url": "https://web.archive.org/web/20250207153406id_/https://files.coolatoms.org/retroarch.vpk",
         "data": "https://files.coolatoms.org/retroarch-data.zip"
     },
     {
@@ -20306,7 +20306,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=555",
+        "url": "https://web.archive.org/web/20240907032043id_/https://www.rinnegatamante.eu/files/vitadb/SuperConsoleWars.vpk",
         "data": ""
     },
     {
@@ -20366,7 +20366,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=602",
+        "url": "https://web.archive.org/web/20250323005845id_/https://www.rinnegatamante.eu/files/vitadb/Tropical_Zone.vpk",
         "data": ""
     },
     {
@@ -20396,7 +20396,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=325",
+        "url": "https://web.archive.org/web/20250219085926id_/https://www.rinnegatamante.eu/files/vitadb/VitaBrot.vpk",
         "data": ""
     },
     {
@@ -20516,7 +20516,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=598",
+        "url": "https://web.archive.org/web/20241231063815id_/https://www.rinnegatamante.eu/files/vitadb/trainsliveldn.vpk",
         "data": ""
     },
     {
@@ -20546,7 +20546,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=383",
+        "url": "https://web.archive.org/web/20241231063812id_/https://www.rinnegatamante.eu/files/vitadb/DstroyVita.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/dstroydata.zip"
     },
     {
@@ -20576,7 +20576,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=411",
+        "url": "https://web.archive.org/web/20250130152301id_/https://www.rinnegatamante.eu/files/vitadb/meritous.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/meritous.zip"
     },
     {
@@ -20606,7 +20606,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=422",
+        "url": "https://web.archive.org/web/20240910230220id_/https://www.rinnegatamante.eu/files/vitadb/SuperMarioWar.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/smw.zip"
     },
     {
@@ -20666,7 +20666,7 @@
         "tags": "",
         "ai": "0",
         "score": "86",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=278",
+        "url": "https://web.archive.org/web/20250219091351id_/https://www.rinnegatamante.eu/files/vitadb/vitaQuakeII.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/13/quake2.zip"
     },
     {
@@ -20726,7 +20726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=434",
+        "url": "https://web.archive.org/web/20250207112104id_/https://www.rinnegatamante.eu/files/vitadb/MSweep.vpk",
         "data": ""
     },
     {
@@ -20786,7 +20786,7 @@
         "tags": "",
         "ai": "0",
         "score": "85",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=377",
+        "url": "https://web.archive.org/web/20250307201126id_/https://www.rinnegatamante.eu/files/vitadb/ChocolateDoom.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/chocolate.zip"
     },
     {
@@ -20846,7 +20846,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=410",
+        "url": "https://web.archive.org/web/20250210181901id_/https://www.rinnegatamante.eu/files/vitadb/13/OpenBOR.vpk",
         "data": ""
     },
     {
@@ -20936,7 +20936,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=581",
+        "url": "https://web.archive.org/web/20250703070745id_/https://www.rinnegatamante.eu/files/vitadb/X-Racer.vpk",
         "data": ""
     },
     {
@@ -20966,7 +20966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=562",
+        "url": "https://web.archive.org/web/20250122194927id_/https://www.rinnegatamante.eu/files/vitadb/NedoKun.vpk",
         "data": ""
     },
     {
@@ -21056,7 +21056,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=428",
+        "url": "https://web.archive.org/web/20250804225245id_/https://www.rinnegatamante.eu/files/vitadb/TheHallway.vpk",
         "data": ""
     },
     {
@@ -21176,7 +21176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=575",
+        "url": "https://web.archive.org/web/20250221170958id_/https://www.rinnegatamante.eu/files/vitadb/VitaStacks.vpk",
         "data": ""
     },
     {
@@ -21206,7 +21206,7 @@
         "tags": "",
         "ai": "0",
         "score": "80",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=573",
+        "url": "https://web.archive.org/web/20241231063806id_/https://www.rinnegatamante.eu/files/vitadb/BaldisBasics.vpk",
         "data": ""
     },
     {
@@ -21266,7 +21266,7 @@
         "tags": "",
         "ai": "0",
         "score": "76.7",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=569",
+        "url": "https://web.archive.org/web/20250214161101id_/https://www.rinnegatamante.eu/files/vitadb/avp.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/AvP.zip"
     },
     {
@@ -21296,7 +21296,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=50",
+        "url": "https://web.archive.org/web/20250122203022id_/https://www.rinnegatamante.eu/files/vitadb/VitaPad.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/VitaPad.zip"
     },
     {
@@ -21326,7 +21326,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=576",
+        "url": "https://web.archive.org/web/20241231063807id_/https://www.rinnegatamante.eu/files/vitadb/Ronister.vpk",
         "data": ""
     },
     {
@@ -21416,7 +21416,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=564",
+        "url": "https://web.archive.org/web/20260510010934id_/https://www.rinnegatamante.eu/files/vitadb/Caterpillars.vpk",
         "data": ""
     },
     {
@@ -21536,7 +21536,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=559",
+        "url": "https://web.archive.org/web/20250130125402id_/https://www.rinnegatamante.eu/files/vitadb/Terri-Fried.vpk",
         "data": ""
     },
     {
@@ -21566,7 +21566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=440",
+        "url": "https://web.archive.org/web/20250221150850id_/https://www.rinnegatamante.eu/files/vitadb/easyplugin.vpk",
         "data": ""
     },
     {
@@ -21656,7 +21656,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=556",
+        "url": "https://web.archive.org/web/20250122184527id_/https://www.rinnegatamante.eu/files/vitadb/NanospeedGamer.vpk",
         "data": ""
     },
     {
@@ -21746,7 +21746,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=645",
+        "url": "https://web.archive.org/web/20240907055242id_/https://www.rinnegatamante.eu/files/vitadb/BitCliker.vpk",
         "data": ""
     },
     {
@@ -22016,7 +22016,7 @@
         "tags": "",
         "ai": "0",
         "score": "73.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=196",
+        "url": "https://web.archive.org/web/20250414082708id_/https://www.rinnegatamante.eu/files/vitadb/13/vitaHexenII.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/vitaHexenII_data.zip"
     },
     {
@@ -22076,7 +22076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=540",
+        "url": "https://web.archive.org/web/20250226114404id_/https://www.rinnegatamante.eu/files/vitadb/FrozenEngine%20Vita.vpk",
         "data": ""
     },
     {
@@ -22106,7 +22106,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=539",
+        "url": "https://web.archive.org/web/20250703070811id_/https://www.rinnegatamante.eu/files/vitadb/Rubiks%20cube%20solver.vpk",
         "data": ""
     },
     {
@@ -22136,7 +22136,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=468",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/13/VitaFighters.vpk",
         "data": ""
     },
     {
@@ -22166,7 +22166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=535",
+        "url": "https://web.archive.org/web/20250618031409id_/https://www.rinnegatamante.eu/files/vitadb/Vita%20Timer.vpk",
         "data": ""
     },
     {
@@ -22226,7 +22226,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=765",
+        "url": "https://web.archive.org/web/20240910211027id_/https://www.rinnegatamante.eu/files/vitadb/BricoLaika.vpk",
         "data": ""
     },
     {
@@ -22256,7 +22256,7 @@
         "tags": "",
         "ai": "0",
         "score": "75.2",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=533",
+        "url": "https://web.archive.org/web/20251016030755id_/https://www.rinnegatamante.eu/files/vitadb/vitaExhumed.vpk",
         "data": ""
     },
     {
@@ -22286,7 +22286,7 @@
         "tags": "",
         "ai": "0",
         "score": "70.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=436",
+        "url": "https://web.archive.org/web/20250320000039id_/https://www.rinnegatamante.eu/files/vitadb/13/NRedneck.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/13/NRedneck.zip"
     },
     {
@@ -22346,7 +22346,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=529",
+        "url": "https://web.archive.org/web/20250122112111id_/https://www.rinnegatamante.eu/files/vitadb/v-cube.vpk",
         "data": ""
     },
     {
@@ -22406,7 +22406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=400",
+        "url": "https://web.archive.org/web/20250122144227id_/https://www.rinnegatamante.eu/files/vitadb/13/VitaGrafixConfigurator.vpk",
         "data": ""
     },
     {
@@ -22436,7 +22436,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=523",
+        "url": "https://web.archive.org/web/20240910173552id_/https://www.rinnegatamante.eu/files/vitadb/Deadly%20Hallows.vpk",
         "data": ""
     },
     {
@@ -22466,7 +22466,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=522",
+        "url": "https://web.archive.org/web/20260520154214id_/https://www.rinnegatamante.eu/files/vitadb/HyperPrincessPitch-Vita.vpk",
         "data": ""
     },
     {
@@ -22496,7 +22496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=519",
+        "url": "https://web.archive.org/web/20250305212433id_/https://www.rinnegatamante.eu/files/vitadb/BitBot-Runners.vpk",
         "data": ""
     },
     {
@@ -22526,7 +22526,7 @@
         "tags": "",
         "ai": "0",
         "score": "73.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=516",
+        "url": "https://web.archive.org/web/20250122155105id_/https://www.rinnegatamante.eu/files/vitadb/SuperCrateMod-Vita.VPK",
         "data": ""
     },
     {
@@ -22556,7 +22556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=514",
+        "url": "https://web.archive.org/web/20250308093853id_/https://www.rinnegatamante.eu/files/vitadb/Bot-R.vpk",
         "data": ""
     },
     {
@@ -22616,7 +22616,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=513",
+        "url": "https://web.archive.org/web/20250122152647id_/https://www.rinnegatamante.eu/files/vitadb/asteroidsvh.VPK",
         "data": ""
     },
     {
@@ -22676,7 +22676,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=456",
+        "url": "https://web.archive.org/web/20250306101357id_/https://www.rinnegatamante.eu/files/vitadb/13/DooM_Vita.vpk",
         "data": ""
     },
     {
@@ -22796,7 +22796,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=510",
+        "url": "https://web.archive.org/web/20241231063800id_/https://www.rinnegatamante.eu/files/vitadb/NarutoBoruto.vpk",
         "data": ""
     },
     {
@@ -22826,7 +22826,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=507",
+        "url": "https://web.archive.org/web/20250122151207id_/https://www.rinnegatamante.eu/files/vitadb/birdunity.vpk",
         "data": ""
     },
     {
@@ -22856,7 +22856,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=352",
+        "url": "https://web.archive.org/web/20240907032528id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/sdlpal.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/sdlpal.zip"
     },
     {
@@ -22886,7 +22886,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=506",
+        "url": "https://web.archive.org/web/20250122144334id_/https://www.rinnegatamante.eu/files/vitadb/The%20lost%20catacomb.vpk",
         "data": ""
     },
     {
@@ -22916,7 +22916,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=505",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/Beat%20Master.vpk",
         "data": ""
     },
     {
@@ -22946,7 +22946,7 @@
         "tags": "",
         "ai": "0",
         "score": "84.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=397",
+        "url": "https://web.archive.org/web/20241231063816id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/EDuke32.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/EDuke32.zip"
     },
     {
@@ -23066,7 +23066,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=503",
+        "url": "https://web.archive.org/web/20240913234212id_/https://www.rinnegatamante.eu/files/vitadb/BrickRace.vpk",
         "data": ""
     },
     {
@@ -23126,7 +23126,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=636",
+        "url": "https://web.archive.org/web/20250226105109id_/https://www.rinnegatamante.eu/files/vitadb/XRACER.vpk",
         "data": ""
     },
     {
@@ -23156,7 +23156,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=499",
+        "url": "https://web.archive.org/web/20250130153152id_/https://www.rinnegatamante.eu/files/vitadb/Jump%20Jump.vpk",
         "data": ""
     },
     {
@@ -23186,7 +23186,7 @@
         "tags": "",
         "ai": "0",
         "score": "71.1",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=393",
+        "url": "https://web.archive.org/web/20240910094019id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/bstone.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/bstone.zip"
     },
     {
@@ -23216,7 +23216,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=500",
+        "url": "https://web.archive.org/web/20250122155055id_/https://www.rinnegatamante.eu/files/vitadb/PSM_Manager.vpk",
         "data": ""
     },
     {
@@ -23246,7 +23246,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=498",
+        "url": "https://web.archive.org/web/20250215180045id_/https://www.rinnegatamante.eu/files/vitadb/RFLM.vpk",
         "data": ""
     },
     {
@@ -23276,7 +23276,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=496",
+        "url": "https://web.archive.org/web/20240914144127id_/https://www.rinnegatamante.eu/files/vitadb/OC029.vpk",
         "data": ""
     },
     {
@@ -23336,7 +23336,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=447",
+        "url": "https://web.archive.org/web/20250214091702id_/https://www.rinnegatamante.eu/files/vitadb/ElevenMPV.vpk",
         "data": ""
     },
     {
@@ -23366,7 +23366,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=489",
+        "url": "https://web.archive.org/web/20240910044854id_/https://www.rinnegatamante.eu/files/vitadb/quiz.vpk",
         "data": ""
     },
     {
@@ -23426,7 +23426,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=486",
+        "url": "https://web.archive.org/web/20250618032049id_/https://www.rinnegatamante.eu/files/vitadb/Wild%20Gunman.vpk",
         "data": ""
     },
     {
@@ -23456,7 +23456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=83",
+        "url": "https://web.archive.org/web/20250122203409id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/Resident_Evil_CODE_Vita.vpk",
         "data": ""
     },
     {
@@ -23486,7 +23486,7 @@
         "tags": "",
         "ai": "0",
         "score": "76.1",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=484",
+        "url": "https://web.archive.org/web/20250703070823id_/https://www.rinnegatamante.eu/files/vitadb/TTER.vpk",
         "data": ""
     },
     {
@@ -23516,7 +23516,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=483",
+        "url": "https://web.archive.org/web/20250215162404id_/https://www.rinnegatamante.eu/files/vitadb/Duck%20Hunt%20Remake.vpk",
         "data": ""
     },
     {
@@ -23546,7 +23546,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=480",
+        "url": "https://web.archive.org/web/20250804225219id_/https://www.rinnegatamante.eu/files/vitadb/FRUITY001.vpk",
         "data": ""
     },
     {
@@ -23606,7 +23606,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=448",
+        "url": "https://web.archive.org/web/20250214102135id_/https://www.rinnegatamante.eu/files/vitadb/Fallen-Knights.vpk",
         "data": ""
     },
     {
@@ -23636,7 +23636,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=463",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/bakkupakku.vpk",
         "data": ""
     },
     {
@@ -23666,7 +23666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=477",
+        "url": "https://web.archive.org/web/20260411043606id_/https://www.rinnegatamante.eu/files/vitadb/chromono2.vpk",
         "data": ""
     },
     {
@@ -23696,7 +23696,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=473",
+        "url": "https://web.archive.org/web/20250618030711id_/https://www.rinnegatamante.eu/files/vitadb/SJ0018.vpk",
         "data": ""
     },
     {
@@ -23726,7 +23726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=476",
+        "url": "https://web.archive.org/web/20240911034857id_/https://www.rinnegatamante.eu/files/vitadb/Switch%20to%20PSTV.vpk",
         "data": ""
     },
     {
@@ -23756,7 +23756,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=471",
+        "url": "https://web.archive.org/web/20240910050445id_/https://www.rinnegatamante.eu/files/vitadb/Cubik%20Adventure.vpk",
         "data": ""
     },
     {
@@ -23786,7 +23786,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=481",
+        "url": "https://web.archive.org/web/20250703070821id_/https://www.rinnegatamante.eu/files/vitadb/HERMES001.vpk",
         "data": ""
     },
     {
@@ -23846,7 +23846,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=465",
+        "url": "https://web.archive.org/web/20250226110216id_/https://www.rinnegatamante.eu/files/vitadb/ToPieces.vpk",
         "data": ""
     },
     {
@@ -23876,7 +23876,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=469",
+        "url": "https://web.archive.org/web/20241231063810id_/https://www.rinnegatamante.eu/files/kill_em_all.vpk",
         "data": ""
     },
     {
@@ -23906,7 +23906,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=472",
+        "url": "https://web.archive.org/web/20241231063807id_/https://www.rinnegatamante.eu/files/vitadb/RT.vpk",
         "data": ""
     },
     {
@@ -23966,7 +23966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=464",
+        "url": "https://web.archive.org/web/20250225104208id_/https://www.rinnegatamante.eu/files/vitadb/Speedrun_Vita.vpk",
         "data": ""
     },
     {
@@ -23996,7 +23996,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=466",
+        "url": "https://web.archive.org/web/20250703070734id_/https://www.rinnegatamante.eu/files/vitadb/OpenSeason.vpk",
         "data": ""
     },
     {
@@ -24026,7 +24026,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=470",
+        "url": "https://web.archive.org/web/20260216233023id_/https://www.rinnegatamante.eu/files/vitadb/UFE_Demo.vpk",
         "data": ""
     },
     {
@@ -24056,7 +24056,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=460",
+        "url": "https://web.archive.org/web/20241231063806id_/https://www.rinnegatamante.eu/files/vitadb/No-More-Dungeons.vpk",
         "data": ""
     },
     {
@@ -24086,7 +24086,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=458",
+        "url": "https://web.archive.org/web/20241228213415id_/https://www.rinnegatamante.eu/files/vitadb/Overcome.vpk",
         "data": ""
     },
     {
@@ -24116,7 +24116,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=457",
+        "url": "https://web.archive.org/web/20241228213420id_/https://www.rinnegatamante.eu/files/vitadb/AGWOAN-PSV.vpk",
         "data": ""
     },
     {
@@ -24146,7 +24146,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=615",
+        "url": "https://web.archive.org/web/20250207235248id_/https://www.rinnegatamante.eu/files/vitadb/SQRXZ0004.vpk",
         "data": ""
     },
     {
@@ -24176,7 +24176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=455",
+        "url": "https://web.archive.org/web/20250306213812id_/https://www.rinnegatamante.eu/files/vitadb/OrangeSunflower.vpk",
         "data": ""
     },
     {
@@ -24206,7 +24206,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=452",
+        "url": "https://web.archive.org/web/20240906183828id_/https://www.rinnegatamante.eu/files/vitadb/Cup%20Critters.vpk",
         "data": ""
     },
     {
@@ -24236,7 +24236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=453",
+        "url": "https://web.archive.org/web/20250618030703id_/https://www.rinnegatamante.eu/files/vitadb/Echo%20Moth.vpk",
         "data": ""
     },
     {
@@ -24266,7 +24266,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=445",
+        "url": "https://web.archive.org/web/20250122200852id_/https://www.rinnegatamante.eu/files/vitadb/Save%20the%20Scene.vpk",
         "data": ""
     },
     {
@@ -24296,7 +24296,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=446",
+        "url": "https://web.archive.org/web/20250212081142id_/https://www.rinnegatamante.eu/files/vitadb/The%20Call.vpk",
         "data": ""
     },
     {
@@ -24326,7 +24326,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=449",
+        "url": "https://web.archive.org/web/20241228213421id_/https://www.rinnegatamante.eu/files/vitadb/Get%20the%20F%20off%20my%20lawn.vpk",
         "data": ""
     },
     {
@@ -24356,7 +24356,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=450",
+        "url": "https://web.archive.org/web/20250206194239id_/https://www.rinnegatamante.eu/files/vitadb/Let%20Me%20Sleep.vpk",
         "data": ""
     },
     {
@@ -24386,7 +24386,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=451",
+        "url": "https://web.archive.org/web/20240909184144id_/https://www.rinnegatamante.eu/files/vitadb/ERRE.vpk",
         "data": ""
     },
     {
@@ -24416,7 +24416,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=442",
+        "url": "https://web.archive.org/web/20250317131510id_/https://www.rinnegatamante.eu/files/vitadb/MKMayhem.vpk",
         "data": ""
     },
     {
@@ -24446,7 +24446,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=443",
+        "url": "https://web.archive.org/web/20240910005746id_/https://www.rinnegatamante.eu/files/vitadb/El%20Pollo.vpk",
         "data": ""
     },
     {
@@ -24476,7 +24476,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=444",
+        "url": "https://web.archive.org/web/20241231063813id_/https://www.rinnegatamante.eu/files/vitadb/El%20Pollo%20de%20Lapy.vpk",
         "data": ""
     },
     {
@@ -24566,7 +24566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=348",
+        "url": "https://web.archive.org/web/20250122200640id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/MangaDownloader.vpk",
         "data": ""
     },
     {
@@ -24596,7 +24596,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=433",
+        "url": "https://web.archive.org/web/20250321041325id_/https://www.rinnegatamante.eu/files/vitadb/redrunner.vpk",
         "data": ""
     },
     {
@@ -24626,7 +24626,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=429",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/elfforest.vpk",
         "data": ""
     },
     {
@@ -24716,7 +24716,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=414",
+        "url": "https://web.archive.org/web/20240906011217id_/https://www.rinnegatamante.eu/files/vitadb/FryingMaster.vpk",
         "data": ""
     },
     {
@@ -24746,7 +24746,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=300",
+        "url": "https://web.archive.org/web/20250221161903id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/plgmn.vpk",
         "data": ""
     },
     {
@@ -24776,7 +24776,7 @@
         "tags": "",
         "ai": "0",
         "score": "64.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=424",
+        "url": "https://web.archive.org/web/20250122191349id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/2048-Vita.vpk",
         "data": ""
     },
     {
@@ -24836,7 +24836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=399",
+        "url": "https://web.archive.org/web/20250219091244id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/RPPHS.vpk",
         "data": ""
     },
     {
@@ -24866,7 +24866,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=420",
+        "url": "https://web.archive.org/web/20241231063804id_/https://www.rinnegatamante.eu/files/vitadb/IMCUnlockLite.vpk",
         "data": ""
     },
     {
@@ -24986,7 +24986,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=84",
+        "url": "https://web.archive.org/web/20240907034216id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/vtheme.vpk",
         "data": ""
     },
     {
@@ -25046,7 +25046,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=412",
+        "url": "https://web.archive.org/web/20250306120048id_/https://www.rinnegatamante.eu/files/vitadb/AnUntitledStory.vpk",
         "data": ""
     },
     {
@@ -25076,7 +25076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=416",
+        "url": "https://web.archive.org/web/20250618030836id_/https://www.rinnegatamante.eu/files/vitadb/Freeway%20Mutant.vpk",
         "data": ""
     },
     {
@@ -25106,7 +25106,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=361",
+        "url": "https://web.archive.org/web/20251013070607id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/VitaBackup.vpk",
         "data": ""
     },
     {
@@ -25166,7 +25166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=407",
+        "url": "https://web.archive.org/web/20250415030751id_/https://www.rinnegatamante.eu/files/vitadb/CubicConundrum.vpk",
         "data": ""
     },
     {
@@ -25196,7 +25196,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=409",
+        "url": "https://web.archive.org/web/20250703070822id_/https://www.rinnegatamante.eu/files/vitadb/WastelandKings.vpk",
         "data": ""
     },
     {
@@ -25226,7 +25226,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=406",
+        "url": "https://web.archive.org/web/20250618030831id_/https://www.rinnegatamante.eu/files/vitadb/shiromino.vpk",
         "data": ""
     },
     {
@@ -25246,7 +25246,7 @@
         "source": "https://github.com/scummvm/scummvm",
         "release_page": "https://wiki.scummvm.org/index.php?title=PlayStation_Vita",
         "trailer": "",
-        "size": "62676472",
+        "size": "145368891",
         "data_size": "0",
         "hash": "8b523a783eab012b426607694d65fe29",
         "hash2": "",
@@ -25256,7 +25256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=405",
+        "url": "https://web.archive.org/web/20250323024807id_/https://files.coolatoms.org/scummvm.vpk",
         "data": ""
     },
     {
@@ -25286,7 +25286,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=408",
+        "url": "https://web.archive.org/web/20250209213609id_/https://www.rinnegatamante.eu/files/vitadb/WizardWizard.vpk",
         "data": ""
     },
     {
@@ -25316,7 +25316,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=294",
+        "url": "https://web.archive.org/web/20250223115156id_/https://www.rinnegatamante.eu/files/vitadb/homebrew/switch_sd2vita.vpk",
         "data": ""
     },
     {
@@ -25406,7 +25406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=288",
+        "url": "https://web.archive.org/web/20250130140032id_/https://www.rinnegatamante.eu/files/vitadb/hbs/enso.vpk",
         "data": ""
     },
     {
@@ -25496,7 +25496,7 @@
         "tags": "",
         "ai": "0",
         "score": "92",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=365",
+        "url": "https://web.archive.org/web/20241231063810id_/https://www.rinnegatamante.eu/files/vitadb/vitaXash3D.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/xash3d.zip"
     },
     {
@@ -25556,7 +25556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=20",
+        "url": "https://web.archive.org/web/20250618030713id_/https://www.rinnegatamante.eu/files/vitadb/pfba.vpk",
         "data": ""
     },
     {
@@ -25586,7 +25586,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=109",
+        "url": "https://web.archive.org/web/20250210173115id_/https://www.rinnegatamante.eu/files/vitadb/ZeldaROTH.vpk",
         "data": ""
     },
     {
@@ -25616,7 +25616,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=384",
+        "url": "https://web.archive.org/web/20250212082744id_/https://www.rinnegatamante.eu/files/vitadb/Crash-Dump-Delete.vpk",
         "data": ""
     },
     {
@@ -25646,7 +25646,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=350",
+        "url": "https://web.archive.org/web/20240910001423id_/https://www.rinnegatamante.eu/files/vitadb/ZeldaNSQ.vpk",
         "data": ""
     },
     {
@@ -25676,7 +25676,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=265",
+        "url": "https://web.archive.org/web/20250227174613id_/https://www.rinnegatamante.eu/files/vitadb/hbs/ZeldaOLB.vpk",
         "data": ""
     },
     {
@@ -25736,7 +25736,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=9",
+        "url": "https://web.archive.org/web/20240909150914id_/https://www.rinnegatamante.eu/files/vitadb/savemgr.vpk",
         "data": ""
     },
     {
@@ -25796,7 +25796,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=380",
+        "url": "https://web.archive.org/web/20250408173933id_/https://www.rinnegatamante.eu/files/vitadb/RetroLivearea.vpk",
         "data": ""
     },
     {
@@ -25856,7 +25856,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=379",
+        "url": "https://web.archive.org/web/20250223125600id_/https://www.rinnegatamante.eu/files/vitadb/Vita%20Hangman%20-%20Touhou%20Edition.vpk",
         "data": ""
     },
     {
@@ -25886,7 +25886,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=330",
+        "url": "https://web.archive.org/web/20250703070817id_/https://www.rinnegatamante.eu/files/vitadb/tetromino.vpk",
         "data": ""
     },
     {
@@ -25916,7 +25916,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=376",
+        "url": "https://web.archive.org/web/20250219235621id_/https://www.rinnegatamante.eu/files/vitadb/Tetromino%20-%20Touhou%20Edition.vpk",
         "data": ""
     },
     {
@@ -26006,7 +26006,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=347",
+        "url": "https://web.archive.org/web/20241231063803id_/https://www.rinnegatamante.eu/files/vitadb/HCL.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/HCL.zip"
     },
     {
@@ -26036,7 +26036,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.5",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=367",
+        "url": "https://web.archive.org/web/20240906213141id_/https://www.rinnegatamante.eu/files/vitadb/FadeToBlack.vpk",
         "data": ""
     },
     {
@@ -26066,7 +26066,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=364",
+        "url": "https://web.archive.org/web/20250319145403id_/https://www.rinnegatamante.eu/files/vitadb/mediacenter.vpk",
         "data": ""
     },
     {
@@ -26096,7 +26096,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=381",
+        "url": "https://web.archive.org/web/20250329175505id_/https://www.rinnegatamante.eu/files/vitadb/PKGInstallerLauncher.vpk",
         "data": ""
     },
     {
@@ -26156,7 +26156,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=363",
+        "url": "https://web.archive.org/web/20250618032133id_/https://www.rinnegatamante.eu/files/vitadb/VitaGraphs.vpk",
         "data": ""
     },
     {
@@ -26186,7 +26186,7 @@
         "tags": "",
         "ai": "0",
         "score": "73",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=115",
+        "url": "https://web.archive.org/web/20250130111151id_/https://www.rinnegatamante.eu/files/vitadb/bermuda-vita.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/bermuda.zip"
     },
     {
@@ -26216,7 +26216,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=359",
+        "url": "https://web.archive.org/web/20240907035212id_/https://www.rinnegatamante.eu/files/vitadb/AbbayeDesMorts.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/AbbayeDesMorts.zip"
     },
     {
@@ -26246,7 +26246,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=356",
+        "url": "https://web.archive.org/web/20240907070223id_/https://www.rinnegatamante.eu/files/vitadb/KETM.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/KETM.zip"
     },
     {
@@ -26276,7 +26276,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=358",
+        "url": "https://web.archive.org/web/20250130170734id_/https://www.rinnegatamante.eu/files/vitadb/pclink.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/streamer.zip"
     },
     {
@@ -26306,7 +26306,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=198",
+        "url": "https://web.archive.org/web/20250308093128id_/https://www.rinnegatamante.eu/files/vitadb/hbs/Labyrinth_3D.vpk",
         "data": ""
     },
     {
@@ -26336,7 +26336,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=492",
+        "url": "https://web.archive.org/web/20241231063809id_/https://www.rinnegatamante.eu/files/vitadb/GirlsAreWeird.vpk",
         "data": ""
     },
     {
@@ -26366,7 +26366,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=353",
+        "url": "https://web.archive.org/web/20250122195037id_/https://www.rinnegatamante.eu/files/vitadb/VitamonGO.vpk",
         "data": ""
     },
     {
@@ -26396,7 +26396,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=351",
+        "url": "https://web.archive.org/web/20250226120651id_/https://www.rinnegatamante.eu/files/vitadb/Cookie.Clicker.vpk",
         "data": ""
     },
     {
@@ -26426,7 +26426,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=266",
+        "url": "https://web.archive.org/web/20241231063812id_/https://www.rinnegatamante.eu/files/vitadb/hbs/vita_cord.vpk",
         "data": ""
     },
     {
@@ -26456,7 +26456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=338",
+        "url": "https://web.archive.org/web/20250215163321id_/https://www.rinnegatamante.eu/files/vitadb/SwitchView.vpk",
         "data": ""
     },
     {
@@ -26486,7 +26486,7 @@
         "tags": "",
         "ai": "0",
         "score": "60.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=344",
+        "url": "https://web.archive.org/web/20241231063807id_/https://www.rinnegatamante.eu/files/vitadb/Titus.vpk",
         "data": ""
     },
     {
@@ -26576,7 +26576,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=339",
+        "url": "https://web.archive.org/web/20250206193658id_/https://www.rinnegatamante.eu/files/vitadb/chain.vpk",
         "data": ""
     },
     {
@@ -26606,7 +26606,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=340",
+        "url": "https://web.archive.org/web/20250401014840id_/https://www.rinnegatamante.eu/files/vitadb/Database.Manager.vpk",
         "data": ""
     },
     {
@@ -26636,7 +26636,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=25",
+        "url": "https://web.archive.org/web/20250618031405id_/https://www.rinnegatamante.eu/files/vitadb/hbs/VITAident.vpk",
         "data": ""
     },
     {
@@ -26666,7 +26666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=26",
+        "url": "https://web.archive.org/web/20250122194512id_/https://www.rinnegatamante.eu/files/vitadb/hbs/VITAident_GUI.vpk",
         "data": ""
     },
     {
@@ -26696,7 +26696,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=337",
+        "url": "https://web.archive.org/web/20240909234824id_/https://www.rinnegatamante.eu/files/vitadb/MicroCHIP.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/MicroCHIP.zip"
     },
     {
@@ -26726,7 +26726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=46",
+        "url": "https://web.archive.org/web/20240913181614id_/https://www.rinnegatamante.eu/files/vitadb/rinCheatSE.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/rinCheatSE.zip"
     },
     {
@@ -26786,7 +26786,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=328",
+        "url": "https://web.archive.org/web/20250305232605id_/https://www.rinnegatamante.eu/files/vitadb/Zombiebound.vpk",
         "data": ""
     },
     {
@@ -26846,7 +26846,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=333",
+        "url": "https://web.archive.org/web/20251013070400id_/https://www.rinnegatamante.eu/files/vitadb/luaVitaSeccy.vpk",
         "data": ""
     },
     {
@@ -26906,7 +26906,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=306",
+        "url": "https://web.archive.org/web/20250207103212id_/https://www.rinnegatamante.eu/files/vitadb/VitaHangman.vpk",
         "data": ""
     },
     {
@@ -26936,7 +26936,7 @@
         "tags": "",
         "ai": "0",
         "score": "85",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=308",
+        "url": "https://web.archive.org/web/20250329191213id_/https://www.rinnegatamante.eu/files/vitadb/AMTR01693.vpk",
         "data": ""
     },
     {
@@ -26966,7 +26966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=303",
+        "url": "https://web.archive.org/web/20250703070747id_/https://www.rinnegatamante.eu/files/vitadb/VitaFFT.vpk",
         "data": ""
     },
     {
@@ -26996,7 +26996,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=102",
+        "url": "https://web.archive.org/web/20241228213420id_/https://www.rinnegatamante.eu/files/vitadb/Pong.vpk",
         "data": ""
     },
     {
@@ -27056,7 +27056,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=304",
+        "url": "https://web.archive.org/web/20240905191153id_/https://www.rinnegatamante.eu/files/vitadb/Voice%20Recorder.vpk",
         "data": ""
     },
     {
@@ -27086,7 +27086,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=297",
+        "url": "https://web.archive.org/web/20260403003432id_/https://www.rinnegatamante.eu/files/vitadb/ProCameraVita.vpk",
         "data": ""
     },
     {
@@ -27146,7 +27146,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=292",
+        "url": "https://web.archive.org/web/20240905230929id_/https://www.rinnegatamante.eu/files/vitadb/Crazy%20Traffic%20Jam%203D.vpk",
         "data": ""
     },
     {
@@ -27236,7 +27236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=223",
+        "url": "https://web.archive.org/web/20240909164756id_/https://www.rinnegatamante.eu/files/vitadb/Vita%20Object%20Loader.vpk",
         "data": ""
     },
     {
@@ -27266,7 +27266,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=100",
+        "url": "https://web.archive.org/web/20241228213422id_/https://www.rinnegatamante.eu/files/vitadb/HappyLand.vpk",
         "data": ""
     },
     {
@@ -27296,7 +27296,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=284",
+        "url": "https://web.archive.org/web/20250122200607id_/https://www.rinnegatamante.eu/files/vitadb/flashlight.vpk",
         "data": ""
     },
     {
@@ -27326,7 +27326,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=36",
+        "url": "https://web.archive.org/web/20240910175739id_/https://www.rinnegatamante.eu/files/vitadb/AdrenalineEasyInstaller.vpk",
         "data": ""
     },
     {
@@ -27356,7 +27356,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=274",
+        "url": "https://web.archive.org/web/20250207153833id_/https://www.rinnegatamante.eu/files/vitadb/VitaBooks.vpk",
         "data": ""
     },
     {
@@ -27386,7 +27386,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=264",
+        "url": "https://web.archive.org/web/20250329175528id_/https://www.rinnegatamante.eu/files/vitadb/PSPhbb.vpk",
         "data": ""
     },
     {
@@ -27416,7 +27416,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=263",
+        "url": "https://web.archive.org/web/20250122154434id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/EUCLIOD.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/EUCLIOD.zip"
     },
     {
@@ -27446,7 +27446,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=259",
+        "url": "https://web.archive.org/web/20240913235157id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/MediaImporter.vpk",
         "data": ""
     },
     {
@@ -27476,7 +27476,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=249",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/CardUnlock.vpk",
         "data": ""
     },
     {
@@ -27506,7 +27506,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=11",
+        "url": "https://web.archive.org/web/20241231063801id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/AntiBlacklist.vpk",
         "data": ""
     },
     {
@@ -27536,7 +27536,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=80",
+        "url": "https://web.archive.org/web/20240910070215id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Restart.vpk",
         "data": ""
     },
     {
@@ -27566,7 +27566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=191",
+        "url": "https://web.archive.org/web/20240910125531id_/https://www.rinnegatamante.eu/files/vitadb/picoloop.vpk",
         "data": ""
     },
     {
@@ -27596,7 +27596,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=238",
+        "url": "https://web.archive.org/web/20250130092516id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/PickrVITA.vpk",
         "data": ""
     },
     {
@@ -27626,7 +27626,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=227",
+        "url": "https://web.archive.org/web/20250223101450id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/HackInformer.vpk",
         "data": ""
     },
     {
@@ -27656,7 +27656,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=206",
+        "url": "https://web.archive.org/web/20240910114349id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Galactic%20Federation.vpk",
         "data": ""
     },
     {
@@ -27686,7 +27686,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=210",
+        "url": "https://web.archive.org/web/20250319095622id_/https://www.rinnegatamante.eu/files/vitadb/Notepad.vpk",
         "data": ""
     },
     {
@@ -27746,7 +27746,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=128",
+        "url": "https://web.archive.org/web/20250330000716id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Starfield-Vita.vpk",
         "data": ""
     },
     {
@@ -27776,7 +27776,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=202",
+        "url": "https://web.archive.org/web/20250403113007id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VITAforecast.vpk",
         "data": ""
     },
     {
@@ -27836,7 +27836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=208",
+        "url": "https://web.archive.org/web/20250122203409id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VITA-Net-Check.vpk",
         "data": ""
     },
     {
@@ -27866,7 +27866,7 @@
         "tags": "",
         "ai": "0",
         "score": "56",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=201",
+        "url": "https://web.archive.org/web/20260216065201id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/OpenSyobon.vpk",
         "data": ""
     },
     {
@@ -27896,7 +27896,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=138",
+        "url": "https://web.archive.org/web/20250130094104id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/BetterBrowserDowloader.vpk",
         "data": ""
     },
     {
@@ -27926,7 +27926,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=17",
+        "url": "https://web.archive.org/web/20250130130511id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/SystemCheckEnabled.vpk",
         "data": ""
     },
     {
@@ -27956,7 +27956,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=18",
+        "url": "https://web.archive.org/web/20241228213422id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/BlockOutII.vpk",
         "data": ""
     },
     {
@@ -27986,7 +27986,7 @@
         "tags": "",
         "ai": "0",
         "score": "66",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=114",
+        "url": "https://web.archive.org/web/20240906214511id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/GNU_Robbo.vpk",
         "data": ""
     },
     {
@@ -28016,7 +28016,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=187",
+        "url": "https://web.archive.org/web/20260520154211id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Clonage_Bulle_ePSP.vpk",
         "data": ""
     },
     {
@@ -28046,7 +28046,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=229",
+        "url": "https://web.archive.org/web/20241231063816id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/ReLink.vpk",
         "data": ""
     },
     {
@@ -28076,7 +28076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=117",
+        "url": "https://web.archive.org/web/20250311180927id_/https://www.rinnegatamante.eu/files/vitadb/advremap.vpk",
         "data": ""
     },
     {
@@ -28106,7 +28106,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=75",
+        "url": "https://web.archive.org/web/20250323032300id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/CATSFC-libretro-vita_MOD.vpk",
         "data": ""
     },
     {
@@ -28136,7 +28136,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=279",
+        "url": "https://web.archive.org/web/20241228213416id_/https://www.rinnegatamante.eu/files/vitadb/StemLoader.vpk",
         "data": ""
     },
     {
@@ -28166,7 +28166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=64",
+        "url": "https://web.archive.org/web/20241231063803id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/qrdecoder.vpk",
         "data": ""
     },
     {
@@ -28196,7 +28196,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=101",
+        "url": "https://web.archive.org/web/20250618030707id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/StarKiller2D.vpk",
         "data": ""
     },
     {
@@ -28226,7 +28226,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=182",
+        "url": "https://web.archive.org/web/20250207160519id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/lua-gameoflife.vpk",
         "data": ""
     },
     {
@@ -28256,7 +28256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=162",
+        "url": "https://web.archive.org/web/20250804225114id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/History_Deleter.vpk",
         "data": ""
     },
     {
@@ -28286,7 +28286,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=224",
+        "url": "https://web.archive.org/web/20250703070742id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/database_update_reboot.vpk",
         "data": ""
     },
     {
@@ -28316,7 +28316,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=63",
+        "url": "https://web.archive.org/web/20250122201751id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/SwitchKaKu.vpk",
         "data": ""
     },
     {
@@ -28346,7 +28346,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=180",
+        "url": "https://web.archive.org/web/20250228145534id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaDL.vpk",
         "data": ""
     },
     {
@@ -28376,7 +28376,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=97",
+        "url": "https://web.archive.org/web/20260403003446id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/game_shrinker.vpk",
         "data": ""
     },
     {
@@ -28406,7 +28406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=156",
+        "url": "https://web.archive.org/web/20250122150822id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/floodit.vpk",
         "data": ""
     },
     {
@@ -28436,7 +28436,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=24",
+        "url": "https://web.archive.org/web/20250618031418id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Minicraft.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/Minicraft.zip"
     },
     {
@@ -28466,7 +28466,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=69",
+        "url": "https://web.archive.org/web/20241228213411id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Shutdown.vpk",
         "data": ""
     },
     {
@@ -28496,7 +28496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=71",
+        "url": "https://web.archive.org/web/20250207114552id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Reboot.vpk",
         "data": ""
     },
     {
@@ -28526,7 +28526,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=93",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/tactical_miner.vpk",
         "data": ""
     },
     {
@@ -28556,7 +28556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=217",
+        "url": "https://web.archive.org/web/20250703070751id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/AppStorageManager.vpk",
         "data": ""
     },
     {
@@ -28586,7 +28586,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=251",
+        "url": "https://web.archive.org/web/20250211191547id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/GoHAN_Parallel.vpk",
         "data": ""
     },
     {
@@ -28616,7 +28616,7 @@
         "tags": "",
         "ai": "0",
         "score": "78.3",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=168",
+        "url": "https://web.archive.org/web/20250122200911id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/REminiscence.vpk",
         "data": ""
     },
     {
@@ -28646,7 +28646,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=252",
+        "url": "https://web.archive.org/web/20250308091242id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/FTPlaystation.vpk",
         "data": ""
     },
     {
@@ -28706,7 +28706,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=48",
+        "url": "https://web.archive.org/web/20240909153530id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/PSVibe.vpk",
         "data": ""
     },
     {
@@ -28766,7 +28766,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=152",
+        "url": "https://web.archive.org/web/20250303222000id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VITAPluginsManager.vpk",
         "data": ""
     },
     {
@@ -28796,7 +28796,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=250",
+        "url": "https://web.archive.org/web/20240909203423id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/GoHAN.vpk",
         "data": ""
     },
     {
@@ -28826,7 +28826,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=96",
+        "url": "https://web.archive.org/web/20250130124203id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Vita-Calculator.vpk",
         "data": ""
     },
     {
@@ -28886,7 +28886,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=54",
+        "url": "https://web.archive.org/web/20250122201222id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/MaiDumpTool.vpk",
         "data": ""
     },
     {
@@ -28916,7 +28916,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=30",
+        "url": "https://web.archive.org/web/20250122152412id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/vitaAirHockey.vpk",
         "data": ""
     },
     {
@@ -28946,7 +28946,7 @@
         "tags": "",
         "ai": "0",
         "score": "76",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=79",
+        "url": "https://web.archive.org/web/20240909170923id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/KatawaShoujo.vpk",
         "data": ""
     },
     {
@@ -28976,7 +28976,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=133",
+        "url": "https://web.archive.org/web/20250225105815id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Bernard-Chronicles-Tetris-Attack.vpk",
         "data": ""
     },
     {
@@ -29006,7 +29006,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=132",
+        "url": "https://web.archive.org/web/20241231063812id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Another_world.vpk",
         "data": ""
     },
     {
@@ -29036,7 +29036,7 @@
         "tags": "",
         "ai": "0",
         "score": "82",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=166",
+        "url": "https://web.archive.org/web/20250122154624id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Prince-Of-Persia.vpk",
         "data": ""
     },
     {
@@ -29066,7 +29066,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=82",
+        "url": "https://web.archive.org/web/20240905213952id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VPKMirror.vpk",
         "data": ""
     },
     {
@@ -29096,7 +29096,7 @@
         "tags": "",
         "ai": "0",
         "score": "79.3",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=13",
+        "url": "https://web.archive.org/web/20241231063815id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/vOpenTyrian.vpk",
         "data": ""
     },
     {
@@ -29126,7 +29126,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=28",
+        "url": "https://web.archive.org/web/20250311183503id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/AccountSwitcher.vpk",
         "data": ""
     },
     {
@@ -29156,7 +29156,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=8",
+        "url": "https://web.archive.org/web/20250304093245id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Vitapong.vpk",
         "data": ""
     },
     {
@@ -29186,7 +29186,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=51",
+        "url": "https://web.archive.org/web/20250804225304id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/luaIrc.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/luaIrc.zip"
     },
     {
@@ -29216,7 +29216,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=151",
+        "url": "https://web.archive.org/web/20240906233040id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaRW.vpk",
         "data": ""
     },
     {
@@ -29276,7 +29276,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=33",
+        "url": "https://web.archive.org/web/20250122154007id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Simple_Text_Editor.vpk",
         "data": ""
     },
     {
@@ -29306,7 +29306,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=78",
+        "url": "https://web.archive.org/web/20240910002436id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/BatteryIndicator.vpk",
         "data": ""
     },
     {
@@ -29336,7 +29336,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=173",
+        "url": "https://web.archive.org/web/20250206194501id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/vitashellthememanager.vpk",
         "data": ""
     },
     {
@@ -29366,7 +29366,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=175",
+        "url": "https://web.archive.org/web/20250804225219id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/memcardswap.vpk",
         "data": ""
     },
     {
@@ -29396,7 +29396,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=52",
+        "url": "https://web.archive.org/web/20250130162954id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaToolbox.vpk",
         "data": ""
     },
     {
@@ -29426,7 +29426,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=171",
+        "url": "https://web.archive.org/web/20250703070832id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/vita-activator.vpk",
         "data": ""
     },
     {
@@ -29456,7 +29456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=121",
+        "url": "https://web.archive.org/web/20250215174403id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaTester.vpk",
         "data": ""
     },
     {
@@ -29486,7 +29486,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=137",
+        "url": "https://web.archive.org/web/20241231063813id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/chickenlauncher.vpk",
         "data": ""
     },
     {
@@ -29516,7 +29516,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=149",
+        "url": "https://web.archive.org/web/20250130124445id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/RegistryEditor.vpk",
         "data": ""
     },
     {
@@ -29576,7 +29576,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=150",
+        "url": "https://web.archive.org/web/20240905163816id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/uriCaller.vpk",
         "data": ""
     },
     {
@@ -29606,7 +29606,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=170",
+        "url": "https://web.archive.org/web/20240915131245id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/TextQuest.vpk",
         "data": ""
     },
     {
@@ -29636,7 +29636,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=140",
+        "url": "https://web.archive.org/web/20241231063810id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/doggytwicevt.vpk",
         "data": ""
     },
     {
@@ -29666,7 +29666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=141",
+        "url": "https://web.archive.org/web/20241228213415id_/https://www.rinnegatamante.eu/files/vitadb/Minesweeper.vpk",
         "data": ""
     },
     {
@@ -29696,7 +29696,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=142",
+        "url": "https://web.archive.org/web/20250703070745id_/https://www.rinnegatamante.eu/files/vitadb/SpiderVita.vpk",
         "data": ""
     },
     {
@@ -29726,7 +29726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=32",
+        "url": "https://web.archive.org/web/20250209213221id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Super_Hero_Chronicles.vpk",
         "data": ""
     },
     {
@@ -29756,7 +29756,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=7",
+        "url": "https://web.archive.org/web/20250226111853id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/flppy_bird.vpk",
         "data": ""
     },
     {
@@ -29786,7 +29786,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=148",
+        "url": "https://web.archive.org/web/20250703070756id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaCID.vpk",
         "data": ""
     },
     {
@@ -29816,7 +29816,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=253",
+        "url": "https://web.archive.org/web/20241231063810id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/DeathRun.vpk",
         "data": ""
     },
     {
@@ -29906,7 +29906,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=177",
+        "url": "https://web.archive.org/web/20240906202547id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Vita_Hardware_Test.vpk",
         "data": ""
     },
     {
@@ -29936,7 +29936,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=147",
+        "url": "https://web.archive.org/web/20250618031411id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/button-swapper.vpk",
         "data": ""
     },
     {
@@ -29966,7 +29966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=160",
+        "url": "https://web.archive.org/web/20240910150421id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/offlineInstaller.vpk",
         "data": ""
     },
     {
@@ -29996,7 +29996,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=6",
+        "url": "https://web.archive.org/web/20250618030706id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/flappybird.vpk",
         "data": ""
     },
     {
@@ -30026,7 +30026,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=23",
+        "url": "https://web.archive.org/web/20250329194536id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/desmume.vpk",
         "data": ""
     },
     {
@@ -30056,7 +30056,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=130",
+        "url": "https://web.archive.org/web/20250214090447id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/sudokucpp.vpk",
         "data": ""
     },
     {
@@ -30086,7 +30086,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=129",
+        "url": "https://web.archive.org/web/20240906225254id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaSudoku.vpk",
         "data": ""
     },
     {
@@ -30116,7 +30116,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=4",
+        "url": "https://web.archive.org/web/20250207154720id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/MoonWhitelister.vpk",
         "data": ""
     },
     {
@@ -30146,7 +30146,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=163",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/milieTetris.vpk",
         "data": ""
     },
     {
@@ -30176,7 +30176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=65",
+        "url": "https://web.archive.org/web/20250703070828id_/https://www.rinnegatamante.eu/files/vitadb/4Rows.vpk",
         "data": ""
     },
     {
@@ -30206,7 +30206,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=167",
+        "url": "https://web.archive.org/web/20250904061201id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/realboy.vpk",
         "data": ""
     },
     {
@@ -30236,7 +30236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=15",
+        "url": "https://web.archive.org/web/20241231063806id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/breakveetout.vpk",
         "data": ""
     },
     {
@@ -30266,7 +30266,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=91",
+        "url": "https://web.archive.org/web/20250122192252id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/Procedural_Planets.vpk",
         "data": ""
     },
     {
@@ -30296,7 +30296,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=122",
+        "url": "https://web.archive.org/web/20241231063811id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaScreenFlasher.vpk",
         "data": ""
     },
     {
@@ -30326,7 +30326,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=139",
+        "url": "https://web.archive.org/web/20250122200937id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/gameoflife.vpk",
         "data": ""
     },
     {
@@ -30356,7 +30356,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=176",
+        "url": "https://web.archive.org/web/20241231063815id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/rejuvesnake.vpk",
         "data": ""
     },
     {
@@ -30386,7 +30386,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=178",
+        "url": "https://web.archive.org/web/20240910153559id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/whitelister.vpk",
         "data": ""
     },
     {
@@ -30416,7 +30416,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=181",
+        "url": "https://web.archive.org/web/20241231063813id_/https://www.rinnegatamante.eu/files/vitadb/Homebrews/ReversMe.vpk",
         "data": ""
     },
     {

@@ -1,9 +1,9 @@
 nohup: Eingabe wird ignoriert
-purged 41 transient failures from cache
-514 targets, 139 cached, 375 to fetch
+purged 1 transient failures from cache
+514 targets, 458 cached, 56 to fetch
 
-  20/375   ok=20  failed=0
-  40/375   ok=40  failed=0
-  60/375   ok=59  failed=1
-  80/375   ok=78  failed=2
-  100/375   ok=94  failed=6
+  20/56   ok=20  failed=0
+  40/56   ok=39  failed=1
+
+resolved : 491
+failed   : 23
