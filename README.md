@@ -79,7 +79,8 @@ Known consumers: [VitaForge](https://github.com/josephinoo) by josephinoo, and
 - **269 downloads**, listed in [WANTED.md](WANTED.md). Contributions welcome.
 - **Screenshots**: 561 of about 2200 recovered, from the Internet Archive and from
   the restored VitaDB. The rest belonged to other authors and is gone.
-- **Trailers**: only two survive.
+- **Trailers**: 15 of 62 are playable again. Two are mirrored here; the rest are
+  either hosted on the restored VitaDB or are YouTube links.
 - **Trophy data**: gone. The definitions were authored by third parties and were not
   part of the restored site.
 
