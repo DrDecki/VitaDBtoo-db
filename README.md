@@ -33,8 +33,14 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | Icons | 100% (1341) |
 | Screenshots | 3% (56 of 2186) |
 | Trailers | 3% (2 of 62) |
-| Data files | 0% (98 missing) |
+| Data files | 32% (44 of 137) |
 | Trophy data | 0% |
+
+### Help wanted
+
+**269 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md), together with 416 archived files from the old webhost that nobody has been able to identify yet.
+
+This does not need programming. It needs people who recognise a homebrew by its filename, or who still have the file lying on an old memory card. If you can match even one entry, open an issue: every link restored is an application that stops being lost.
 <!-- /STATS -->
 
 ## Files

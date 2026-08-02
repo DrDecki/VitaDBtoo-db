@@ -2597,7 +2597,7 @@
         "release_page": "https://github.com/withLogic/hexahop-vita/releases",
         "trailer": "",
         "size": "2832504",
-        "data_size": "34500945",
+        "data_size": "34519517",
         "hash": "3d355fec45904133b064c3f1cd2caf3c",
         "hash2": "",
         "changelog": "- First Release.",
@@ -2607,7 +2607,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/hexahop-vita/releases/download/v1.1.0-vita/Hex-A-Hop.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/hex-a-hop.zip"
+        "data": "https://github.com/withLogic/hexahop-vita/releases/download/v1.1.0-vita/data.zip"
     },
     {
         "name": "DethKarz Remake",
@@ -3557,7 +3557,7 @@
         "release_page": "https://github.com/fgsfdsfgs/Serious-Engine/releases",
         "trailer": "",
         "size": "3435049",
-        "data_size": "86079544",
+        "data_size": "86131507",
         "hash": "583ca3c2bd21d695ba1b0d24e928c0ad",
         "hash2": "",
         "changelog": "- the game will now buffer saves, which makes them take a lot less time;\n- you can now press R in the console to bring up the on-screen keyboard (press Select in the menu to bring up the console);\n- text edit boxes in the menu will automatically bring up the keyboard;\n- fixed touch not working properly in the NETRICSA screen;\n- fixed mod switching (NOTE: mods with custom DLLs such as Seriously Warped Deathmatch will not work).",
@@ -3567,7 +3567,7 @@
         "ai": "0",
         "score": "83.3",
         "url": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/ssam_tfe_v2.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/ssam_tfe.zip"
+        "data": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/data_tfe_v2.zip"
     },
     {
         "name": "Serious Sam TSE Vita",
@@ -3587,7 +3587,7 @@
         "release_page": "https://github.com/fgsfdsfgs/Serious-Engine/releases",
         "trailer": "",
         "size": "4225479",
-        "data_size": "86079733",
+        "data_size": "86131717",
         "hash": "d29d817df1dbc6eea1b22e5e74ae5e8f",
         "hash2": "",
         "changelog": "- the game will now buffer saves, which makes them take a lot less time;\n- you can now press R in the console to bring up the on-screen keyboard (press Select in the menu to bring up the console);\n- text edit boxes in the menu will automatically bring up the keyboard;\n- fixed touch not working properly in the NETRICSA screen;\n- fixed mod switching (NOTE: mods with custom DLLs such as Seriously Warped Deathmatch will not work).",
@@ -3597,7 +3597,7 @@
         "ai": "0",
         "score": "82.9",
         "url": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/ssam_tse_v2.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/ssam_tse.zip"
+        "data": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/data_tse_v2.zip"
     },
     {
         "name": "Prince of Persia 2 Vita",
@@ -15107,7 +15107,7 @@
         "release_page": "https://github.com/einmueller/exult-vita/releases",
         "trailer": "",
         "size": "3980825",
-        "data_size": "10987883",
+        "data_size": "11002930",
         "hash": "c25da02f13ca52b7f2372a15d30eb6e6",
         "hash2": "",
         "changelog": "- First Release.",
@@ -15117,7 +15117,7 @@
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/einmueller/exult-vita/releases/download/v1.9.vita.2/exult.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/exult.zip"
+        "data": "https://github.com/einmueller/exult-vita/releases/download/v1.9.vita.2/exult_data.zip"
     },
     {
         "name": "uMario Vita",
@@ -24947,7 +24947,7 @@
         "release_page": "https://github.com/Grzybojad/wiiero-vita/releases",
         "trailer": "",
         "size": "748458",
-        "data_size": "19884682",
+        "data_size": "19883079",
         "hash": "596845d596dad459bc4bef77e29cc7a2",
         "hash2": "",
         "changelog": "- First Release.",
@@ -24957,7 +24957,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Grzybojad/wiiero-vita/releases/download/1.2/wiiero.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/wiiero.zip"
+        "data": "https://github.com/Grzybojad/wiiero-vita/releases/download/1.1/wiiero-data.zip"
     },
     {
         "name": "Theme Manager EX",

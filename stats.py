@@ -41,6 +41,18 @@ if os.path.exists(ORIG):
     tr_total = sum(1 for a in orig if a.get('trailer'))
 
 data_missing = sum(1 for a in load('apps.json') if a.get('data') and 'rinnegatamante' in a['data'])
+missing_dl = tot - ok
+unmatched = 0
+if os.path.exists('/tmp/cdx_len.txt'):
+    used = set()
+    for a in load('apps.json'):
+        m = re.search(r'files/vitadb/(.+)$', a['url'])
+        if m: used.add(m.group(1))
+    for line in open('/tmp/cdx_len.txt'):
+        q = line.split()
+        if len(q) >= 3 and q[2] == '200':
+            m = re.search(r'files/vitadb/(.+)$', q[0])
+            if m and m.group(1) not in used: unmatched += 1
 
 out = ['<!-- STATS -->\n']
 out.append('| | Entries | With a working download |\n| --- | ---: | ---: |\n')
@@ -54,8 +66,23 @@ if ss_total:
     out.append('| Screenshots | %.0f%% (%d of %d) |\n' % (100.0 * ss_have / ss_total, ss_have, ss_total))
 if tr_total:
     out.append('| Trailers | %.0f%% (%d of %d) |\n' % (100.0 * tr_have / tr_total, tr_have, tr_total))
-out.append('| Data files | 0%% (%d missing) |\n' % data_missing)
+data_total = 0
+if os.path.exists(ORIG):
+    data_total = sum(1 for a in orig if a.get('data'))
+if data_total:
+    out.append('| Data files | %.0f%% (%d of %d) |\n' % (100.0 * (data_total - data_missing) / data_total, data_total - data_missing, data_total))
+else:
+    out.append('| Data files | %d missing |\n' % data_missing)
 out.append('| Trophy data | 0% |\n')
+out.append('\n### Help wanted\n\n')
+out.append('**%d downloads and %d data files are still missing.** ' % (missing_dl, data_missing))
+out.append('They are listed with author, version and file size in [WANTED.md](WANTED.md), ')
+out.append('together with %d archived files from the old webhost that nobody has been able ' % unmatched)
+out.append('to identify yet.\n\n')
+out.append('This does not need programming. It needs people who recognise a homebrew by its ')
+out.append('filename, or who still have the file lying on an old memory card. If you can match ')
+out.append('even one entry, open an issue: every link restored is an application that stops ')
+out.append('being lost.\n')
 out.append('<!-- /STATS -->')
 
 readme = os.path.join(ROOT, 'README.md')
