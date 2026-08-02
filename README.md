@@ -38,7 +38,7 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 
 ### Help wanted
 
-**142 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md), together with 569 archived files from the old webhost that nobody has been able to identify yet.
+**142 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md), together with 606 archived files from the old webhost that nobody has been able to identify yet.
 
 This does not need programming. It needs people who recognise a homebrew by its filename, or who still have the file lying on an old memory card. If you can match even one entry, open an issue: every link restored is an application that stops being lost.
 <!-- /STATS -->

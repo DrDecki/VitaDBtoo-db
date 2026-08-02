@@ -29,7 +29,7 @@ for fname, label in (('apps.json', 'Vita'), ('psp_apps.json', 'PSP'),
     for a in load(fname):
         if 'get_hb_url' in a['url']:
             src = a.get('release_page') or a.get('source') or ''
-            rows.append((label, a['name'], a['version'], a['author'], a['size'], src))
+            rows.append((label, a['name'], a['version'], a['author'], a['size'], src, a['id']))
 
 out = []
 out.append('# Wanted: missing downloads\n')
@@ -39,12 +39,26 @@ out.append('If you have one of these files, or know where it lives now, please o
 out.append('or a pull request. What is needed is a stable direct URL to the exact file.\n\n')
 out.append('The file size below is the one VitaDB recorded, which makes it easy to confirm a\n')
 out.append('candidate is the right build.\n\n')
-out.append('| Type | Name | Version | Author | Size | Known source |\n')
-out.append('| --- | --- | --- | --- | ---: | --- |\n')
-for t, n, v, au, sz, src in sorted(rows):
+out.append('Many entries link to a [GameBrew](https://www.gamebrew.org) page that documents the\n')
+out.append('same homebrew, often with a working download. Those download links only work from a\n')
+out.append('browser, which is exactly why a human is needed here.\n\n')
+out.append('| Type | Name | Version | Author | Size | Known source | GameBrew |\n')
+out.append('| --- | --- | --- | --- | ---: | --- | --- |\n')
+gb = {}
+if os.path.exists(os.path.join(ROOT, 'gamebrew_refs.json')):
+    gb = json.load(open(os.path.join(ROOT, 'gamebrew_refs.json')))
+
+for t, n, v, au, sz, src, aid in sorted(rows):
     size = '%.1f MB' % (int(sz) / 1048576.0) if sz and sz.isdigit() else '?'
     link = '[link](%s)' % src if src else '-'
-    out.append('| %s | %s | %s | %s | %s | %s |\n' % (t, n.replace('|', ''), v, au.replace('|', ''), size, link))
+    g = gb.get(aid)
+    if g and g.get('dl'):
+        ref = '[page](https://www.gamebrew.org/wiki/%s) / [file](%s)' % (g['page'].replace(' ', '_'), g['dl'])
+    elif g:
+        ref = '[page](https://www.gamebrew.org/wiki/%s)' % g['page'].replace(' ', '_')
+    else:
+        ref = '-'
+    out.append('| %s | %s | %s | %s | %s | %s | %s |\n' % (t, n.replace('|', ''), v, au.replace('|', ''), size, link, ref))
 
 if arch:
     out.append('\n## Unmatched archived files\n\n')
