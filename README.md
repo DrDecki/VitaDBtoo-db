@@ -77,8 +77,11 @@ Known consumers: [VitaForge](https://github.com/josephinoo) by josephinoo, and
 ## What is missing
 
 - **269 downloads**, listed in [WANTED.md](WANTED.md). Contributions welcome.
-- **Screenshots**: 56 of roughly 2200 were archived.
-- **Trailers and trophy data**: almost nothing was archived.
+- **Screenshots**: 561 of about 2200 recovered, from the Internet Archive and from
+  the restored VitaDB. The rest belonged to other authors and is gone.
+- **Trailers**: only two survive.
+- **Trophy data**: gone. The definitions were authored by third parties and were not
+  part of the restored site.
 
 Themes are unaffected and continue to work: they have always been hosted separately at
 [CatoTheYounger97/vitaDB_themes](https://github.com/CatoTheYounger97/vitaDB_themes).
