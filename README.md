@@ -108,5 +108,10 @@ coverage. Run it after any change to `apps.json`, `psp_apps.json` or `icons/`.
 VitaDB was created and run by **Rinnegatamante**. The catalogue is his work and that of
 every homebrew author in it; this repository only keeps it reachable.
 
+Thanks to **FundedBlade** for pointing at the GameBrew wiki and the PSP homebrew
+library on archive.org, which together closed over a hundred gaps, and to
+**josephinoo** for building [VitaForge](https://github.com/josephinoo) against this
+catalogue and for the API tips.
+
 If you are an author and want your application removed, open an issue and it will be taken
 down.
