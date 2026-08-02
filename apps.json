@@ -1216,7 +1216,7 @@
         "source": "https://github.com/Rinnegatamante/dariusburst-vita",
         "release_page": "https://github.com/Rinnegatamante/dariusburst-vita/releases",
         "trailer": "",
-        "size": "2469806",
+        "size": "2467926",
         "data_size": "0",
         "hash": "301ad720bbc632fe6832dee27ed93466",
         "hash2": "",
@@ -1226,7 +1226,7 @@
         "tags": "",
         "ai": "0",
         "score": "76",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1415",
+        "url": "https://github.com/Rinnegatamante/dariusburst-vita/releases/download/v.1.0/dariusburst.vpk",
         "data": ""
     },
     {
@@ -1696,7 +1696,7 @@
         "source": "https://github.com/Mips96/Trogdor-Reburninated",
         "release_page": "https://github.com/Mips96/Trogdor-Reburninated/releases",
         "trailer": "",
-        "size": "2830292",
+        "size": "6496524",
         "data_size": "7515398",
         "hash": "5ce45ae92c981b493b2571b084646fb9",
         "hash2": "",
@@ -1706,7 +1706,7 @@
         "tags": "retro,8 bit,casual,2d,f2p",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1015",
+        "url": "https://github.com/Mode8fx/Trogdor-Reburninated/releases/download/v2.4/Trogdor-Reburninated-v2.4-3ds-cia.zip",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Trogdor-RB.zip"
     },
     {
@@ -2176,7 +2176,7 @@
         "source": "https://github.com/c0nduitra1n/QuantimmumChess",
         "release_page": "https://github.com/c0nduitra1n/QuantimmumChess/releases",
         "trailer": "",
-        "size": "15858326",
+        "size": "15868658",
         "data_size": "0",
         "hash": "7fc22b0d3aae64648e17db6e5f5d1de9",
         "hash2": "",
@@ -2186,7 +2186,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1391",
+        "url": "https://github.com/c0nduitra1n/QuantimmumChess/releases/download/Beta/quantimmum_chess.vpk",
         "data": ""
     },
     {
@@ -2516,7 +2516,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1376",
+        "url": "https://github.com/Jyotiraditya-Samal/Vitawave/releases/download/v1.0.0-stable/VitaWave.vpk",
         "data": ""
     },
     {
@@ -3356,7 +3356,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=546",
+        "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.1/psnes.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/psnes.zip"
     },
     {
@@ -4706,7 +4706,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1318",
+        "url": "https://github.com/sjoerdev/fluid-simulation-vitagl/releases/download/v1.0/VitaSPH.vpk",
         "data": ""
     },
     {
@@ -7996,7 +7996,7 @@
         "source": "",
         "release_page": "https://github.com/gl00mm/Blasphemous_PSVITA",
         "trailer": "",
-        "size": "12982648",
+        "size": "429964328",
         "data_size": "0",
         "hash": "28df76217cc4803a8d702c8597b59d38",
         "hash2": "",
@@ -8006,7 +8006,7 @@
         "tags": "metroidvania,hardcore,2d,unity,commercial",
         "ai": "0",
         "score": "79.1",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1209",
+        "url": "https://github.com/gl00mm/Blasphemous_PSVITA/releases/download/Blasphemous_PSVITA-beta.1/BlasphemousVitaSTEAM.zip",
         "data": ""
     },
     {
@@ -9596,7 +9596,7 @@
         "tags": "",
         "ai": "0",
         "score": "82.2",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=658",
+        "url": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/openxcom-data.zip"
     },
     {
@@ -15526,7 +15526,7 @@
         "source": "https://github.com/Rinnegatamante/yoyoloader_vita",
         "release_page": "https://github.com/Rinnegatamante/yoyoloader_vita/releases",
         "trailer": "",
-        "size": "6671134",
+        "size": "9886777",
         "data_size": "0",
         "hash": "bd5c2cf9d861c123070b9bcdd0e876bf",
         "hash2": "",
@@ -15536,7 +15536,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=815",
+        "url": "https://github.com/Rinnegatamante/yoyoloader_vita/releases/download/Nightly/banners.zip",
         "data": ""
     },
     {
@@ -18926,7 +18926,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=203",
+        "url": "https://github.com/pathway27/bookr-mod-vita/releases/download/v0.4.0a/bookr-mod-vita-v0.4.0a.vpk",
         "data": ""
     },
     {
@@ -19126,7 +19126,7 @@
         "source": "https://github.com/ammeir/worminator",
         "release_page": "https://kyuhen.customprotocol.com/en/submissions/worminator3/",
         "trailer": "",
-        "size": "872823",
+        "size": "29017876",
         "data_size": "28145921",
         "hash": "590bd9f6057844cf854b62d17840e11a",
         "hash2": "",
@@ -19136,7 +19136,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=664",
+        "url": "https://github.com/ammeir/worminator/releases/download/v1.0/worminator_v10.zip",
         "data": "https://www.rinnegatamante.eu/files/vitadb/worminator.zip"
     },
     {
@@ -21706,7 +21706,7 @@
         "source": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL",
         "release_page": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases",
         "trailer": "",
-        "size": "2392562",
+        "size": "415091",
         "data_size": "28680897",
         "hash": "54391e85a6921142ab36f7c81ca5ff70",
         "hash2": "",
@@ -21716,7 +21716,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=553",
+        "url": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/download/Nightly/builder.zip",
         "data": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/download/Nightly/DaedalusX64.zip"
     },
     {
@@ -25976,7 +25976,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=370",
+        "url": "https://github.com/gnmmarechal/VSOI/releases/download/v0.1/VSOI.vpk",
         "data": ""
     },
     {
@@ -26506,7 +26506,7 @@
         "source": "https://github.com/usineur/opentitus",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48673",
         "trailer": "",
-        "size": "555457",
+        "size": "555491",
         "data_size": "0",
         "hash": "495d2ba3a20a83777073064265e8b48d",
         "hash2": "",
@@ -26516,7 +26516,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=345",
+        "url": "https://github.com/usineur/opentitus/releases/download/1.0/Moktar.vpk",
         "data": ""
     },
     {
@@ -26756,7 +26756,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=332",
+        "url": "https://github.com/nop90-PSVITA/SDLLopan-VITA/releases/download/v1.0/SDLLopan.vpk",
         "data": ""
     },
     {
@@ -27166,7 +27166,7 @@
         "source": "https://github.com/Rinnegatamante/lpp-vita",
         "release_page": "https://wololo.net/talk/viewtopic.php?f=116&t=46242",
         "trailer": "",
-        "size": "2365705",
+        "size": "8950843",
         "data_size": "2006669",
         "hash": "ef66059cf81606426a7957df4eb27ff7",
         "hash2": "ac1afa6a019694c2c1e4080558cd88c7",
@@ -27176,7 +27176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=290",
+        "url": "https://github.com/Rinnegatamante/lpp-vita/releases/download/r6/lpp-vita_R6.rar",
         "data": "https://www.rinnegatamante.eu/files/vitadb/lpp-vita.zip"
     },
     {
@@ -28666,7 +28666,7 @@
         "source": "https://github.com/usineur/hota",
         "release_page": "https://gbatemp.net/threads/release-hota.445832/",
         "trailer": "",
-        "size": "909434",
+        "size": "402380",
         "data_size": "34446088",
         "hash": "2469625578c97b15cc8943e3a4b956c2",
         "hash2": "",
@@ -28676,7 +28676,7 @@
         "tags": "",
         "ai": "0",
         "score": "73",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=126",
+        "url": "https://github.com/usineur/hota/releases/download/vita-1.0/HOTA.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/HOTA_datas.zip"
     },
     {
@@ -29876,7 +29876,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=145",
+        "url": "https://github.com/xyzz/vita-idu/releases/download/1.0/idu-mode.vpk",
         "data": ""
     },
     {

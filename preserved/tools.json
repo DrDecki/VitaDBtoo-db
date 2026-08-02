@@ -61,7 +61,7 @@
         "source": "",
         "release_page": "https://github.com/AntHJ/Boxset-Bubble-Creator/releases",
         "trailer": "",
-        "size": "199763039",
+        "size": "200238997",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -69,7 +69,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=797"
+        "url": "https://github.com/AntHJ/Boxset-Bubble-Creator/releases/download/v1.426/Boxset.Bubble.Creator.0426.zip"
     },
     {
         "name": "Video Bubbles Creator",
@@ -109,7 +109,7 @@
         "source": "",
         "release_page": "https://github.com/AntHJ/SD2Vita-Format-Tool",
         "trailer": "",
-        "size": "565414",
+        "size": "564074",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -117,7 +117,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=707"
+        "url": "https://github.com/AntHJ/SD2Vita-Format-Tool/releases/download/1.2/FormatTool-lite.zip"
     },
     {
         "name": "RetroBuilder",
@@ -133,7 +133,7 @@
         "source": "https://github.com/DRok17/RetroBuilder",
         "release_page": "https://github.com/DRok17/RetroBuilder/releases",
         "trailer": "",
-        "size": "1356104",
+        "size": "1356101",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -141,7 +141,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=661"
+        "url": "https://github.com/DRok17/RetroBuilder/releases/download/v3.1/RetroBuilder-3.1.zip"
     },
     {
         "name": "Fake-08-Builder",
@@ -157,7 +157,7 @@
         "source": "https://github.com/DRok17/Fake-08-Builder",
         "release_page": "https://github.com/DRok17/Fake-08-Builder/releases",
         "trailer": "",
-        "size": "537471",
+        "size": "568299",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -165,7 +165,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=703"
+        "url": "https://github.com/DRok17/Fake-08-Builder/releases/download/v1.0/Fake08-Builder-v.1.0.zip"
     },
     {
         "name": "ScummVM Builder",
@@ -301,7 +301,7 @@
         "source": "https://github.com/Electry/VitaPresence",
         "release_page": "https://github.com/Electry/VitaPresence/releases",
         "trailer": "",
-        "size": "1531941",
+        "size": "765602",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -309,7 +309,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=545"
+        "url": "https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence-GUI_v1.0.0_x64.zip"
     },
     {
         "name": "Psvimgtools Easy Frontend",
@@ -373,7 +373,7 @@
         "source": "https://github.com/motoharu-gosuto/psvpfstools",
         "release_page": "https://github.com/motoharu-gosuto/psvpfstools/releases",
         "trailer": "",
-        "size": "2116451",
+        "size": "353660",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -381,7 +381,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=362"
+        "url": "https://github.com/motoharu-gosuto/psvpfstools/releases/download/v2.0/release_ubuntu64.zip"
     },
     {
         "name": "pkg2zip",
@@ -397,7 +397,7 @@
         "source": "https://github.com/mmozeiko/pkg2zip",
         "release_page": "https://github.com/mmozeiko/pkg2zip/releases",
         "trailer": "",
-        "size": "88213",
+        "size": "43743",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -405,7 +405,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=342"
+        "url": "https://github.com/mmozeiko/pkg2zip/releases/download/v1.8/pkg2zip_32bit.zip"
     },
     {
         "name": "PSVitaStuff",

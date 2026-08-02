@@ -16,7 +16,7 @@
         "source": "https://github.com/bucanero/apollo-psp",
         "release_page": "https://github.com/bucanero/apollo-psp/releases",
         "trailer": "",
-        "size": "7356568",
+        "size": "7362152",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -25,7 +25,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1068",
+        "url": "https://github.com/bucanero/apollo-psp/releases/download/v2.3.2/apollo-psp.zip",
         "data": ""
     },
     {
@@ -45,7 +45,7 @@
         "source": "https://github.com/Mode8fx/blockamok",
         "release_page": "https://github.com/Mode8fx/blockamok/releases",
         "trailer": "",
-        "size": "1934667",
+        "size": "1870541",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -54,7 +54,7 @@
         "trophies": "0",
         "tags": "0",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1282",
+        "url": "https://github.com/Mode8fx/blockamok/releases/download/v1.21/BlockamokRemix-v1.2-3dsx.zip",
         "data": ""
     },
     {
@@ -74,7 +74,7 @@
         "source": "https://github.com/Mips96/Trogdor-Reburninated",
         "release_page": "https://github.com/Mips96/Trogdor-Reburninated/releases",
         "trailer": "",
-        "size": "9210617",
+        "size": "6496524",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -83,7 +83,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1016",
+        "url": "https://github.com/Mode8fx/Trogdor-Reburninated/releases/download/v2.4/Trogdor-Reburninated-v2.4-3ds-cia.zip",
         "data": ""
     },
     {
@@ -103,7 +103,7 @@
         "source": "https://github.com/Mode8fx/SuDokuL",
         "release_page": "https://github.com/Mode8fx/SuDokuL/releases",
         "trailer": "",
-        "size": "2384632",
+        "size": "2692972",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -112,7 +112,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1206",
+        "url": "https://github.com/Mode8fx/SuDokuL/releases/download/v1.5/SuDokuL-v1.5-3ds-cia.zip",
         "data": ""
     },
     {
@@ -132,7 +132,7 @@
         "source": "https://github.com/joel16/CMFileManager-PSP",
         "release_page": "https://github.com/joel16/CMFileManager-PSP/releases",
         "trailer": "",
-        "size": "2645046",
+        "size": "2722300",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -141,7 +141,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=941",
+        "url": "https://github.com/joel16/CMFileManager-PSP/releases/download/v4.12/CMFileManager-PSP-GO-M2.zip",
         "data": ""
     },
     {
@@ -161,7 +161,7 @@
         "source": "https://github.com/bucanero/pkgi-psp",
         "release_page": "https://github.com/bucanero/pkgi-psp/releases",
         "trailer": "",
-        "size": "5375743",
+        "size": "5423491",
         "data_size": "0",
         "hash": "5147089d6dbc8a32d0f45df91a90e96d",
         "hash2": "",
@@ -170,7 +170,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1167",
+        "url": "https://github.com/bucanero/pkgi-psp/releases/download/v1.1.0/pkgi-psp.zip",
         "data": ""
     },
     {
@@ -422,7 +422,7 @@
         "source": "https://github.com/KorigamiK/UntitledPSP",
         "release_page": "https://github.com/KorigamiK/UntitledPSP/releases",
         "trailer": "",
-        "size": "1777976",
+        "size": "25860537",
         "data_size": "0",
         "hash": "5bbb735f5e840ec9b05b2e99d1fe3622",
         "hash2": "",
@@ -431,7 +431,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1008",
+        "url": "https://github.com/KorigamiK/UntitledPSP/releases/download/0.2.5/untitled-linux.zip",
         "data": ""
     },
     {
@@ -625,7 +625,7 @@
         "source": "https://github.com/nzp-team/nzportable",
         "release_page": "https://github.com/nzp-team/nzportable/releases",
         "trailer": "",
-        "size": "30584290",
+        "size": "73064821",
         "data_size": "0",
         "hash": "db199fcc7e28a1ce23730bf0a0654029",
         "hash2": "",
@@ -634,7 +634,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=910",
+        "url": "https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-3ds.zip",
         "data": ""
     },
     {
@@ -712,7 +712,7 @@
         "source": "https://github.com/kevinbchen/cspsp",
         "release_page": "https://github.com/kevinbchen/cspsp/releases",
         "trailer": "",
-        "size": "6738067",
+        "size": "6738442",
         "data_size": "0",
         "hash": "22feca3eb0061309848aa6d252f64724",
         "hash2": "",
@@ -721,7 +721,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=934",
+        "url": "https://github.com/kevinbchen/cspsp/releases/download/v1.92b/cspsp-1.92b.zip",
         "data": ""
     },
     {
@@ -770,7 +770,7 @@
         "source": "https://github.com/Crow-bar/xash3d-fwgs",
         "release_page": "https://github.com/Crow-bar/xash3d-fwgs/releases",
         "trailer": "",
-        "size": "4793875",
+        "size": "4889692",
         "data_size": "0",
         "hash": "1da4eae51d7b6f62dbddc373c80dd3fc",
         "hash2": "",
@@ -779,7 +779,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=919",
+        "url": "https://github.com/Crow-bar/xash3d-fwgs/releases/download/2603/xash3d_2603_WIP.zip",
         "data": ""
     },
     {
@@ -828,7 +828,7 @@
         "source": "https://github.com/WagicProject/wagic",
         "release_page": "https://github.com/WagicProject/wagic/releases",
         "trailer": "",
-        "size": "27623416",
+        "size": "655833",
         "data_size": "0",
         "hash": "7c3a9f05f2111d738819a0547f0d28a2",
         "hash2": "",
@@ -837,7 +837,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=906",
+        "url": "https://github.com/WagicProject/wagic/releases/download/wagic-v0.25.5/CardImageDownloader.zip",
         "data": ""
     },
     {
@@ -886,7 +886,7 @@
         "source": "https://github.com/SJRNoodles/AgarioPSP",
         "release_page": "https://github.com/SJRNoodles/AgarioPSP/releases",
         "trailer": "",
-        "size": "325999",
+        "size": "326423",
         "data_size": "0",
         "hash": "ff1818e687dbd9f206ad1d4aaf8842b3",
         "hash2": "",
@@ -895,7 +895,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=891",
+        "url": "https://github.com/SJRNoodles/AgarioPSP/releases/download/r1/agar.zip",
         "data": ""
     },
     {
@@ -944,7 +944,7 @@
         "source": "https://github.com/aggressivepixels/ccleste",
         "release_page": "https://github.com/aggressivepixels/ccleste/releases",
         "trailer": "",
-        "size": "1901064",
+        "size": "1900578",
         "data_size": "0",
         "hash": "5e8baec72a123d0193ab36a57a574f22",
         "hash2": "",
@@ -953,7 +953,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=938",
+        "url": "https://github.com/aggressivepixels/ccleste/releases/download/v0.1/Celeste.zip",
         "data": ""
     },
     {
@@ -1031,7 +1031,7 @@
         "source": "https://github.com/IridescentRose/Slender-PSP",
         "release_page": "https://github.com/IridescentRose/Slender-PSP/releases",
         "trailer": "",
-        "size": "14251986",
+        "size": "14162519",
         "data_size": "0",
         "hash": "e7ea172fe5d2f98019eb37ad60cff34a",
         "hash2": "",
@@ -1040,7 +1040,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=974",
+        "url": "https://github.com/IridescentRose/Slender-PSP/releases/download/v1.1/Slender.zip",
         "data": ""
     },
     {
@@ -1089,7 +1089,7 @@
         "source": "https://github.com/DaedalusX64/daedalus",
         "release_page": "",
         "trailer": "",
-        "size": "35927923",
+        "size": "35895692",
         "data_size": "0",
         "hash": "b84d2d56a89ad6f545e188b6203e99e7",
         "hash2": "",
@@ -1098,7 +1098,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=929",
+        "url": "https://github.com/DaedalusX64/daedalus/releases/download/1.1.8/DaedalusX64_1_1_8.zip",
         "data": ""
     },
     {
@@ -1118,7 +1118,7 @@
         "source": "https://github.com/EmiyaBestBoy/Touhou-Mohofu-PSP-Mod",
         "release_page": "https://github.com/EmiyaBestBoy/Touhou-Mohofu-PSP-Mod/releases",
         "trailer": "",
-        "size": "35269132",
+        "size": "35107652",
         "data_size": "0",
         "hash": "cfaf85af3d4de7c1b6ec1578dd01113d",
         "hash2": "",
@@ -1127,7 +1127,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=967",
+        "url": "https://github.com/EmiyaBestBoy/Touhou-Mohofu-PSP-Mod/releases/download/v40.2/Touhou.Mohofu.Mod.r40.2.zip",
         "data": ""
     },
     {
@@ -1263,7 +1263,7 @@
         "source": "https://github.com/bomblik/GNU_Robbo_PSVITA_PSP",
         "release_page": "https://github.com/bomblik/GNU_Robbo_PSVITA_PSP/releases",
         "trailer": "",
-        "size": "3049641",
+        "size": "3840296",
         "data_size": "0",
         "hash": "94a31e49d49f4ec47bea59521b38e8d8",
         "hash2": "",
@@ -1272,7 +1272,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=912",
+        "url": "https://github.com/bomblik/GNU_Robbo_PSVITA_PSP/releases/download/GNU_Robbo_0.68_PSVITA/gnurobbo_0.68.vpk",
         "data": ""
     },
     {
@@ -1350,7 +1350,7 @@
         "source": "https://github.com/bomblik/BlockOut_II_PSP",
         "release_page": "https://github.com/bomblik/BlockOut_II_PSP/releases",
         "trailer": "",
-        "size": "4139743",
+        "size": "4141984",
         "data_size": "0",
         "hash": "ba90e1dd477c9058b1191b05968945c7",
         "hash2": "",
@@ -1359,7 +1359,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=911",
+        "url": "https://github.com/bomblik/BlockOut_II_PSP/releases/download/v1.0/BlockOut_II_PSP.zip",
         "data": ""
     },
     {
@@ -1466,7 +1466,7 @@
         "source": "https://github.com/gtzampanakis/bookr",
         "release_page": "https://github.com/gtzampanakis/bookr/releases",
         "trailer": "",
-        "size": "4186668",
+        "size": "4041294",
         "data_size": "0",
         "hash": "c744213d6729b5094b0d51f5fdcf644e",
         "hash2": "",
@@ -1475,7 +1475,7 @@
         "trophies": "0",
         "tags": "",
         "ai": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=908",
+        "url": "https://github.com/gtzampanakis/bookr/releases/download/v8.2.0/bookr.zip",
         "data": ""
     },
     {

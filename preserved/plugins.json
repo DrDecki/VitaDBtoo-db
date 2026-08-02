@@ -133,7 +133,7 @@
         "source": "https://github.com/mswlandi/vitakeyboard",
         "release_page": "https://github.com/mswlandi/vitakeyboard/releases",
         "trailer": "",
-        "size": "92137",
+        "size": "8516",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -141,7 +141,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=785"
+        "url": "https://github.com/mswlandi/vitakeyboard/releases/download/v1.1/hidkeyboard.skprx"
     },
     {
         "name": "psp2wpp",
@@ -381,7 +381,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=667"
+        "url": "https://github.com/Ibrahim778/X1Vita/releases/download/V1.0/X1Vita.skprx"
     },
     {
         "name": "Walk",
@@ -445,7 +445,7 @@
         "source": "https://github.com/MERLev/reVita",
         "release_page": "https://github.com/MERLev/reVita/releases",
         "trailer": "",
-        "size": "84733",
+        "size": "86609",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -453,7 +453,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=592"
+        "url": "https://github.com/MERLev/reVita/releases/download/1.0.8/reVita.skprx"
     },
     {
         "name": "ds34vita",
@@ -525,7 +525,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=659"
+        "url": "https://github.com/Princess-of-Sleeping/reSavedata/releases/download/v1.0/resavedata.skprx"
     },
     {
         "name": "vita3g-disable",
@@ -637,7 +637,7 @@
         "source": "https://github.com/joel16/dt2s-vita",
         "release_page": "https://www.psx-place.com/threads/dt2s-vita-double-tap-2-sleep-for-ps-vita.31638/#post-265969",
         "trailer": "",
-        "size": "3062",
+        "size": "5263",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -645,7 +645,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=590"
+        "url": "https://github.com/joel16/dt2s-vita/releases/download/v1.1/dt2s.suprx"
     },
     {
         "name": "FdFix",
@@ -709,7 +709,7 @@
         "source": "https://github.com/joel16/PSV-VSH-Menu",
         "release_page": "https://github.com/joel16/PSV-VSH-Menu/releases",
         "trailer": "",
-        "size": "20165",
+        "size": "2843",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -717,7 +717,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=293"
+        "url": "https://github.com/joel16/PSV-VSH-Menu/releases/download/3.40/kuio.skprx"
     },
     {
         "name": "UDCD UVC",
@@ -733,7 +733,7 @@
         "source": "https://github.com/xerpi/vita-udcd-uvc",
         "release_page": "https://github.com/xerpi/vita-udcd-uvc/releases",
         "trailer": "",
-        "size": "16451",
+        "size": "6159",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -741,7 +741,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=395"
+        "url": "https://github.com/xerpi/vita-udcd-uvc/releases/download/1.7/udcd_uvc.skprx"
     },
     {
         "name": "ds4touch",
@@ -757,7 +757,7 @@
         "source": "https://github.com/MERLev/ds4Touch",
         "release_page": "https://github.com/MERLev/ds4Touch/releases",
         "trailer": "",
-        "size": "5025",
+        "size": "3429",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -765,7 +765,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=579"
+        "url": "https://github.com/MERLev/ds4Touch/releases/download/1.1.3/ds4touch.skprx"
     },
     {
         "name": "remaPSV2",
@@ -805,7 +805,7 @@
         "source": "https://github.com/Emiougus/TriggerRemap",
         "release_page": "https://github.com/Emiougus/TriggerRemap/releases",
         "trailer": "",
-        "size": "2316938",
+        "size": "2387",
         "data_size": "0",
         "hash": null,
         "hash2": "",
@@ -813,7 +813,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=568"
+        "url": "https://github.com/Emiougus/TriggerRemap/releases/download/v1.0/TriggerRemap.suprx"
     },
     {
         "name": "MiniVitaTV",
@@ -829,7 +829,7 @@
         "source": "https://github.com/TheOfficialFloW/MiniVitaTV",
         "release_page": "https://github.com/TheOfficialFloW/MiniVitaTV/releases",
         "trailer": "",
-        "size": "34217",
+        "size": "32653",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -837,7 +837,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=388"
+        "url": "https://github.com/TheOfficialFloW/MiniVitaTV/releases/download/v0.5/ds3.skprx"
     },
     {
         "name": "dejavu",
@@ -877,7 +877,7 @@
         "source": "https://github.com/CelesteBlue-dev/PSVita-StorageMgr",
         "release_page": "https://github.com/CelesteBlue-dev/PSVita-StorageMgr/releases",
         "trailer": "",
-        "size": "16647",
+        "size": "17285",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -885,7 +885,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=368"
+        "url": "https://github.com/TeamFAPS/PSVita-StorageMgr/releases/download/v3.2/storagemgr.skprx"
     },
     {
         "name": "VitaGrafix",
@@ -1101,7 +1101,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=289"
+        "url": "https://github.com/OperationNT414C/ShellSecBat/releases/download/V10/shellsecbat.suprx"
     },
     {
         "name": "vitacompanion",
@@ -1333,7 +1333,7 @@
         "source": "https://github.com/TheOfficialFloW/VitaTweaks",
         "release_page": "https://github.com/TheOfficialFloW/VitaTweaks/releases",
         "trailer": "",
-        "size": "2233",
+        "size": "2953",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -1341,7 +1341,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=390"
+        "url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx"
     },
     {
         "name": "NoLockscreen",
@@ -1357,7 +1357,7 @@
         "source": "https://github.com/TheOfficialFloW/VitaTweaks",
         "release_page": "https://github.com/TheOfficialFloW/VitaTweaks/releases",
         "trailer": "",
-        "size": "1784",
+        "size": "2953",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -1365,7 +1365,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=389"
+        "url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx"
     },
     {
         "name": "NoTrophyMsg",
@@ -1381,7 +1381,7 @@
         "source": "https://github.com/TheOfficialFloW/VitaTweaks",
         "release_page": "https://github.com/TheOfficialFloW/VitaTweaks/releases",
         "trailer": "",
-        "size": "1808",
+        "size": "2953",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -1389,7 +1389,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=391"
+        "url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx"
     },
     {
         "name": "vitastick",
@@ -1429,7 +1429,7 @@
         "source": "https://github.com/Rinnegatamante/Framecounter",
         "release_page": "http://wololo.net/talk/viewtopic.php?t=48014",
         "trailer": "",
-        "size": "6864",
+        "size": "11878",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -1437,7 +1437,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=231"
+        "url": "https://github.com/Rinnegatamante/Framecounter/releases/download/v.1.0/Framecounter.rar"
     },
     {
         "name": "vFlux",
@@ -1525,7 +1525,7 @@
         "source": "https://github.com/yifanlu/usbmc",
         "release_page": "https://github.com/yifanlu/usbmc/releases",
         "trailer": "",
-        "size": "39256",
+        "size": "3543",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -1533,7 +1533,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=286"
+        "url": "https://github.com/yifanlu/usbmc/releases/download/v6/usbmc.skprx"
     },
     {
         "name": "vita-ps4linkcontrols",
@@ -1725,7 +1725,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=296"
+        "url": "https://github.com/OperationNT414C/FakeCamera/releases/download/1.2/fakecamera.suprx"
     },
     {
         "name": "FakeCameraBMP",
@@ -1741,7 +1741,7 @@
         "source": "https://github.com/OperationNT414C/FakeCamera",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48367",
         "trailer": "",
-        "size": "26622",
+        "size": "3656",
         "data_size": "0",
         "hash": "d41d8cd98f00b204e9800998ecf8427e",
         "hash2": "",
@@ -1749,7 +1749,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=331"
+        "url": "https://github.com/OperationNT414C/FakeCamera/releases/download/1.2.1/dsmotion.skprx"
     },
     {
         "name": "usbhostfs",
@@ -1773,7 +1773,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=335"
+        "url": "https://github.com/Cpasjuste/usbhostfs/releases/download/8f6c5e8/usbhostfs_release-v1.0.zip"
     },
     {
         "name": "SavedataPlus",
@@ -2029,7 +2029,7 @@
         "source": "https://github.com/xerpi/ds4vita",
         "release_page": "https://github.com/xerpi/ds4vita/releases",
         "trailer": "",
-        "size": "6033",
+        "size": "7401",
         "data_size": "0",
         "hash": "d41d8cd98f00b204e9800998ecf8427e",
         "hash2": "",
@@ -2037,7 +2037,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=38"
+        "url": "https://github.com/xerpi/ds4vita/releases/download/hooks/ds4vita.skprx"
     },
     {
         "name": "ds3vita",
