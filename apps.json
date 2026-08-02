@@ -267,7 +267,7 @@
         "ai": "0",
         "score": "87",
         "url": "https://github.com/Rinnegatamante/UT99-Vita/releases/download/v.0.8/ut99.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/ut99.zip"
+        "data": "https://github.com/Rinnegatamante/UT99-Vita/releases/download/v.0.8/ut99.zip"
     },
     {
         "name": "GreenVita",
@@ -687,7 +687,7 @@
         "ai": "0",
         "score": "67.4",
         "url": "https://github.com/Rinnegatamante/afterburner-vita/releases/download/v.1.1/afterburner.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/afterburner.zip"
+        "data": "https://github.com/Rinnegatamante/afterburner-vita/releases/download/v.1.1/afterburner.zip"
     },
     {
         "name": "Geometrizer",
@@ -837,7 +837,7 @@
         "ai": "1",
         "score": "68.8",
         "url": "https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/alephone.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/AlephOne.zip"
+        "data": "https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/AlephOne.zip"
     },
     {
         "name": "RetroFlow Launcher",
@@ -1287,7 +1287,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/withLogic/mog-vita/releases/download/v1.0/mog.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/mog.zip"
+        "data": "https://github.com/withLogic/mog-vita/releases/download/v1.0/data.zip"
     },
     {
         "name": "Wrecking Wave",
@@ -1527,7 +1527,7 @@
         "ai": "0",
         "score": "66",
         "url": "https://github.com/withLogic/sdl-sopwith-vita/releases/download/1.0.0/SDL-Sopwith.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/SDL-Sopwith.zip"
+        "data": "https://github.com/withLogic/sdl-sopwith-vita/releases/download/1.0.0/data.zip"
     },
     {
         "name": "Vita VirtualKeyboard",
@@ -1617,7 +1617,7 @@
         "ai": "0",
         "score": "90.7",
         "url": "https://github.com/Rinnegatamante/Ghostship/releases/download/v.1.2/Ghostship.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/ghostship.zip"
+        "data": "https://github.com/Rinnegatamante/Ghostship/releases/download/v.1.2/ghostship.zip"
     },
     {
         "name": "Red Space Vita",
@@ -1737,7 +1737,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.2.5/VitaDB.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/VitaDB.zip"
+        "data": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases/download/v.1.8/VitaDB.zip"
     },
     {
         "name": "ZGloom-Vita",
@@ -1767,7 +1767,7 @@
         "ai": "1",
         "score": "79",
         "url": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v05.2026-v2/ZGloomCollection.05.2026.v2.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/ZGloom.zip"
+        "data": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v11.2025/ZGloom-Datafiles.zip"
     },
     {
         "name": "OpenVitaLiero",
@@ -1947,7 +1947,7 @@
         "ai": "0",
         "score": "91.3",
         "url": "https://github.com/Rinnegatamante/2ship2harkinian/releases/download/v.1.2/2ship2harkinian.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/2s2h.zip"
+        "data": "https://github.com/Rinnegatamante/2ship2harkinian/releases/download/v.1.2/2s2h.zip"
     },
     {
         "name": "Spaghetti Kart Vita",
@@ -1977,7 +1977,7 @@
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/Rinnegatamante/SpaghettiKart/releases/download/v.1.1/spaghetti.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/spaghetti.zip"
+        "data": "https://github.com/Rinnegatamante/SpaghettiKart/releases/download/v.1.1/spaghetti.zip"
     },
     {
         "name": "Leo's Fortune Vita",
@@ -2307,7 +2307,7 @@
         "ai": "0",
         "score": "86.1",
         "url": "https://github.com/Rinnegatamante/Starship/releases/download/v.1.0/Starship.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/starship.zip"
+        "data": "https://github.com/Rinnegatamante/Starship/releases/download/v.1.0/starship.zip"
     },
     {
         "name": "Star Warfare: Alien Invasion",
@@ -4737,7 +4737,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DvaMishkiLapa/biplanes-revival-vita/releases/download/v1.2.1-fix1/BiplanesRevival.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/biplanes_revival_data.zip"
+        "data": "https://github.com/DvaMishkiLapa/biplanes-revival-vita/releases/download/v1.2.1/biplanes_revival_data.zip"
     },
     {
         "name": "Yardlings Vita",
@@ -5967,7 +5967,7 @@
         "ai": "0",
         "score": "74.8",
         "url": "https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/openrct2.zip"
+        "data": "https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/data.zip"
     },
     {
         "name": "Wipeout Rewrite Vita",
@@ -8427,7 +8427,7 @@
         "ai": "0",
         "score": "82.1",
         "url": "https://github.com/v-atamanenko/sonic3air/releases/download/beta-2/sonic3air-beta2.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/sonic3air.zip"
+        "data": "https://github.com/v-atamanenko/sonic3air/releases/download/beta-1/sonic3air.zip"
     },
     {
         "name": "StratagemHeroVita",
@@ -8997,7 +8997,7 @@
         "ai": "0",
         "score": "67.4",
         "url": "https://github.com/Rinnegatamante/raider-vita/releases/download/v.1.2/Raider.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/tombraider.zip"
+        "data": "https://github.com/Rinnegatamante/raider-vita/releases/download/v.1.2/datafiles.zip"
     },
     {
         "name": "Freeways Vita",
@@ -9417,7 +9417,7 @@
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/Northfear/OpenXcom-vita/releases/download/v.7.10.0-vita.1/oxce.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/oxce-data.zip"
+        "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v.7.10.0-vita.1/oxce-data.zip"
     },
     {
         "name": "Z2",
@@ -9597,7 +9597,7 @@
         "ai": "0",
         "score": "82.2",
         "url": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/openxcom-data.zip"
+        "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom-data.zip"
     },
     {
         "name": "Dune Legacy",
@@ -9627,7 +9627,7 @@
         "ai": "0",
         "score": "80",
         "url": "https://github.com/Northfear/dunelegacy-vita/releases/download/0.97.02-vita.1/dunelegacy.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/dunelegacy_data.zip"
+        "data": "https://github.com/Northfear/dunelegacy-vita/releases/download/0.97.02-vita.1/dunelegacy_data.zip"
     },
     {
         "name": "Hit'em balls",
@@ -10197,7 +10197,7 @@
         "ai": "0",
         "score": "72.4",
         "url": "https://web.archive.org/web/20250221072828id_/https://www.rinnegatamante.eu/files/vitadb/lateshift.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/lateshift_data.zip"
+        "data": "https://github.com/Rinnegatamante/OpenFMV/releases/download/v.1.0-ls/tools.zip"
     },
     {
         "name": "Professor Layton: Curious Village HD Vita",
@@ -11007,7 +11007,7 @@
         "ai": "0",
         "score": "82.8",
         "url": "https://github.com/Rinnegatamante/fahrenheit-vita/releases/download/v.0.9.1/Fahrenheit.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/Fahrenheit.zip"
+        "data": "https://github.com/Rinnegatamante/fahrenheit-vita/releases/download/v.0.9/datafiles.zip"
     },
     {
         "name": "Sonic Mania Vita",
@@ -11097,7 +11097,7 @@
         "ai": "0",
         "score": "78.1",
         "url": "https://github.com/Rinnegatamante/hrm-vita/releases/download/v.1.3.1/HRM.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/hrm.zip"
+        "data": "https://github.com/Rinnegatamante/hrm-vita/releases/download/v.1.3.1/datafiles.zip"
     },
     {
         "name": "SMB2SE Vita",
@@ -12387,7 +12387,7 @@
         "ai": "0",
         "score": "74.7",
         "url": "https://github.com/Rinnegatamante/seven-vita/releases/download/v.1.1/billion.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/7billion.zip"
+        "data": "https://github.com/Rinnegatamante/seven-vita/releases/download/v.1.1/datafiles.zip"
     },
     {
         "name": "Galaxy on Fire 2 Vita",
@@ -12867,7 +12867,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/Aerofoil.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/aerofoil.zip"
+        "data": "https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/aerofoil.zip"
     },
     {
         "name": "Cut the Rope Vita",
@@ -14697,7 +14697,7 @@
         "ai": "0",
         "score": "78.6",
         "url": "https://github.com/Northfear/stratagus-vita/releases/download/v3.3.2-vita.3/stratagus.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/stratagus_data.zip"
+        "data": "https://github.com/Northfear/stratagus-vita/releases/download/v3.3.2-vita.3/stratagus_data.zip"
     },
     {
         "name": "CrossCraft Classic",
@@ -14817,7 +14817,7 @@
         "ai": "0",
         "score": "76.6",
         "url": "https://github.com/Rinnegatamante/rvgl-vita/releases/download/v.1.2/RVGL.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/rvgl.zip"
+        "data": "https://github.com/Rinnegatamante/rvgl-vita/releases/download/v.1.1/datafiles.zip"
     },
     {
         "name": "Death Road to Canada Lite",
@@ -14847,7 +14847,7 @@
         "ai": "0",
         "score": "81.7",
         "url": "https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite/releases/download/v.1.0/Canada.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/canada.zip"
+        "data": "https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite/releases/download/v.1.0/canada.zip"
     },
     {
         "name": "Pekka Kana 2 Vita",
@@ -15507,7 +15507,7 @@
         "ai": "0",
         "score": "73",
         "url": "https://github.com/v-atamanenko/osu-octave/releases/download/1.20/osu-octave.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/data-maps.zip"
+        "data": "https://github.com/v-atamanenko/osu-octave/releases/download/1.20/data-maps.zip"
     },
     {
         "name": "YoYo Loader Vita",
@@ -16047,7 +16047,7 @@
         "ai": "0",
         "score": "82.6",
         "url": "https://github.com/argarak/uqm-vita/releases/download/rev1/uqm.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/uqm-data-full.zip"
+        "data": "https://github.com/argarak/uqm-vita/releases/download/rev1/uqm-data-full.zip"
     },
     {
         "name": "Vita Milk",
@@ -17307,7 +17307,7 @@
         "ai": "0",
         "score": "85.7",
         "url": "https://github.com/Northfear/gemrb-vita/releases/download/v0.8.8-vita.7/gemrb.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/gemrb_data.zip"
+        "data": "https://github.com/Northfear/gemrb-vita/releases/download/v0.8.8-vita.7/gemrb_data.zip"
     },
     {
         "name": "Crystal Archiver",
@@ -17517,7 +17517,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/DRok17/QuickLaunch-Installer/releases/download/v1.4/QLINSTLPP.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/quicklaunch.zip"
+        "data": "https://github.com/DRok17/QuickLaunch-Installer/releases/download/v1.4/data.zip"
     },
     {
         "name": "Cook, Serve, Delicious! Vita",
@@ -19527,7 +19527,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/rsn8887/basiliskii-vita/releases/download/0.33hgit-rsn8887/BasiliskII_Vita_v0.33h.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/13/BasiliskII.zip"
+        "data": "https://github.com/rsn8887/basiliskii-vita/releases/download/0.33hgit-rsn8887/data.zip"
     },
     {
         "name": "We Are Broken",
@@ -22737,7 +22737,7 @@
         "ai": "0",
         "score": "82",
         "url": "https://github.com/usineur/SDLPoP/releases/download/vita-1.7/SDLPoP-Vita.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/prince.zip"
+        "data": "https://github.com/usineur/SDLPoP/releases/download/vita-1.6/prince.zip"
     },
     {
         "name": "FlappyBird Classic",
@@ -24897,7 +24897,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/mirrormagic_vita_1.12.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/mirrormagic.zip"
+        "data": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/mirrormagic_data.zip"
     },
     {
         "name": "rocksndiamonds",
@@ -24927,7 +24927,7 @@
         "ai": "0",
         "score": "78",
         "url": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/rocksndiamonds_vita_1.12.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/rocksndiamonds.zip"
+        "data": "https://github.com/rsn8887/rocksndiamonds/releases/download/1.15/rocksndiamonds_data.zip"
     },
     {
         "name": "Wiiero",
@@ -25377,7 +25377,7 @@
         "ai": "0",
         "score": "0",
         "url": "https://github.com/rsn8887/Enigma/releases/download/1.16/enigma_1.11.vpk",
-        "data": "https://www.rinnegatamante.eu/files/vitadb/enigma.zip"
+        "data": "https://github.com/rsn8887/Enigma/releases/download/1.16/data.zip"
     },
     {
         "name": "Henkaku Enso 3.60 Installer",

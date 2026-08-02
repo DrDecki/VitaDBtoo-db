@@ -33,7 +33,7 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | Icons | 100% (1341) |
 | Screenshots | 3% (56 of 2186) |
 | Trailers | 3% (2 of 62) |
-| Data files | 0% (133 missing) |
+| Data files | 0% (98 missing) |
 | Trophy data | 0% |
 <!-- /STATS -->
 
