@@ -10,7 +10,7 @@ candidate is the right build.
 
 Many entries link to a [GameBrew](https://www.gamebrew.org) page that documents the
 same homebrew, often with a working download. Those download links only work from a
-browser, which is exactly why a human is needed here.
+browser, so they cannot be resolved automatically. Help with these is welcome.
 
 | Type | Name | Version | Author | Size | Known source | GameBrew |
 | --- | --- | --- | --- | ---: | --- | --- |
@@ -159,7 +159,7 @@ browser, which is exactly why a human is needed here.
 
 ## Unmatched archived files
 
-The Internet Archive holds 606 further files from the old webhost that could not
+The Internet Archive holds 644 further files from the old webhost that could not
 be matched to an entry above. Filenames rarely match the display name, so this
 needs someone who recognises them.
 
@@ -176,9 +176,11 @@ needs someone who recognises them.
 13/VitaShell.vpk
 13/cbs_manager.vpk
 13/quake2.zip
+13/vitaHexenII.vpk
 19/uae4all.vpk
 4Rows.vpk
 7billion.zip
+AGWOAN-PSV.vpk
 ASUPERSMALLSHMUP.vpk
 AbbayeDesMorts.vpk
 AbbayeDesMorts.zip
@@ -212,6 +214,7 @@ CSDLICIUS.vpk
 CSE2.vpk
 CSPSP.vpk
 CSPSP.zip
+CTManager.vpk
 Canada.vpk
 CandyCrisisResources.zip
 CandyWrapper.vpk
@@ -223,9 +226,11 @@ CommanderGenius.vpk
 CommanderGenius_data.zip
 ConsoleID.vpk
 Consolepedia.vpk
+Cookie.Clicker.vpk
 CopyIcons.vpk
 Crash-Dump-Delete.vpk
 Crashlands.vpk
+Crazy%20Traffic%20Jam%203D.vpk
 CroMag.vpk
 CroMagRally.zip
 CrossCraft-Classic.vpk
@@ -248,7 +253,9 @@ DstroyVita.vpk
 Dungeon.UI.Update.vpk
 EDuke32.zip
 EUCLIOD.zip
+EasyRPG_Player.vpk
 EasySwitchVita.vpk
+Eldritch.vpk
 ElevenMPV.vpk
 FBClassic.vpk
 FF3.vpk
@@ -263,6 +270,8 @@ FamilyFeud.vpk
 Faraway.Space.vpk
 Framecapper.zip
 FranBowChapter2.vpk
+FranBowChapter3.vpk
+Freeway%20Mutant.vpk
 FrozenEngine%20Vita.vpk
 GAMIDEF00.vpk
 GOO.vpk
@@ -271,6 +280,7 @@ GTASA.vpk
 Gato_Roboto.vpk
 GirlsAreWeird.vpk
 GolfingOverIt.vpk
+Grave.vpk
 HBInjectorv.1.2.6.vpk
 HCL.vpk
 HCL.zip
@@ -308,10 +318,12 @@ Homebrews/GoHAN_Parallel.vpk
 Homebrews/HackInformer.vpk
 Homebrews/HandyVITA.vpk
 Homebrews/History_Deleter.vpk
+Homebrews/MaiDumpTool.vpk
 Homebrews/MediaImporter.vpk
 Homebrews/Minicraft.vpk
 Homebrews/MoonWhitelister.vpk
 Homebrews/NeopopVITA.vpk
+Homebrews/OpenSyobon.vpk
 Homebrews/PSVibe.vpk
 Homebrews/PickrVITA.vpk
 Homebrews/Procedural_Planets.vpk
@@ -323,6 +335,7 @@ Homebrews/ReversMe.vpk
 Homebrews/Shutdown.vpk
 Homebrews/Simple_Text_Editor.vpk
 Homebrews/Snes9xVITA.vpk
+Homebrews/StarKiller2D.vpk
 Homebrews/SwitchKaKu.vpk
 Homebrews/SystemCheckEnabled.vpk
 Homebrews/TextQuest.vpk
@@ -346,6 +359,7 @@ Homebrews/database_update_reboot.vpk
 Homebrews/desmume.vpk
 Homebrews/doggytwicevt.vpk
 Homebrews/flappybird.vpk
+Homebrews/floodit.vpk
 Homebrews/flppy_bird.vpk
 Homebrews/game_shrinker.vpk
 Homebrews/gameoflife.vpk
@@ -363,11 +377,13 @@ Homebrews/tactical_miner.vpk
 Homebrews/uriCaller.vpk
 Homebrews/vita-activator.vpk
 Homebrews/vitaAirHockey.vpk
+Homebrews/vitashellthememanager.vpk
 Howard.vpk
 IMCUnlockLite.vpk
 IMSCARED0.vpk
 INK.vpk
 IsItFake.vpk
+Issyos.vpk
 JetMan-3D.vpk
 KETM.vpk
 KETM.zip
@@ -379,6 +395,7 @@ Lango.vpk
 LifeLua.vpk
 MSweep.vpk
 MV.vpk
+MVPLAYER0.vpk
 MaDn.vpk
 Mad_Bomber_Vita.vpk
 MassEffectInfiltrator.vpk
@@ -391,6 +408,7 @@ MightyMike.zip
 MikuVU.vpk
 MilkyTracker.vpk
 Minesweeper.vpk
+Minit.vpk
 Minit_Fun_Racer.vpk
 NBlood_new.zip
 Nanosaur.vpk
@@ -403,6 +421,7 @@ NightInTheWoods.vpk
 Noboru.vpk
 Notepad.vpk
 NumptyPhysics.zip
+ONScripter-Vita.vpk
 OmegaStrike.vpk
 OnslaughtArena.vpk
 OpenHCL_Vita.vpk
@@ -450,6 +469,7 @@ Sakura.Succubus.IV.vpk
 SaveTheBees.vpk
 ShaRKBR33D.vpk
 ShaRKF00D.vpk
+SharkShark.vpk
 Slendrina2D.vpk
 SlendrinaFree.vpk
 Slime-vBall.vpk
@@ -471,6 +491,7 @@ TLOL.vpk
 TWOM.vpk
 Terri-Fried.vpk
 Titus.vpk
+TreasureChasers.vpk
 Trogdor-RB.zip
 TuxFootball.vpk
 UniPCemu.vpk
@@ -504,6 +525,7 @@ WHGVita.vpk
 Wipeout.vpk
 Wordle.vpk
 XUMP00001.vpk
+YARDLINGS.vpk
 YYLLOGDEL.vpk
 ZGloom.vpk
 ZeldaPicross.vpk
@@ -520,7 +542,9 @@ anomaly_defenders.vpk
 anomaly_korea.vpk
 aowv2.vpk
 apollo-vita.vpk
+asteroidsvh.VPK
 augustus.vpk
+avp.vpk
 babel.vpk
 backstab.vpk
 batteryFixer.vpk
@@ -530,6 +554,7 @@ bermuda-vita.vpk
 billion.vpk
 biplanes_revival_data.zip
 blues.vpk
+boggle.vpk
 breach.vpk
 bstone.zip
 buildspr.vpk
@@ -557,6 +582,7 @@ dmc4.vpk
 dolmexica_infinite.vpk
 dstroydata.zip
 dsvita.vpk
+duke2.vpk
 dunelegacy.vpk
 dunelegacy_data.zip
 dungeonrush.vpk
@@ -569,6 +595,7 @@ enbornx.vpk
 enigma.zip
 enso365.vpk
 enso_ex.vpk
+ets.vpk
 exult.vpk
 exult.zip
 ezremoteclient.vpk
@@ -582,11 +609,13 @@ fingerprint.vpk
 fink.vpk
 fishpod.vpk
 flappy.vpk
+flare.vpk
 flare.zip
 flashlight.vpk
 fontInstaller.vpk
 freespace2_demo.zip
 freeways.vpk
+fsnrnue.vpk
 ftpclient.vpk
 funky.vpk
 gdash.vpk
@@ -603,6 +632,7 @@ hbs/enso.vpk
 hbs/vita_cord.vpk
 hode.vpk
 homebrew/EDuke32.vpk
+homebrew/MangaDownloader.vpk
 homebrew/VitaBackup.vpk
 homebrew/bstone.vpk
 homebrew/enigma.vpk
@@ -626,6 +656,7 @@ iwrtu.vpk
 jazz.zip
 jfduke3d.vpk
 jfduke3d.zip
+jfsw.vpk
 jfsw.zip
 jftekwar.vpk
 jftekwar.zip
@@ -642,6 +673,7 @@ letsgolf2.vpk
 lpp-vita.zip
 lswtcs.vpk
 luaVitaSeccy.vpk
+marmalade_bunkai.vpk
 max.zip
 mcpixel.vpk
 mediacenter.vpk
@@ -731,12 +763,16 @@ swordigo.vpk
 systemshock.vpk
 tamatool-vita.vpk
 tema.vpk
+tetromino.vpk
+thextech.vpk
 thimbleweed.vpk
 tombraider.zip
 toon-rescue.vpk
 trainsliveldn.vpk
+trex.vpk
 tworld-vita.vpk
 uMario.vpk
+ufoai.vpk
 umario_vita.vpk
 unimaker.vpk
 unreal.vpk
@@ -752,6 +788,8 @@ vita-account-manager.vpk
 vita-timer.vpk
 vitaExhumed.vpk
 vitaQuake.vpk
+vitaQuakeIII.vpk
+vitaRTCW.vpk
 vitaSurviving.vpk
 vitaVoyager.vpk
 vitaWolfen.zip

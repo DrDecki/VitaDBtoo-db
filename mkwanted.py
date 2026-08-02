@@ -41,7 +41,7 @@ out.append('The file size below is the one VitaDB recorded, which makes it easy 
 out.append('candidate is the right build.\n\n')
 out.append('Many entries link to a [GameBrew](https://www.gamebrew.org) page that documents the\n')
 out.append('same homebrew, often with a working download. Those download links only work from a\n')
-out.append('browser, which is exactly why a human is needed here.\n\n')
+out.append('browser, so they cannot be resolved automatically. Help with these is welcome.\n\n')
 out.append('| Type | Name | Version | Author | Size | Known source | GameBrew |\n')
 out.append('| --- | --- | --- | --- | ---: | --- | --- |\n')
 gb = {}
