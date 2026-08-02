@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 269 entries survive in the catalogue with full metadata, but their download
+These 249 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -117,42 +117,29 @@ candidate is the right build.
 | PSP | rpg2kpp | v.0.12 Beta Test 04 | seerouxdark | 1.1 MB | - |
 | PSP | uo gpSP Kai | v.3.4 test 4 b230 | Exophase & Takka & ErikPshat | 0.8 MB | - |
 | Plugin | AdrBubbleBooter | v.0.5 | Leecherman | 0.1 MB | - |
-| Plugin | AnalogsEnhancer | v.1.1 | Rinnegatamante | 0.0 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=49475) |
 | Plugin | ArkRightAnalog | v.1.0 | reprep & TheFloW | 0.0 MB | - |
-| Plugin | AutoBoot | v.1.2 | Rinnegatamante | 0.0 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48156) |
 | Plugin | Better Amphetamin | v.3.5 Beta 2 | BeatPlay | 0.1 MB | - |
-| Plugin | BrownNoise | v.1.0 | Rinnegatamante | 0.0 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48117) |
 | Plugin | ButtonSwap | v.0.2 | Scorpeg | 0.0 MB | - |
 | Plugin | DSMotion | v.1.2 | OperationNT | 0.0 MB | - |
 | Plugin | Download Enabler | v.4 | TheFloW | 0.0 MB | - |
 | Plugin | DukeMod Plugin | v.000 | forcefiftythree | 0.0 MB | - |
 | Plugin | Freescreenshots Plugin | v.1.0 | reprep | 0.0 MB | - |
 | Plugin | History Wipe | v.1 | NamelessGhoul0 | 0.0 MB | - |
-| Plugin | InfiniteNet | v.1.0 | Rinnegatamante | 0.0 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48336) |
 | Plugin | Killzone Trainer | v.1.12 | vosman | 0.0 MB | - |
 | Plugin | Lastseconds | v.1.0 | theorywrong | 0.1 MB | - |
 | Plugin | Mac Address Spoofer | v.1.0 | Princess-Of-Sleeping | 0.0 MB | [link](https://kyuhen.customprotocol.com/en/submissions/mac_address_spoofer/) |
 | Plugin | Netcheck Bypass | v.0.1 | yifanlu | 0.0 MB | - |
 | Plugin | ReNpDrm | v.5 BETA | CelesteBlue | 0.0 MB | [link](http://renpdrm.customprotocol.com/release_page.php) |
-| Plugin | SavedataPlus | v.0.8 | Rinnegatamante | 0.0 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48585) |
 | Plugin | SceKernelModuleDumper | v.1.0 | Princess-of-Sleeping | 0.0 MB | [link](https://github.com/Princess-of-Sleeping/SceKernelModuleDumper/releases) |
-| Plugin | Screenie | v.1.1 | Rinnegatamante | 0.0 MB | - |
 | Plugin | Screenshot Enabler | v.1.0 | reprep & yifanlu | 0.0 MB | - |
 | Plugin | ShellDateSecBat | v.2 | OperationNT | 0.0 MB | - |
 | Plugin | Soul Sacrifice Delta Trainer | v.1.0 | vosman | 0.1 MB | - |
 | Plugin | SysDualTouch | v.0.1 | Voxel9 | 0.0 MB | [link](https://github.com/Voxel9/Vita-SysDualTouch/releases) |
-| Plugin | TouchRemap | v.1.1 | Rinnegatamante | 0.0 MB | - |
-| Plugin | TrackPlug | v.1.1 | Rinnegatamante | 2.0 MB | - |
-| Plugin | TurboPad | v.0.3 | Rinnegatamante | 0.0 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48065&p=418081#p418081) |
 | Plugin | Ultimate VSH Menu | Test Build | joel16 | 0.0 MB | - |
 | Plugin | Uncharted Trainer | v.1.03 | vosman | 0.1 MB | - |
 | Plugin | Unit13 Trainer | v.1.01 | vosman | 0.1 MB | - |
-| Plugin | VITA2PC | v.0.2 | Rinnegatamante | 0.9 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48459) |
 | Plugin | VITAbattery | v.1.4 | joel16 | 0.0 MB | - |
-| Plugin | Vita Recorder | v.0.1.1 | Rinnegatamante | 0.1 MB | [link](https://kyuhen.customprotocol.com/en/submissions/vita_recorder) |
 | Plugin | VitaMount | v.1.0 | Darkmet98 | 0.0 MB | - |
-| Plugin | WDNF | v.1.0 | EchoDev & Rinnegatamante | 0.0 MB | - |
-| Plugin | WDNR | v.1.0 | Rinnegatamante | 0.0 MB | - |
 | Plugin | Walk | v.1.0 | pathway27 | 0.0 MB | [link](https://kyuhen.customprotocol.com/en/submissions/walk) |
 | Plugin | Watermark Disabler | v.1.0 | reprep | 0.0 MB | - |
 | Plugin | Wipeout 2048 Trainer | v.1.04 | vosman | 0.0 MB | - |
@@ -161,19 +148,14 @@ candidate is the right build.
 | Plugin | c0ck blocker | v.1.1 | qwikrazor87 | 0.0 MB | - |
 | Plugin | ds3vita | beta 3 | xerpi | 0.0 MB | - |
 | Plugin | fakegc | v.1.0 | SKGleba | 0.0 MB | [link](https://github.com/SKGleba/VitaTools) |
-| Plugin | hbRedirect | v.1.0 | Rinnegatamante | 0.0 MB | [link](https://kyuhen.customprotocol.com/en/submissions/hb_redirect) |
 | Plugin | hidmouse | v.0.1 | xerpi | 0.0 MB | - |
 | Plugin | idstorage dumper | v.1.0 | zecoxao | 0.0 MB | - |
-| Plugin | kuio | v.1.2 | Rinnegatamante | 0.0 MB | - |
 | Plugin | noled | v.1.1 | xerpi & reprep | 0.0 MB | - |
 | Plugin | nosleep | v.1.1 | NamelessGhoul0 | 0.0 MB | - |
 | Plugin | oclockvita | v.1.2.1 | frangarcj | 0.0 MB | - |
 | Plugin | oclockvitaminimal | v.1.0 | reprep & frangarcj | 0.0 MB | - |
 | Plugin | psp2shell | #cd019a7 | cpasjuste | 0.0 MB | - |
-| Plugin | reRescaler | v.0.1 BETA | Rinnegatamante | 0.0 MB | [link](http://wololo.net/talk/viewtopic.php?f=52&t=49666) |
-| Plugin | rinCheat | v.0.1 | Rinnegatamante | 0.6 MB | - |
 | Plugin | sceShutterSoundPlayDisable | v.1.0 | Princess-of-Sleeping | 0.0 MB | [link](https://github.com/Princess-of-Sleeping/sceShutterSoundPlayDisable/releases) |
-| Plugin | uo_amphetamin | v.1.0 | Rinnegatamante | 0.1 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=46901) |
 | Plugin | uo_gamesd | v.1.0 | SonryP & xyzz | 0.0 MB | - |
 | Plugin | viimote | v.1.1 | xerpi | 0.0 MB | - |
 | Plugin | vitastick | v.0.4.1 alpha | xerpi | 0.1 MB | [link](https://github.com/xerpi/vitastick/releases) |
@@ -185,11 +167,9 @@ candidate is the right build.
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - |
 | Tool | PkgDecrypt | v.1.1 | st4rk & weaknespase | 0.1 MB | - |
 | Tool | Qcma | v.0.4.1 | codestation | 91.3 MB | - |
-| Tool | Video Bubbles Creator | v.1.2 | Rinnegatamante | 4.2 MB | - |
 | Tool | psvimgtools | v.0.1 | yifanlu | 6.1 MB | - |
 | Tool | psvtools | v.0.1.0 | kageurufu | 0.0 MB | - |
 | Tool | unpkg_vita | v.1.3 | RikuKH3 | 0.3 MB | - |
-| Tool | vid2pshv | v.1.0 | Rinnegatamante | 12.4 MB | - |
 | Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - |
 | Vita | ABYSS | v.2.1 | Balder | 162.9 MB | [link](https://balderdragonslayer.itch.io/abyss) |
 | Vita | Abuse Vita | v.0.8 | Rinnegatamante | 7.2 MB | [link](https://www.psx-place.com/threads/release-abuse-vita-abuse-sdl-port-for-psvita-pstv.33594/) |
