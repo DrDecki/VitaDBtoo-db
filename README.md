@@ -1,70 +1,93 @@
 # VitaDBtoo-db
 
-Static backend for [VitaDBtoo](https://github.com/DrDecki/VitaDBtoo), a community-run
-continuation of the VitaDB homebrew store for PsVita/PSTV after the official service
-went offline.
+A community-run rescue of [VitaDB](https://www.rinnegatamante.eu/vitadb), the homebrew
+database for PSVITA/PSTV, after the official service went offline on 2026-07-31.
 
-Served via GitHub Pages at `https://drdecki.github.io/VitaDBtoo-db/`.
+This repository is the catalogue: application metadata, icons and screenshots, served as
+static files over GitHub Pages at `https://drdecki.github.io/VitaDBtoo-db/`.
 
-## Data provenance
+## What survived
 
-The metadata in this repository is a snapshot of the official VitaDB database taken
-from a local client cache (`ux0:data/VitaDB`) on **2026-07-31**, the last state before
-the service shut down.
+The metadata comes from a local client cache (`ux0:data/VitaDB`) captured on **2026-07-31**,
+the last state of the database before shutdown. The plugin and PC tool catalogues were
+recovered from the Internet Archive. Download links were then resolved individually, either
+to the author's GitHub release or to an archived copy of the original file.
 
-- `apps.json` — 1019 PsVita homebrews
-- `psp_apps.json` — 127 PSP homebrews
-- `icons/` — 1341 app icons, full coverage of both databases
+| | Entries | With a working download |
+| --- | ---: | ---: |
+| PSVITA homebrews | 1019 | 930 |
+| Plugins | 123 | 62 |
+| PSP homebrews | 127 | 21 |
+| PC tools | 27 | 14 |
+| **Total** | **1296** | **1027** |
 
-## Endpoint mapping
+Every entry keeps its original curated metadata: name, version, author, description,
+changelog, requirements, category, release date and download count. That part cannot be
+reconstructed from repositories, which is what makes this catalogue worth keeping.
 
-The original backend was PHP-based. Since VitaDBtoo is a fork of the client, the
-query-parameter endpoints are patched out rather than emulated.
+Also preserved: **1341 icons** (full coverage of both app databases) and **56 screenshots**
+recovered from the Internet Archive.
 
-| Original | Replacement |
+## Files
+
+| Path | Contents |
 | --- | --- |
-| `list_hbs_json.php` | `apps.json` |
-| `list_psp_hbs_json.php` | `psp_apps.json` |
-| `list_minimal_hbs_json.php` | `minimal.json` |
-| `icons_zip.php` | `icons.zip` |
-| `icons/<hash>.png` | `icons/<hash>.png` |
-| `get_hb_url.php?id=X` | `url` field, read directly from the app entry |
-| `get_psarc_url.php?id=X` | `data` field, read directly from the app entry |
-| `get_page.php?id=X&type=src\|rel` | `source` / `release_page` fields |
+| `apps.json` | PSVITA homebrews |
+| `psp_apps.json` | PSP homebrews |
+| `minimal.json` | id, titleid and hashes, for the update daemon |
+| `icons/` | app icons, `<sha256>.png` |
+| `icons.zip` | all icons as one archive |
+| `screenshots/` | recovered screenshots |
+| `preserved/plugins.json` | plugin catalogue |
+| `preserved/tools.json` | PC tool catalogue |
+| `WANTED.md` | entries whose download is still missing |
 
-Themes are unaffected: they have always been hosted separately at
-[CatoTheYounger97/vitaDB_themes](https://github.com/CatoTheYounger97/vitaDB_themes)
-and continue to work without changes.
+The plugin and tool catalogues live under `preserved/` because the original client never
+listed them; they were separate sections of the VitaDB website. They are kept in the same
+schema so a client can consume them the same way.
 
-## Icon layout
+## Using this catalogue
 
-Two layouts are required and both are generated from `icons/`:
+Every entry carries a direct download URL in its `url` field, so a client does not need a
+redirect endpoint. Downloads point either at a GitHub release asset or at an archived copy
+on `web.archive.org`; both have been verified on hardware.
 
-- `icons/<hash>.png` — flat, for single-icon fetches
-- `icons.zip` — grouped into two-character subdirectories (`<hash[:2]>/<hash>.png`),
-  because the client extracts the archive into `ux0:data/VitaDB/icons/` and then reads
-  from `icons/<2 chars>/<hash>.png`
+If you are writing a client against this, note that download counts are frozen at their
+2026-07-31 values. Static hosting cannot count downloads, so sorting by popularity reflects
+the state at shutdown and will not change.
 
-## Not yet available
+Known consumers: [VitaForge](https://github.com/josephinoo) by josephinoo, and
+[VitaDBtoo](https://github.com/DrDecki/VitaDBtoo), a fork of the original client.
 
-- **Screenshots** (815 apps) and **trailers** (62 apps) were hosted on the original
-  webhost and are not part of the cache snapshot.
-- **Download hosting.** The `url` fields still point at the dead `get_hb_url.php`
-  endpoint. 473 of 1019 apps carry a GitHub `release_page`, which can be resolved to
-  the upstream release asset; the remaining 546 need another source.
+## What is missing
 
-## Rebuilding
+- **269 downloads**, listed in [WANTED.md](WANTED.md). Contributions welcome.
+- **Screenshots**: 56 of roughly 2200 were archived.
+- **Trailers and trophy data**: almost nothing was archived.
 
-After changing `apps.json`, `psp_apps.json` or `icons/`:
+Themes are unaffected and continue to work: they have always been hosted separately at
+[CatoTheYounger97/vitaDB_themes](https://github.com/CatoTheYounger97/vitaDB_themes).
+
+## Maintaining
+
+Adding a homebrew, given a direct URL to its VPK:
 
 ```
+python3 add_app.py --url <vpk-url> --type port --author "Name" --desc "Short description" \
+                   --source https://github.com/... --release-page https://github.com/.../releases
 python3 build_db.py
 ```
 
-This regenerates `minimal.json` and `icons.zip` and verifies icon coverage.
+`add_app.py` reads the title, title ID, version and icon out of the VPK itself and computes
+size and MD5. `build_db.py` regenerates `minimal.json` and `icons.zip` and verifies icon
+coverage. Run it after any change to `apps.json`, `psp_apps.json` or `icons/`.
 
-## Licensing
+`mkwanted.py` regenerates `WANTED.md`.
 
-App metadata and icons are the work of the individual homebrew authors listed in the
-database. This repository redistributes them to keep the store usable; takedown
-requests from any author will be honoured.
+## Credits and takedowns
+
+VitaDB was created and run by **Rinnegatamante**. The catalogue is his work and that of
+every homebrew author in it; this repository only keeps it reachable.
+
+If you are an author and want your application removed, open an issue and it will be taken
+down.
