@@ -13,20 +13,29 @@ the last state of the database before shutdown. The plugin and PC tool catalogue
 recovered from the Internet Archive. Download links were then resolved individually, either
 to the author's GitHub release or to an archived copy of the original file.
 
+Every entry keeps its original curated metadata: name, version, author, description,
+changelog, requirements, category, release date and download count. That part cannot be
+reconstructed from repositories, which is what makes this catalogue worth keeping.
+
+
+<!-- STATS -->
 | | Entries | With a working download |
 | --- | ---: | ---: |
 | PSVITA homebrews | 1019 | 930 |
 | Plugins | 123 | 62 |
 | PSP homebrews | 127 | 21 |
 | PC tools | 27 | 14 |
-| **Total** | **1296** | **1027** |
+| **Total** | **1296** | **1027 (79%)** |
 
-Every entry keeps its original curated metadata: name, version, author, description,
-changelog, requirements, category, release date and download count. That part cannot be
-reconstructed from repositories, which is what makes this catalogue worth keeping.
-
-Also preserved: **1341 icons** (full coverage of both app databases) and **56 screenshots**
-recovered from the Internet Archive.
+| Asset | Recovered |
+| --- | ---: |
+| Metadata | 100% (1296 entries) |
+| Icons | 100% (1341) |
+| Screenshots | 3% (56 of 2186) |
+| Trailers | 3% (2 of 62) |
+| Data files | 0% (133 missing) |
+| Trophy data | 0% |
+<!-- /STATS -->
 
 ## Files
 
