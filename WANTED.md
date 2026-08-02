@@ -704,3 +704,146 @@ xash3d.zip
 z2.vpk
 zelda3_attp.zip
 ```
+
+## Missing data files
+
+133 applications need a separate data archive that was hosted alongside the VPK.
+These were the port specific files only, not full game assets: the user had to
+supply the original game data themselves. The app installs without them but will
+not start.
+
+| Name | Author | Data size |
+| --- | --- | ---: |
+| 2ship2harkinian Vita | Rinnegatamante | 0.3 MB |
+| 7 Billion Humans Vita | Rinnegatamante | 0.0 MB |
+| Abbaye Des Morts Vita | Rinnegatamante | 0.3 MB |
+| Aerofoil Vita | Rinnegatamante | 8.9 MB |
+| After Burner Climax Vita | Rinnegatamante | 0.1 MB |
+| Aleph One Vita | DrDecki | 0.3 MB |
+| AvP Gold | Rinnegatamante | 0.0 MB |
+| Basilisk II | meetpatty & rsn8887 | 0.0 MB |
+| Beat2x Vita | Rinnegatamante | 47.8 MB |
+| Bermuda Vita | usineur | 17.1 MB |
+| Billy Frontier Vita | Rinnegatamante | 79.1 MB |
+| Biplanes Revival | theSame | 0.2 MB |
+| Bugdom 2 Vita | Rinnegatamante | 124.2 MB |
+| Bully Vita | TheFloW & Rinnegatamante | 0.2 MB |
+| CSPSV | Cello0314 | 6.4 MB |
+| Candy Crisis Vita | Rinnegatamante | 5.2 MB |
+| Cannonball | rsn8887 | 0.0 MB |
+| Chocolate Doom | fgsfds | 3.9 MB |
+| Commander Genius | Northfear | 1.2 MB |
+| Cro-Mag Rally Vita | Rinnegatamante | 122.5 MB |
+| CrossCraft SurvivalTest | Iridescence & MotoLegacy | 32.7 MB |
+| Death Road to Canada Lite | Rinnegatamante & CatoTheYounger | 0.3 MB |
+| Dethrace Vita | Rinnegatamante | 15.5 MB |
+| Devil May Cry 4 Refrain Vita | yizhigai & SpriteLisen & KAAAsS | 0.5 MB |
+| Doom64EX | Rinnegatamante | 0.0 MB |
+| Dstroy Vita | Rinnegatamante | 3.2 MB |
+| Dune Legacy | Northfear | 0.9 MB |
+| EDuke32 Vita | Rinnegatamante | 4.8 MB |
+| EQVita | shev0k | 0.0 MB |
+| EUCLIOD | HexZyle & Rinnegatamante | 0.0 MB |
+| EasyRPG Player | EasyRPG Team & Rinnegatamante | 48.3 MB |
+| Eldritch Vita | Rinnegatamante | 0.0 MB |
+| Enigma | rsn8887 | 67.0 MB |
+| Exult Vita | einmueller | 10.5 MB |
+| Fahrenheit Vita | Rinnegatamante & TheFloW | 0.4 MB |
+| Flare RPG | Rinnegatamante | 122.7 MB |
+| Freespace Collection | Rinnegatamante | 57.0 MB |
+| GTA: SA Vita | TheFloW & Rinnegatamante & aap | 0.0 MB |
+| GemRB | Northfear | 1.2 MB |
+| Ghostship Vita | Rinnegatamante | 0.0 MB |
+| HCL-Vita | Rinnegatamante | 2.0 MB |
+| HOTA | usineur | 32.9 MB |
+| Hex-A-Hop Vita | withLogic | 32.9 MB |
+| Human Resource Machine Vita | Rinnegatamante | 0.0 MB |
+| Hurrican | ammeir | 35.9 MB |
+| Jinyong Legend | yizhigai | 12.2 MB |
+| K.E.T.M. Vita | Rinnegatamante | 9.6 MB |
+| Katawa Shoujo r7 | avonder | 88.6 MB |
+| LOVE | hatoving | 2.3 MB |
+| Late Shift Vita | Rinnegatamante | 1.1 MB |
+| Lua Player Plus Vita | Rinnegatamante | 1.9 MB |
+| Max Payne | fgsfds & TheFloW | 0.0 MB |
+| Methane | usineur | 0.0 MB |
+| MicroCHIP | Rinnegatamante | 0.0 MB |
+| Mighty Mike Vita | Rinnegatamante | 7.2 MB |
+| Minicraft Vita | Rinnegatamante | 0.1 MB |
+| Mog Vita | withLogic | 32.8 MB |
+| NRedneck Vita | Rinnegatamante | 0.0 MB |
+| Nanosaur 2 Vita | Rinnegatamante | 101.3 MB |
+| Nanosaur Vita | Rinnegatamante | 12.0 MB |
+| Neverball Vita | Rinnegatamante | 57.6 MB |
+| Neverputt Vita | Rinnegatamante | 23.9 MB |
+| Numpty Physics | Rinnegatamante & meetpatty | 0.0 MB |
+| OpenJazz | usineur | 0.0 MB |
+| OpenRCT2-CE Vita | technicaljicama | 4.1 MB |
+| OpenTTD | angguss | 56.0 MB |
+| OpenVitaLiero | Ak1M1223 | 0.8 MB |
+| OpenXcom | Northfear | 3.0 MB |
+| OpenXcom Extended | Northfear | 3.1 MB |
+| OttoMatic Vita | Rinnegatamante | 136.2 MB |
+| PC Link | Arkanite | 3.1 MB |
+| Perfect Dark Vita | Rinnegatamante & fgsfds | 0.0 MB |
+| Postal Vita | Rinnegatamante | 0.0 MB |
+| Potatoom 3 | Rinnegatamante | 458.1 MB |
+| PrBoom Plus | fgsfds | 7.2 MB |
+| Prototype Vita | Rinnegatamante | 17.6 MB |
+| Quakespasm-Spiked | Rinnegatamante | 8.2 MB |
+| QuickLaunch Installer | DRok17 | 2.0 MB |
+| RVGL | Rinnegatamante | 0.0 MB |
+| RVGL Loader | Rinnegatamante | 0.0 MB |
+| RigelEngine Vita | Rinnegatamante | 0.9 MB |
+| SDL Prince of Persia Vita | usineur | 0.3 MB |
+| SDL Sopwith Vita | withLogic | 0.0 MB |
+| Serious Sam TFE Vita | fgsfds | 82.1 MB |
+| Serious Sam TSE Vita | fgsfds | 82.1 MB |
+| Ship of Harkinian Vita  | Rinnegatamante | 0.2 MB |
+| Sonic 3 A.I.R. | MDashK & gl33ntwine & Rinnegatamante | 4.1 MB |
+| Sonic Mania Vita | SonicMastr | 1.7 MB |
+| Sonic SMS 3 Timelines | MDashK | 4.4 MB |
+| Spaghetti Kart Vita | Rinnegatamante | 0.1 MB |
+| Starship Vita | Rinnegatamante | 0.0 MB |
+| Super Mario All-Stars Vita | Rinnegatamante | 0.0 MB |
+| Super Mario World Vita | Rinnegatamante | 0.0 MB |
+| SuperMarioWar | Rinnegatamante | 12.1 MB |
+| Tomb Raider 1 & 2 Classic Collection | Rinnegatamante | 0.1 MB |
+| Trogdor: Reburninated | Mode8fx | 7.2 MB |
+| UT99 Vita | Rinnegatamante | 0.0 MB |
+| Unreal Vita | fgsfds | 0.0 MB |
+| VanillaRA | Northfear | 1065.5 MB |
+| VanillaTD | Northfear | 892.9 MB |
+| VitaDB Downloader | Rinnegatamante | 5.0 MB |
+| VitaPad | Rinnegatamante | 19.7 MB |
+| Wargus | Northfear | 14.5 MB |
+| Wiiero | Grzybojad | 19.0 MB |
+| Wipeout Rewrite Vita | Rinnegatamante | 30.5 MB |
+| Worminator 3 | ammeir | 26.8 MB |
+| ZGloom-Vita | Andiweli & JetStreamSham | 17.1 MB |
+| Zelda3 Vita | Rinnegatamante | 0.0 MB |
+| Zik-Zak Vita | Rinnegatamante | 1.2 MB |
+| bstone-vita | 01y | 1.1 MB |
+| fheroes2 | Northfear & fheroes2 Team | 19.5 MB |
+| jfblood-vita | Rinnegatamante | 21.5 MB |
+| jfduke3d-vita | Rinnegatamante | 4.8 MB |
+| jfsw-vita | Rinnegatamante | 103.9 MB |
+| jftekwar-vita | Rinnegatamante | 0.0 MB |
+| luaIrc | Rinnegatamante | 0.0 MB |
+| meritous | Rinnegatamante | 2.3 MB |
+| mirrormagic | rsn8887 | 1.5 MB |
+| osu!octave | gl33ntwine | 134.3 MB |
+| pSNES | cpasjuste | 1.1 MB |
+| rinCheat SE | Rinnegatamante | 0.0 MB |
+| rocksndiamonds | rsn8887 | 1.4 MB |
+| rottexpr-vita | Northfear | 16.4 MB |
+| sdlpal | usineur | 136.1 MB |
+| ufoai-vita | Rinnegatamante | 1244.1 MB |
+| uqm-vita | argarak | 359.9 MB |
+| vitaHexenII | Rinnegatamante | 2.1 MB |
+| vitaQuake | Rinnegatamante | 8.1 MB |
+| vitaQuakeII | Rinnegatamante | 119.2 MB |
+| vitaRTCW | Rinnegatamante | 18.0 MB |
+| vitaVoyager | Rinnegatamante | 637.8 MB |
+| vitaWolfen | Rinnegatamante | 1.1 MB |
+| vitaXash3D | fgsfds | 50.7 MB |
