@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 249 entries survive in the catalogue with full metadata, but their download
+These 247 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -40,7 +40,6 @@ candidate is the right build.
 | PSP | JellyCar | v.1.1 | Drakon | 2.8 MB | - |
 | PSP | Kitten Cannon | Cash Tournament Edition | SG57 | 4.6 MB | - |
 | PSP | Kurok | v.0.40 | MDave | 41.7 MB | - |
-| PSP | LUA Hanging | v.1.2 | Rinnegatamante | 1.1 MB | - |
 | PSP | Lamecraft | r56 | Drakon | 2.7 MB | - |
 | PSP | Left 4 Quake | v.0.8 Demo | Ribcaged Entertainment | 55.9 MB | [link](https://www.moddb.com/games/tsluecke) |
 | PSP | LightMP3 | v.2.0.0 RC4 | Sakya | 1.3 MB | - |
@@ -66,7 +65,6 @@ candidate is the right build.
 | PSP | PSP Revolution | v.0.3a | DeNitro & Devin923 | 20.9 MB | - |
 | PSP | PSP-FTP | v.1.0 | liquid8d | 0.2 MB | - |
 | PSP | PSP-FTPD | v.0.5.0 | PSPKrazy & Raf & ZX-81 | 0.6 MB | - |
-| PSP | PSPBriscola | v.1.4 | Rinnegatamante | 9.3 MB | - |
 | PSP | PSPKVM | v.0.5.5 | Slepper & M@x & Anweifeng & Aj Milne | 13.2 MB | - |
 | PSP | PSPKick | v.3.0 | Noah Vawter & Nathan Wray | 11.8 MB | - |
 | PSP | PSPMania | v.4.0 | mafu | 60.7 MB | [link](https://github.com/mafu9/PSPMania) |
