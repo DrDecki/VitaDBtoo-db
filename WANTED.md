@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 247 entries survive in the catalogue with full metadata, but their download
+These 236 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -170,7 +170,6 @@ candidate is the right build.
 | Tool | unpkg_vita | v.1.3 | RikuKH3 | 0.3 MB | - |
 | Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - |
 | Vita | ABYSS | v.2.1 | Balder | 162.9 MB | [link](https://balderdragonslayer.itch.io/abyss) |
-| Vita | Abuse Vita | v.0.8 | Rinnegatamante | 7.2 MB | [link](https://www.psx-place.com/threads/release-abuse-vita-abuse-sdl-port-for-psvita-pstv.33594/) |
 | Vita | AdrBubbleBooterInstaller | v.0.6 | Leecherman | 0.4 MB | [link](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) |
 | Vita | Aperture Reconstructed | v.0.4.00 | MRKane | 71.8 MB | [link](https://mrkane.itch.io/aperturereconstructed) |
 | Vita | App DB Tool | v.6.0 | luck & kylon | 0.3 MB | [link](https://bitbucket.org/kylon/appdbtool) |
@@ -180,7 +179,6 @@ candidate is the right build.
 | Vita | BIOHAZARD4 Vita | v.1.1 | yizhigai & SpriteLisen & KAAAsS | 3.1 MB | [link](https://gitee.com/Moqi01/bio4) |
 | Vita | BattleShip Arena | v.1.2 | DesiRED | 0.3 MB | [link](https://wololo.net/talk/viewtopic.php?f=116&t=46614) |
 | Vita | Blue Bayou | v.1.0 | bokoyoss | 24.9 MB | [link](https://bokonon-yossarian.itch.io/blue-bayou) |
-| Vita | Bugdom 2 Vita | v.1.0 | Rinnegatamante | 1.7 MB | [link](https://www.psx-place.com/threads/release-bugdom-2-vita.45870/) |
 | Vita | COD: BOZ Vita | v.1.06 | devnoname120 | 1.8 MB | - |
 | Vita | Chex Quest Vita | v.1.0 | Claude AI | 0.3 MB | [link](https://github.com/DraxTube/chexquest-vita/releases) |
 | Vita | Chinese Social Credit Test | v.1.0 | Ximer | 37.0 MB | [link](https://ximer.itch.io/chinese-social-credit-test) |
@@ -210,16 +208,12 @@ candidate is the right build.
 | Vita | Lugaru HD | beta 1 | diggeloid | 15.4 MB | [link](https://aramallo.itch.io/lugaru-vita-port) |
 | Vita | MLTactivator | FIX2 | MiraLaTijera & Draqen | 0.4 MB | [link](http://wololo.net/2017/08/14/mltactivator-activate-ps-vita-offline/) |
 | Vita | MaiDumpTool (English) | v.233.2zEx | LioMajor | 4.1 MB | - |
-| Vita | Neverball Vita | v.1.0 | Rinnegatamante | 1.5 MB | [link](https://www.psx-place.com/threads/release-neverball-vita-port-of-neverball-for-psvita.38247/) |
 | Vita | Notepad Vita | v.1.0 | VitaHEX games | 4.3 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48500) |
-| Vita | Numpty Physics | v.0.5 | Rinnegatamante & meetpatty | 1.2 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48080) |
 | Vita | PSV MIDI Player | v.1.0 | snkilc | 0.2 MB | [link](https://gbatemp.net/threads/psv-midi-player-v1-0-native-fluidsynth-based-midi-player-for-vita.680692/) |
 | Vita | Pacman CE DX Vita | v.1.0 | mcallbosco | 2.1 MB | [link](https://github.com/mcallbosco/pacman-cedx-vita) |
 | Vita | Parkour Labs | v.1.2 | SoyKhaler | 41.3 MB | [link](https://soykhaler.itch.io/parkour-labs-vita-port) |
-| Vita | Perfect Dark Vita | v.1.3 | Rinnegatamante & fgsfds | 12.3 MB | [link](https://www.psx-place.com/threads/release-perfect-dark-vita.47561/) |
 | Vita | Picture Poker | v.1.0 | 4brm01 | 14.5 MB | [link](https://github.com/4brm01/Picture-Poker) |
 | Vita | Project Void | v.0.1.0 | Akabane87 | 40.3 MB | [link](http://wololo.net/2017/09/11/ps-vita-homebrew-release-project-void-0-1-0/) |
-| Vita | QR Scanner | v.1.0 | Rinnegatamante | 1.5 MB | [link](https://github.com/Rinnegatamante/psv-qr-scanner) |
 | Vita | Reaction Station | v.1.0 | AntHJ | 4.1 MB | [link](https://anthj.itch.io/reaction-station) |
 | Vita | River Raid | v.1.0 | Lapy | 46.5 MB | - |
 | Vita | Rock Recker | v.1 | SomeonPC | 2.3 MB | - |
@@ -232,7 +226,6 @@ candidate is the right build.
 | Vita | Stellar Shift | v.1.0 | WIDEGCG | 62.0 MB | [link](https://millermorais.itch.io/stellarshift) |
 | Vita | Super Drone Racer Ultra | v.1.0 | JacobsPlayground | 54.4 MB | [link](https://gbatemp.net/threads/release-super-drone-racer-ultra.542525/) |
 | Vita | Super Hexagon Vita | v.1.0 | mcallbosco | 1.8 MB | [link](https://github.com/mcallbosco/super-hexagon-vita) |
-| Vita | Super Mario All-Stars Vita | v.1.0 | Rinnegatamante | 1.8 MB | [link](https://www.psx-place.com/threads/release-super-mario-all-stars-vita.47994/) |
 | Vita | Super Pop-up Blocker 2000 | Draft | PatchesDoggo | 47.7 MB | [link](https://patchesdoggo.itch.io/super-pop-up-blocker-2000) |
 | Vita | SwitchKaKu | MOD v.2.0 | kylon | 0.6 MB | - |
 | Vita | TIE Vita | v.1.0 | LordChickenBlaster | 14.3 MB | [link](https://lordchickenblaster.itch.io/agameaboutdepression) |
@@ -246,17 +239,13 @@ candidate is the right build.
 | Vita | Vita Webradios | v.1.2 | Aztorius | 1.3 MB | [link](https://github.com/Aztorius/vita-webradios/releases) |
 | Vita | VitaHot | v.1.07 | MRKane & digradi | 213.4 MB | [link](https://fuhen.homebrew-contest.com/submissions/33/) |
 | Vita | Vitamin | v.2.0 | TheFloW | 1.1 MB | - |
-| Vita | Wolfenstein RPG Vita | v.1.0 | Rinnegatamante | 2.1 MB | [link](https://www.psx-place.com/threads/release-wolfenstein-rpg-vita.47380/) |
 | Vita | Wrecking Wave | v.1.0 | brunu | 27.2 MB | [link](https://brunu.itch.io/wrecking-wave) |
 | Vita | ZXVita | v.1.2.0 | ammeir | 1.3 MB | - |
 | Vita | Zelda3T | v.1.3.1 | usineur | 27.6 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48604) |
 | Vita | Zombiebound Reloaded | v.0.21 | VitaHEX games | 158.2 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&p=424058&sid=b677b3efd094a8debc96d9870da05636#p424058) |
 | Vita | ePSP Bubble Installer | v.3.1 | CelesteBlue | 5.2 MB | [link](http://gekihen.customprotocol.com/en/project/ePSP-Bubble-Installer) |
 | Vita | iMango | v.1.0 | CapitanBarbaCoa | 3.6 MB | [link](https://capitanbarbacoa.itch.io/imango-psvita) |
-| Vita | jfblood-vita | v.1.1 | Rinnegatamante | 1.5 MB | [link](https://www.psx-place.com/threads/release-jfblood-vita-port-of-blood-for-psvita.38678/) |
 | Vita | vitaImmich | v.1.0.0 | SadsArches | 5.9 MB | [link](https://codeberg.org/SadsArches/vitaImmich/releases) |
-| Vita | vitaWanted | v.1.3 | Rinnegatamante | 2.0 MB | [link](https://wololo.net/talk/viewtopic.php?f=116&t=46726) |
-| Vita | vitaWolfen | v.1.7 | Rinnegatamante | 7.9 MB | [link](https://www.psx-place.com/threads/vitawolfen.31918/) |
 
 ## Unmatched archived files
 
