@@ -28,7 +28,7 @@ icons = sorted(n for n in os.listdir(icon_dir) if n.endswith('.png'))
 zip_path = os.path.join(ROOT, 'icons.zip')
 with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED, compresslevel=9) as z:
     for n in icons:
-        z.write(os.path.join(icon_dir, n), '%s/%s' % (n[:2], n))
+        z.write(os.path.join(icon_dir, n), n)
 print('icons.zip: %d icons, %.1f MB' % (len(icons), os.path.getsize(zip_path) / 1048576.0))
 
 needed = set()
