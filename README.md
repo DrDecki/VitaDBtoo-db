@@ -115,3 +115,16 @@ catalogue and for the API tips.
 
 If you are an author and want your application removed, open an issue and it will be taken
 down.
+
+## License
+
+The scripts in this repository (`build_db.py`, `add_app.py`, `stats.py`,
+`mkwanted.py` and the rest) are MIT licensed, see [LICENSE](LICENSE). Use them
+however you like.
+
+The catalogue itself is a different matter and is **not** covered by that
+licence. Application names, descriptions, changelogs, icons and screenshots are
+the work of Rinnegatamante and of the individual homebrew authors. This
+repository preserves and redistributes them so the catalogue stays reachable; it
+claims no ownership over them. Clients are welcome to consume the JSON files,
+and anyone who wants their own work removed only has to open an issue.
