@@ -21,16 +21,16 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 <!-- STATS -->
 | | Entries | With a working download |
 | --- | ---: | ---: |
-| PSVITA homebrews | 1020 | 933 |
+| PSVITA homebrews | 1021 | 934 |
 | Plugins | 123 | 91 |
 | PSP homebrews | 127 | 106 |
 | PC tools | 27 | 17 |
-| **Total** | **1297** | **1147 (88%)** |
+| **Total** | **1298** | **1148 (88%)** |
 
 | Asset | Recovered |
 | --- | ---: |
-| Metadata | 100% (1297 entries) |
-| Icons | 100% (1342) |
+| Metadata | 100% (1298 entries) |
+| Icons | 100% (1343) |
 | Screenshots | 26% (561 of 2186) |
 | Trailers | 24% (15 of 62) |
 | Data files | 32% (44 of 137) |
