@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 142 entries survive in the catalogue with full metadata, but their download
+These 141 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -101,7 +101,6 @@ contributors. Verify anything before trusting it.
 | Vita | BIOHAZARD4 Vita | v.1.1 | yizhigai & SpriteLisen & KAAAsS | 3.1 MB | [link](https://gitee.com/Moqi01/bio4) | [page](https://www.gamebrew.org/wiki/BIOHAZARD4_Vita) / [file](https://dlhb.gamebrew.org/vitahomebrews/BIOHAZARD4Vita.7z) | - |
 | Vita | BattleShip Arena | v.1.2 | DesiRED | 0.3 MB | [link](https://wololo.net/talk/viewtopic.php?f=116&t=46614) | [page](https://www.gamebrew.org/wiki/BattleShip_Arena_Vita) / [file](https://dlhb.gamebrew.org/vitahomebrews/battleshiparenavita.7z) | - |
 | Vita | Blue Bayou | v.1.0 | bokoyoss | 24.9 MB | [link](https://bokonon-yossarian.itch.io/blue-bayou) | [page](https://www.gamebrew.org/wiki/Blue_Bayou_Vita) / [file](https://dlhb.gamebrew.org/vitahomebrews/bluebayouvita.7z) | - |
-| Vita | COD: BOZ Vita | v.1.06 | devnoname120 | 1.8 MB | - | [page](https://www.gamebrew.org/wiki/COD:_BOZ_Vita) / [file](https://dlhb.gamebrew.org/vitahomebrews/CODBOZVita.7z) | - |
 | Vita | Chex Quest Vita | v.1.0 | Claude AI | 0.3 MB | [link](https://github.com/DraxTube/chexquest-vita/releases) | [page](https://www.gamebrew.org/wiki/Chex_Quest_Vita) / [file](https://dlhb.gamebrew.org/vitahomebrews/ChexQuestVita.7z) | - |
 | Vita | Chinese Social Credit Test | v.1.0 | Ximer | 37.0 MB | [link](https://ximer.itch.io/chinese-social-credit-test) | [page](https://www.gamebrew.org/wiki/Chinese_Social_Credit_Test_Vita) | - |
 | Vita | Circuit Dude | v.2.6.6 | crait | 14.8 MB | [link](http://www.crait.net/) | [page](https://www.gamebrew.org/wiki/Circuit_Dude_Vita) / [file](https://dlhb.gamebrew.org/vitahomebrews/circuitdudevita.7z) | - |

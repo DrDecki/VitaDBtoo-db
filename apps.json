@@ -374,11 +374,11 @@
         "downloads": "12469",
         "status": "0",
         "source": "",
-        "release_page": "",
+        "release_page": "https://x.com/devnoname120",
         "trailer": "",
         "size": "1863993",
-        "data_size": "0",
-        "hash": "42af50df7f867712852769d2b262d285",
+        "data_size": "12101065",
+        "hash": "4f18105ce7ec6cacb477d33ae522f00a",
         "hash2": "",
         "changelog": "- Added support for  online multiplayer and LAN.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
@@ -386,8 +386,8 @@
         "tags": "",
         "ai": "0",
         "score": "72",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1410",
-        "data": ""
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/boz_vita.vpk",
+        "data": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/boz_vita-lgpl-relink-kit.zip"
     },
     {
         "name": "Skyrift",
