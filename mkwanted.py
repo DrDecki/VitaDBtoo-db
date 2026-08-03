@@ -42,11 +42,24 @@ out.append('candidate is the right build.\n\n')
 out.append('Many entries link to a [GameBrew](https://www.gamebrew.org) page that documents the\n')
 out.append('same homebrew, often with a working download. Those download links only work from a\n')
 out.append('browser, so they cannot be resolved automatically. Help with these is welcome.\n\n')
-out.append('| Type | Name | Version | Author | Size | Known source | GameBrew |\n')
-out.append('| --- | --- | --- | --- | ---: | --- | --- |\n')
+out.append('The last column collects other leads. `cbpsdb` points at an old mirror of VitaDB\n')
+out.append('kept by LiEnby at [gitlab.com/SilicaAndPina/cbpsdb](https://gitlab.com/SilicaAndPina/cbpsdb);\n')
+out.append('those files predate this snapshot, so none of them match the MD5 recorded here and\n')
+out.append('entries marked `?` share a title ID with other homebrew. `lead` entries were found by\n')
+out.append('contributors. Verify anything before trusting it.\n\n')
+out.append('| Type | Name | Version | Author | Size | Known source | GameBrew | Other leads |\n')
+out.append('| --- | --- | --- | --- | ---: | --- | --- | --- |\n')
 gb = {}
 if os.path.exists(os.path.join(ROOT, 'gamebrew_refs.json')):
     gb = json.load(open(os.path.join(ROOT, 'gamebrew_refs.json')))
+
+cb = {}
+if os.path.exists(os.path.join(ROOT, 'cbpsdb_refs.json')):
+    cb = json.load(open(os.path.join(ROOT, 'cbpsdb_refs.json')))
+
+comm = {}
+if os.path.exists(os.path.join(ROOT, 'community_refs.json')):
+    comm = json.load(open(os.path.join(ROOT, 'community_refs.json')))
 
 for t, n, v, au, sz, src, aid in sorted(rows):
     size = '%.1f MB' % (int(sz) / 1048576.0) if sz and sz.isdigit() else '?'
@@ -58,7 +71,13 @@ for t, n, v, au, sz, src, aid in sorted(rows):
         ref = '[page](https://www.gamebrew.org/wiki/%s)' % g['page'].replace(' ', '_')
     else:
         ref = '-'
-    out.append('| %s | %s | %s | %s | %s | %s | %s |\n' % (t, n.replace('|', ''), v, au.replace('|', ''), size, link, ref))
+    leads = []
+    c = cb.get(aid)
+    if c:
+        leads.append('[cbpsdb](%s)%s' % (c['url'], ' ?' if c['ambiguous'] else ''))
+    if aid in comm:
+        leads.append('[lead](%s)' % comm[aid])
+    out.append('| %s | %s | %s | %s | %s | %s | %s | %s |\n' % (t, n.replace('|', ''), v, au.replace('|', ''), size, link, ref, ' '.join(leads) if leads else '-'))
 
 if arch:
     out.append('\n## Unmatched archived files\n\n')
