@@ -3,7 +3,14 @@ These 150 entries survive in the catalogue with full metadata, but their downloa
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
-or a pull request. What is needed is a stable direct URL to the exact file.
+or a pull request.
+
+**What is needed is a stable direct URL a PSVITA can fetch without a browser.**
+A GitHub release asset works. An archive.org item works. A GameBrew or itch.io page
+does not, because those serve through referrer checks or signed one-time links: if
+that is all you have, upload the file to an archive.org item and link that instead.
+If the file matches the MD5 listed in the catalogue it is the exact build VitaDB
+served, which settles any doubt about what it is.
 
 The file size below is the one VitaDB recorded, which makes it easy to confirm a
 candidate is the right build.
