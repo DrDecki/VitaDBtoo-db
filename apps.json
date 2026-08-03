@@ -3046,9 +3046,9 @@
         "source": "https://github.com/Rinnegatamante/PostalVita",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=49641",
         "trailer": "",
-        "size": "2289848",
+        "size": "2701813",
         "data_size": "1713",
-        "hash": "0f14e3e553a9869545a908c3f114fff8",
+        "hash": "09b1473572c1bc65ce43a097e3a62b01",
         "hash2": "",
         "changelog": "- Updated to latest vitasdk.\n- Added cheats support. (Cheats list: https://github.com/Rinnegatamante/PostalVita/blob/7c99db4390591d352dd2fd59c4bb798d4b8527a8/input.cpp#L606-L646 )",
         "requirements": "- Game Data Files: PC",
@@ -3056,7 +3056,7 @@
         "tags": "",
         "ai": "0",
         "score": "60.7",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/415-Postal.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Postal.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/postal.zip"
     },
     {
@@ -5566,9 +5566,9 @@
         "source": "https://github.com/Rinnegatamante/smw",
         "release_page": "https://www.psx-place.com/threads/release-super-mario-all-stars-vita.47994/",
         "trailer": "",
-        "size": "2346872",
+        "size": "1918789",
         "data_size": "1923",
-        "hash": "81b55338935889412a13e129e0221ac4",
+        "hash": "7d004ba7eaa4479f8de7a446ccbd07e4",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- Game Data Files: SNES",
@@ -5576,7 +5576,7 @@
         "tags": "",
         "ai": "0",
         "score": "88.4",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1280-SuperMarioWar.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/allstars.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/allstars.zip"
     },
     {
@@ -5596,9 +5596,9 @@
         "source": "https://github.com/Rinnegatamante/zelda3",
         "release_page": "https://www.psx-place.com/threads/release-zelda3-vita-port-of-the-legend-of-zelda-a-link-to-the-past.38470/",
         "trailer": "",
-        "size": "2001236",
+        "size": "2060552",
         "data_size": "16473",
-        "hash": "88758461630044041b642f72c45a57f2",
+        "hash": "24902a12c1d5360c5c168fdff406b1ee",
         "hash2": "",
         "changelog": "- Removed validation layers: this improves overall performance.\n- Fully inlined PPU codepath: this improves performance of around 7-8%.",
         "requirements": "- Game Data Files: SNES",
@@ -5606,7 +5606,7 @@
         "tags": "aaa,retro,2d,adventure,opensource",
         "ai": "0",
         "score": "91.7",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/993-zelda3_attp.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/zelda3_attp.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/zelda3_attp.zip"
     },
     {
@@ -5626,9 +5626,9 @@
         "source": "https://github.com/Rinnegatamante/smw",
         "release_page": "https://www.psx-place.com/threads/release-super-mario-world-vita-port-of-a-reverse-engineering-project-for-super-mario-world.43964/",
         "trailer": "",
-        "size": "1568340",
+        "size": "1614179",
         "data_size": "1891",
-        "hash": "5155082547b32686700c391088ff4a4b",
+        "hash": "700dc625107602188624c06c47f3466e",
         "hash2": "",
         "changelog": "- Moved main thread to a larger stack one.\n- Fixed a crash when accessing \"Donut Plains 2\" stage.",
         "requirements": "- Game Data Files: SNES",
@@ -5636,7 +5636,7 @@
         "tags": "aaa,2d,retro,platform,opensource",
         "ai": "0",
         "score": "88.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1215-smworld.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/smworld.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/smworld.zip"
     },
     {
@@ -6046,9 +6046,9 @@
         "source": "https://github.com/Rinnegatamante/wipeout-rewrite",
         "release_page": "",
         "trailer": "",
-        "size": "1256333",
+        "size": "1375226",
         "data_size": "31929451",
-        "hash": "47de960ead8a28652dec67a0075a81ea",
+        "hash": "84ac3656763fd69fed267ed7f595eefc",
         "hash2": "",
         "changelog": "- Downstreamed to latest official commit.\n- Updated to latest vitaGL commit.\n- Improved renderer efficiency.",
         "requirements": "- libshacccg.suprx\n- Game Data Files: PC/PSX",
@@ -6056,7 +6056,7 @@
         "tags": "",
         "ai": "0",
         "score": "74.4",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1116-Wipeout.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Wipeout.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/wipeout.zip"
     },
     {
@@ -6468,7 +6468,7 @@
         "trailer": "",
         "size": "1564753",
         "data_size": "7599577",
-        "hash": "763f4c2cf3fcbfc9ed90383c47686bd4",
+        "hash": "ed97ac8b7060ca68b46a1304cde79eca",
         "hash2": "",
         "changelog": "- First release.",
         "requirements": "- libshacccg.suprx",
@@ -6476,7 +6476,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1254-MightyMike.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/MightyMike.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/MightyMike.zip"
     },
     {
@@ -6558,7 +6558,7 @@
         "trailer": "",
         "size": "1816103",
         "data_size": "142818384",
-        "hash": "10ff13ee1d3d06a004fba058470c6753",
+        "hash": "80b0c5f7fc077de390b1c5ad348c89c1",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -6566,7 +6566,7 @@
         "tags": "",
         "ai": "0",
         "score": "74.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1253-OttoMatic.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/OttoMatic.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/OttoMatic.zip"
     },
     {
@@ -6708,7 +6708,7 @@
         "trailer": "",
         "size": "2281315",
         "data_size": "8540590",
-        "hash": "8e0d233af0eb691646b240c826a03113",
+        "hash": "f1ce64f12adc3c9d987fb30c32ee3068",
         "hash2": "",
         "changelog": "- Added support for higher resolutions via Sharpscale or natively on PSTV.\n- Updated to latest vitaGL and vitasdk.\n- Added draw batching to text rendering. This will drastically improve performances when text is being drawn on screen.\n- Fixed a bug causing sporadic audio noise when launching the game.\n- Fixed a bug causing sporadic crashes when accessing the Mods menu.\n- Fixed a bug causing audio system to be initialized multiple times sporadically.\n- Made some micro-optimizations in the engine codebase.",
         "requirements": "- libshacccg.suprx",
@@ -6716,7 +6716,7 @@
         "tags": "",
         "ai": "0",
         "score": "87.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/10-vitaQuake.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/vitaQuake.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/vitaQuake.zip"
     },
     {
@@ -6768,7 +6768,7 @@
         "trailer": "",
         "size": "2040195",
         "data_size": "0",
-        "hash": "8244fc9633c2b77a25879644d3c69910",
+        "hash": "b9d207c8a61158b7602b6d202112a30e",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- Game Data Files: Mobile",
@@ -6776,7 +6776,7 @@
         "tags": "",
         "ai": "0",
         "score": "79.3",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1247-DOOMIIRPG.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/DOOMIIRPG.vpk",
         "data": ""
     },
     {
@@ -6858,7 +6858,7 @@
         "trailer": "",
         "size": "2176989",
         "data_size": "16295154",
-        "hash": "3c7054f89e89f4fd511649b80e83391d",
+        "hash": "6375d588253a49d20c1becfe6f00dfc5",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -6866,7 +6866,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.8",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1244-dethrace.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/dethrace.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/dethrace.zip"
     },
     {
@@ -7008,7 +7008,7 @@
         "trailer": "",
         "size": "1872464",
         "data_size": "106217129",
-        "hash": "3c889433be9e142cfed338e353b826e0",
+        "hash": "5425face3d5d762e84a83ad2725ff8f4",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -7016,7 +7016,7 @@
         "tags": "",
         "ai": "0",
         "score": "73.6",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1241-Nanosaur2.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Nanosaur2.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Nanosaur2.zip"
     },
     {
@@ -7068,7 +7068,7 @@
         "trailer": "",
         "size": "2877967",
         "data_size": "668755420",
-        "hash": "670b9bd73ac89a23ae4e7754ff87ce70",
+        "hash": "2d674a5b0707953c93a31a15f3ad7a1c",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.",
         "requirements": "- libshacccg.suprx",
@@ -7076,7 +7076,7 @@
         "tags": "3d,fps,commercial,arena,online",
         "ai": "0",
         "score": "82.7",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/491-vitaVoyager.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/vitaVoyager.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/vitavoyager_data.zip"
     },
     {
@@ -7128,7 +7128,7 @@
         "trailer": "",
         "size": "1858496",
         "data_size": "82933187",
-        "hash": "4a17e8c1de05967c86f6411e127534bd",
+        "hash": "f63d69ff10006df311bb52d585cfc985",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.\n- Enabled proper lighting support.",
         "requirements": "- libshacccg.suprx",
@@ -7136,7 +7136,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1001-Billy.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Billy.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/BillyFrontier.zip"
     },
     {
@@ -7158,7 +7158,7 @@
         "trailer": "",
         "size": "1934958",
         "data_size": "128433755",
-        "hash": "707e6ce9b1da172212f25f372a9507f9",
+        "hash": "1f3182fadc8df73d0d3277a2d4c9787f",
         "hash2": "",
         "changelog": "- Updated to latest vitaGL usage.\n- Greatly improved performances thanks to circular vertex pool usage in vitaGL.",
         "requirements": "- libshacccg.suprx",
@@ -7166,7 +7166,7 @@
         "tags": "3d,racing,f2p,opensource",
         "ai": "0",
         "score": "73",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/872-CroMag.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/CroMag.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/CroMagRally.zip"
     },
     {
@@ -9948,7 +9948,7 @@
         "trailer": "",
         "size": "1245430",
         "data_size": "1270467",
-        "hash": "1efb703217e024d0cb10dd337596f0cd",
+        "hash": "a240c0b4728818bba5aac0d3f46ef60b",
         "hash2": "",
         "changelog": "- Fixed an issue causing game to crash with certain configurations.",
         "requirements": "- libshacccg.suprx",
@@ -9956,7 +9956,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1103-Zik-Zak.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Zik-Zak.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/zik-zak.zip"
     },
     {
@@ -10158,7 +10158,7 @@
         "trailer": "",
         "size": "2000690",
         "data_size": "50099691",
-        "hash": "100ad2f9d249e551b77aef26aef959ff",
+        "hash": "1118c40a775aa5b2fa471461558be15b",
         "hash2": "",
         "changelog": "- Removed FuHEN logo.",
         "requirements": "",
@@ -10166,7 +10166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1101-Beat2x.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Beat2x.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/beat2x.zip"
     },
     {
@@ -10338,7 +10338,7 @@
         "trailer": "",
         "size": "1548874",
         "data_size": "0",
-        "hash": "7b9c045668019ad27e92b377047e79ba",
+        "hash": "2b7eba1bcd7fa4bf4afd8a2cea83d0a3",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
@@ -10346,7 +10346,7 @@
         "tags": "",
         "ai": "0",
         "score": "83.2",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1152-layton2.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/layton2.vpk",
         "data": ""
     },
     {
@@ -11508,7 +11508,7 @@
         "trailer": "",
         "size": "1611484",
         "data_size": "33995",
-        "hash": "875ad92dca01190eba437f9fa57914c1",
+        "hash": "18e71f9c28d3cfc64bdb2edb215af6f9",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
@@ -11516,7 +11516,7 @@
         "tags": "",
         "ai": "0",
         "score": "56",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1098-jftekwar.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/jftekwar.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/jftekwar.zip"
     },
     {
@@ -11538,7 +11538,7 @@
         "trailer": "",
         "size": "1962902",
         "data_size": "18405568",
-        "hash": "37fa96c6569a490d9de5372aa8d419b3",
+        "hash": "cb70112175d8702c79b76d2198136b80",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -11546,7 +11546,7 @@
         "tags": "",
         "ai": "0",
         "score": "73",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1092-Prototype.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Prototype.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/prototype.zip"
     },
     {
@@ -12376,9 +12376,9 @@
         "source": "https://github.com/Rinnegatamante/neverball",
         "release_page": "https://www.psx-place.com/threads/release-neverball-vita-port-of-neverball-for-psvita.38247/",
         "trailer": "",
-        "size": "60409734",
+        "size": "1558495",
         "data_size": "60409734",
-        "hash": "f0d1e204539d1f9d4bdf30e046dd3309",
+        "hash": "397db87aa2f4b4ba723dae266cee7e0f",
         "hash2": "",
         "changelog": "- Fixed lighting. Now light works as expected.\n- Fixed particles rendering. Now they render as expected.\n- Updated to latest vitaGL build.",
         "requirements": "- libshacccg.suprx",
@@ -12386,7 +12386,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/873-Neverball-dev.zip",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/neverball.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Neverball-dev.zip"
     },
     {
@@ -12888,7 +12888,7 @@
         "trailer": "",
         "size": "717046",
         "data_size": "5413460",
-        "hash": "148aa732e94b7ca445b19c227d9c25bd",
+        "hash": "43e18fc645ea0597fa4e0f34b94ec270",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -12896,7 +12896,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1043-candy.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/candy.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/CandyCrisisResources.zip"
     },
     {
@@ -13368,7 +13368,7 @@
         "trailer": "",
         "size": "2143782",
         "data_size": "8647248",
-        "hash": "34e5acba28aa728f6cda18a4135cc854",
+        "hash": "26f9340b8c2ef95d7a43433df372e4fd",
         "hash2": "",
         "changelog": "- Renamed Mouse Speed option to Touch Sensitivity.\n- Added two new options under Advanced Options to adjust analog sensitivity (Joy X/Y Sensitivity).\n- Increased available memory for the engine (Potentially allowing more demanding mods to work)\n- Updated to latest vitaGL version.\n- Fixed a bug making impossible to adjust Y axis gyroscope in the options menu.\n- Fixed a bug making impossible to reduce X axis gyroscope value in the options menu.\n- Fixed a bug making impossible to invoke keyboard on game console (Pressing Triangle now correctly invokes it).\n- Fixed a bug making Use Retrotouch option to be always On even when showed as Off.\n- Fixed a bug making so that touchscreen input would spam Fire actions.\n- Fixed a bug making so that touchscreen sometimes didn't properly move camera on the Y axis.\n- Fixed a bug causing some textures to sporadically render glitched.",
         "requirements": "- libshacccg.suprx",
@@ -13376,7 +13376,7 @@
         "tags": "",
         "ai": "0",
         "score": "87.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/716-quakespasm.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/quakespasm.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Quakespasm.zip"
     },
     {
@@ -14268,7 +14268,7 @@
         "trailer": "",
         "size": "1955832",
         "data_size": "20618",
-        "hash": "b80fcdea0d9b7f85a56a6dc9e0719560",
+        "hash": "ce2c77982ec3488591253f415e3519cd",
         "hash2": "",
         "changelog": "- Fixed a bug preventing to correctly save game.\n- Reduced CPU workload by offloading wvp matrix calculation to GPU. (Slight performance improvements)",
         "requirements": "- libshacccg.suprx.\n- Game Data Files: PC Steam or N64.",
@@ -14276,7 +14276,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.7",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/881-Doom64EX.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Doom64EX.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Doom64EX.zip"
     },
     {
@@ -14538,7 +14538,7 @@
         "trailer": "",
         "size": "1493107",
         "data_size": "25077789",
-        "hash": "ea3f7a7966cf1e8bf1d841e932ede08d",
+        "hash": "b33a312c49ed0284280d6b65d5512468",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -14546,7 +14546,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/874-neverputt.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/neverputt.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Neverputt-dev.zip"
     },
     {
@@ -14658,7 +14658,7 @@
         "trailer": "",
         "size": "551666",
         "data_size": "0",
-        "hash": "6e66e664429a89bbc19e4091814c30c8",
+        "hash": "59000e75bec7850069ac79aad569de2b",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -14666,7 +14666,7 @@
         "tags": "",
         "ai": "0",
         "score": "85",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/855-Wordle.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Wordle.vpk",
         "data": ""
     },
     {
@@ -14718,7 +14718,7 @@
         "trailer": "",
         "size": "1698368",
         "data_size": "12609247",
-        "hash": "5ce4514e0365c8914f334c4363371463",
+        "hash": "e72dc406412faf1c2cd1a459ed302dd1",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -14726,7 +14726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/851-Nanosaur.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Nanosaur.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Nanosaur.zip"
     },
     {
@@ -18198,7 +18198,7 @@
         "trailer": "",
         "size": "2790022",
         "data_size": "4985337",
-        "hash": "459e10bbb0cb3fc2e94fde9c7e8c6741",
+        "hash": "8e823b7554064bf8290634b77a8ffbed",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -18206,7 +18206,7 @@
         "tags": "",
         "ai": "0",
         "score": "84.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/711-jfduke3d.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/jfduke3d.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/jfduke3d.zip"
     },
     {
@@ -20598,7 +20598,7 @@
         "trailer": "",
         "size": "1890786",
         "data_size": "3348719",
-        "hash": "94a16b70ba0d9aa9d8a65a8466b54956",
+        "hash": "6bb2b6ade8bd61a14be7d17821e810d4",
         "hash2": "",
         "changelog": "- Updated to latest vitasdk and GCC10 usage.\n- Updated to latest vitaGL commit.\n- Fixed a bug causing vFlux to draw garbage on screen.\n- Added Post Processing effects support (FXAA, Greyscale, Sepia Tone, Negative).\n- Added V-Sync option.",
         "requirements": "",
@@ -20606,7 +20606,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/383-DstroyVita.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/DstroyVita.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/dstroydata.zip"
     },
     {
@@ -20628,7 +20628,7 @@
         "trailer": "",
         "size": "1460374",
         "data_size": "2430167",
-        "hash": "4503753e89e79569701e367d2b9482e6",
+        "hash": "f93a200c350a1576a46fdd4b3f2f13bb",
         "hash2": "",
         "changelog": "",
         "requirements": "- Game Data Files: PC",
@@ -20636,7 +20636,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/411-meritous.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/meritous.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/meritous.zip"
     },
     {
@@ -20658,7 +20658,7 @@
         "trailer": "",
         "size": "2346872",
         "data_size": "12738623",
-        "hash": "81b55338935889412a13e129e0221ac4",
+        "hash": "901074709964a01f51c11e96ad596b0e",
         "hash2": "",
         "changelog": "- Updated to latest vitasdk and GCC10 usage.\n- Updated to latest vitaGL commit.\n- Fixed a bug causing vFlux to draw garbage on screen.\n- Added Post Processing effects support (FXAA, Greyscale, Sepia Tone, Negative).\n- Added V-Sync option.\n- Optimized code for faster math and vector operations.",
         "requirements": "",
@@ -20666,7 +20666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/422-SuperMarioWar.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/SuperMarioWar.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/smw.zip"
     },
     {
@@ -22308,7 +22308,7 @@
         "trailer": "",
         "size": "1657588",
         "data_size": "0",
-        "hash": "7ade13baa5e641a6bca71520cf10a478",
+        "hash": "2be9ce176c6a4eeaabf1e4f3fb187198",
         "hash2": "",
         "changelog": "",
         "requirements": "- Game Data Files: PC",
@@ -22316,7 +22316,7 @@
         "tags": "",
         "ai": "0",
         "score": "75.2",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/533-vitaExhumed.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/vitaExhumed.vpk",
         "data": ""
     },
     {
@@ -22338,7 +22338,7 @@
         "trailer": "",
         "size": "2163719",
         "data_size": "1196",
-        "hash": "18f203b03ed34d62d3578969cca65be1",
+        "hash": "9a1913b26fcfd669fa006f03d0f23603",
         "hash2": "",
         "changelog": "",
         "requirements": "- Game Data Files: PC",
@@ -22346,7 +22346,7 @@
         "tags": "",
         "ai": "0",
         "score": "70.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/436-NRedneck.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/13/NRedneck.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/13/NRedneck.zip"
     },
     {
@@ -22996,9 +22996,9 @@
         "source": "https://github.com/Rinnegatamante/EDuke32-Vita",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=49442",
         "trailer": "",
-        "size": "5032755",
+        "size": "2007891",
         "data_size": "5032755",
-        "hash": "39d81121d1df68cbb45193754dd0b804",
+        "hash": "adb3a02e26b1a1edf0cf7d875dadcaa6",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -23006,7 +23006,7 @@
         "tags": "",
         "ai": "0",
         "score": "84.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/397-EDuke32.zip",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/homebrew/EDuke32.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/EDuke32.zip"
     },
     {
@@ -24556,9 +24556,9 @@
         "source": "https://github.com/Rinnegatamante/NumptyPhysics-Vita",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48080",
         "trailer": "",
-        "size": "35580",
+        "size": "1206605",
         "data_size": "35580",
-        "hash": "41174d41accee303170eba855d05c006",
+        "hash": "3ba686c99aace0ecdf27593c5e4a4dd3",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -24566,7 +24566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/243-NumptyPhysics.zip",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/NumptyPhysics.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/NumptyPhysics.zip"
     },
     {
@@ -25848,7 +25848,7 @@
         "trailer": "",
         "size": "685517",
         "data_size": "0",
-        "hash": "bfae7fce8c650066fe499d0ecce30287",
+        "hash": "51d6d131de959e945173d36e1c0a2f9d",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -25856,7 +25856,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/380-RetroLivearea.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/RetroLivearea.vpk",
         "data": ""
     },
     {
@@ -26058,7 +26058,7 @@
         "trailer": "",
         "size": "1152400",
         "data_size": "2067997",
-        "hash": "050b21810ee4d85d0aff496d7a35eb3a",
+        "hash": "6f0161da46849d232571ffe265d3184a",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -26066,7 +26066,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/347-HCL.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/HCL.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/HCL.zip"
     },
     {
@@ -26268,7 +26268,7 @@
         "trailer": "",
         "size": "1136523",
         "data_size": "307684",
-        "hash": "96591f9d46641e202d3916c0f87bd846",
+        "hash": "b47af2d901f2f37b3a29883586e034a5",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -26276,7 +26276,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/359-AbbayeDesMorts.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/AbbayeDesMorts.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/AbbayeDesMorts.zip"
     },
     {
@@ -26298,7 +26298,7 @@
         "trailer": "",
         "size": "996832",
         "data_size": "10054532",
-        "hash": "d22eab279c079cfd97b151be57f11bd8",
+        "hash": "8215876d393517f3d7a5237482bf3772",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -26306,7 +26306,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/356-KETM.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/KETM.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/KETM.zip"
     },
     {
@@ -26748,7 +26748,7 @@
         "trailer": "",
         "size": "2432568",
         "data_size": "440",
-        "hash": "34c3786f2b802b6fa17ac488ed95dfa4",
+        "hash": "cd54c42b19733700f16441d0029c648f",
         "hash2": "21165fd81f298b83ca419f326369b986",
         "changelog": "",
         "requirements": "",
@@ -26756,7 +26756,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/337-MicroCHIP.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/MicroCHIP.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/MicroCHIP.zip"
     },
     {
@@ -26769,7 +26769,7 @@
         "id": "46",
         "date": "2017-10-09",
         "titleid": "RCHT00001",
-        "screenshots": "",
+        "screenshots": "screenshots/cheatse.jpg;screenshots/cheatse2.jpg;screenshots/cheatse3.jpg",
         "long_description": "rinCheat SE allows you to apply several cheats to your savedata with few passages.\nYou can select your savedata slot and your preferred cheats from the official database that will be automatically updated at homebrew start.\nrinCheat SE also works as a database updater for rinCheat since when it will download database updates, it will update both rinCheat and rinCheat SE updates.\nIt supports both rinCheat and vita-savemgr.",
         "downloads": "47189",
         "status": "0",
@@ -26778,7 +26778,7 @@
         "trailer": "",
         "size": "2602326",
         "data_size": "26915",
-        "hash": "0045c0bcf63fd4e3b78f5d6a53a44558",
+        "hash": "cd54c42b19733700f16441d0029c648f",
         "hash2": "01ff3d2a653136881d326ed7f1fad068",
         "changelog": "",
         "requirements": "",
@@ -26786,7 +26786,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/46-rinCheatSE.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/rinCheatSE.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/rinCheatSE.zip"
     },
     {
@@ -26958,7 +26958,7 @@
         "trailer": "",
         "size": "2237731",
         "data_size": "0",
-        "hash": "148264a60c5d2157da9db081288dba6a",
+        "hash": "ef66059cf81606426a7957df4eb27ff7",
         "hash2": "1b1089cb9da1cdb0bb1c3e74c6dd8149",
         "changelog": "",
         "requirements": "",
@@ -26966,7 +26966,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/306-VitaHangman.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/VitaHangman.vpk",
         "data": ""
     },
     {
@@ -27466,9 +27466,9 @@
         "source": "",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48167",
         "trailer": "",
-        "size": "1492",
+        "size": "2450570",
         "data_size": "1492",
-        "hash": "778e25277ae4329a89af1c467225c9b7",
+        "hash": "bb836c60b6db7a3bb178f1bda19b38f8",
         "hash2": "651d910f285633de9096a24d3744bd79",
         "changelog": "- First Release.",
         "requirements": "",
@@ -27476,7 +27476,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/263-EUCLIOD.zip",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Homebrews/EUCLIOD.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/EUCLIOD.zip"
     },
     {
@@ -27558,7 +27558,7 @@
         "trailer": "",
         "size": "527574",
         "data_size": "0",
-        "hash": "a1ca901a532b363a6ed563fd3917bb79",
+        "hash": "d230d731f7ccc686546afc205bd526bd",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -27566,7 +27566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/11-AntiBlacklist.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Homebrews/AntiBlacklist.vpk",
         "data": ""
     },
     {
@@ -28479,7 +28479,7 @@
         "id": "24",
         "date": "2016-11-07",
         "titleid": "CRFT00001",
-        "screenshots": "",
+        "screenshots": "screenshots/craft1.jpg;screenshots/craft2.jpg;screenshots/craft3.jpg",
         "long_description": "This is a port of the Ludum Dare #22 entry by Notch called Minicraft.\n\nMinicraft is a 2D top-down sandbox game where your final goal is to \"kill the only other sentient being in the world, making sure youâ€™ll be alone forever\" as stated personally by Notch when he first released this game.",
         "downloads": "22899",
         "status": "0",
@@ -28488,7 +28488,7 @@
         "trailer": "",
         "size": "737346",
         "data_size": "140337",
-        "hash": "6863aa1629fd50b1d087a96f8f7c4088",
+        "hash": "1cc6fb1536ff8e9615cd361cbf596e83",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -28496,7 +28496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/24-Minicraft.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Homebrews/Minicraft.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/Minicraft.zip"
     },
     {
@@ -29229,7 +29229,7 @@
         "id": "51",
         "date": "2016-09-15",
         "titleid": "LIRC00001",
-        "screenshots": "",
+        "screenshots": "screenshots/irc1.jpg;screenshots/irc2.jpg;screenshots/irc3.jpg",
         "long_description": "luaIrc is an IRC client for PS Vita wrote with Lua Player Plus Vita, allowing you to chat with your friends whenever you want.",
         "downloads": "3053",
         "status": "0",
@@ -29238,7 +29238,7 @@
         "trailer": "",
         "size": "1761292",
         "data_size": "346",
-        "hash": "d2da73e4e9ae3eebdcb6fe2b1d840415",
+        "hash": "0a83f56ad743d9da820e48b456234e54",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -29246,7 +29246,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/51-luaIrc.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Homebrews/luaIrc.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/luaIrc.zip"
     },
     {
@@ -30129,16 +30129,16 @@
         "id": "129",
         "date": "2016-08-08",
         "titleid": "SUDO00001",
-        "screenshots": "",
+        "screenshots": "screenshots/sudovita.jpg",
         "long_description": "VitaSudoku is a sudoku game for PSVITA wrote using Lua Player Plus which has an algorithm to automatically generate a sudoku allowing you to play infinite sudokus.\nIt also supports BGM audio playback during your gaming sessions.",
         "downloads": "4736",
         "status": "0",
         "source": "",
         "release_page": "https://wololo.net/talk/viewtopic.php?f=116&t=46423",
         "trailer": "",
-        "size": "50327636",
+        "size": "1654538",
         "data_size": "0",
-        "hash": "f33e392f060b370489c5eb211f015b0f",
+        "hash": "c4c797626a4c60c4329b078c00c1552b",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -30146,7 +30146,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/129-vitaSurviving.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/Homebrews/VitaSudoku.vpk",
         "data": ""
     },
     {
@@ -30219,7 +30219,7 @@
         "id": "65",
         "date": "2016-08-01",
         "titleid": "ROWS00001",
-        "screenshots": "",
+        "screenshots": "screenshots/rows.jpg",
         "long_description": "4Rows is the port of the \"Four in a row\"/\"Connect4\" sample homebrew provided with the very first PSP Lua Interpreter.",
         "downloads": "2107",
         "status": "0",
@@ -30228,7 +30228,7 @@
         "trailer": "",
         "size": "1122931",
         "data_size": "0",
-        "hash": "aae97f70c81188192f8d2a1533449843",
+        "hash": "cbed1c32caa3facb2eca46c7402b833f",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -30236,7 +30236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/65-4Rows.vpk",
+        "url": "https://www.rinnegatamante.eu/files/vitadb/4Rows.vpk",
         "data": ""
     },
     {
