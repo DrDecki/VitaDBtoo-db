@@ -59,7 +59,7 @@ def usable(name, want_ext, entry_slug):
         return 0
     stem = re.sub(r'\.[a-z0-9]+$', '', low)
     for bad in FOREIGN:
-        if re.search(r'(^|[^a-z])%s([^a-z]|$)' % re.escape(bad), stem):
+        if bad in stem:
             return 0
     score = difflib.SequenceMatcher(None, entry_slug, slug(stem)).ratio()
     if any(k in stem for k in EXTRA):
