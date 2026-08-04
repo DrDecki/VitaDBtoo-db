@@ -17,7 +17,9 @@ for fname in files:
     with open(os.path.join(ROOT, fname), 'rb') as f:
         d = json.loads(f.read().decode('utf-8', 'replace'))
     for a in d:
-        if 'web.archive.org' in a.get('url', '') and int(a.get('size') or 0) < LIMIT:
+        u = a.get('url', '')
+        risky = 'web.archive.org' in u or ('rinnegatamante.eu/files' in u)
+        if risky and int(a.get('size') or 0) < LIMIT:
             todo.append((fname, a['id'], a['name'], a['url'], int(a.get('size') or 0)))
 todo.sort(key=lambda x: x[4])
 print('%d Dateien, %.2f GB' % (len(todo), sum(x[4] for x in todo) / 1073741824.0), flush=True)
@@ -62,7 +64,7 @@ for fname in files:
     n = 0
     for a in d:
         v = done.get(a['id'])
-        if v and 'web.archive.org' in a.get('url', ''):
+        if v and ('web.archive.org' in a.get('url','') or 'rinnegatamante.eu/files' in a.get('url','')):
             a['url'], a['size'], a['hash'] = v['url'], v['size'], v['hash']
             n += 1
     if n:
