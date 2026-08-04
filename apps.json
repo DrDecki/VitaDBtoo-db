@@ -152,7 +152,7 @@
     {
         "name": "Deltarune Vita",
         "icon": "fc2c4f161294c75bcb5dd74cfca553c70a6b01704a3e201c4192e1b62d4ae36d.png",
-        "version": "v.0.64",
+        "version": "v.0.67",
         "author": "ChatGPT AI",
         "type": "2",
         "description": "Port of Deltarune for PSVita.",
@@ -166,9 +166,9 @@
         "source": "https://github.com/WolffsRoom/DeltaruneVita",
         "release_page": "https://github.com/WolffsRoom/DeltaruneVita/releases",
         "trailer": "",
-        "size": "2294829",
+        "size": "63430021",
         "data_size": "0",
-        "hash": "ba6538eb86c1af207246b4d2788913c0",
+        "hash": "03f313b7a81ebed8fae56ed28b9aa5f5",
         "hash2": "",
         "changelog": "Runtime and compatibility\n- The port now loads each chapter's original Windows data.win directly, removing the old game.droid conversion step (a remnant from the beginning of the project, in which data from the Android port was used).\n- Added missing GameMaker behavior required by DELTARUNE, including array_equals(), corrected mixed-width binary results, mp_grid_path defaults and draw_path support.\n- Corrected surface readback and puzzle verification. The three Chapter 2 light puzzles can now validate their solutions on PS Vita. Fix Issue 10.\n- Fixed the Chapter 3 pathfinding softlock near the hole sequence. Fix Issue 11.\n- Fixed the mixed-width VM operation related to Susie's outfit selection in Chapter 5. Fix Issue 13.\n- Improved buffer and surface compatibility, collision handling, room creation diagnostics and GameMaker builtin coverage.\n\nRendering and performance\n- Reworked texture caching, protected UI/font atlases and reduced repeated texture uploads and evictions. Fix Issue 11.\n- Added chapter-aware preloading for audio, textures and frequently used assets. Fix Issue 11.\n- Improved rendering performance in several demanding Chapter 2 and Chapter 3 rooms, including the couch-overworld sequence Fix Issue 11.\n- Improved Chapter 5 town performance and stability while retaining the Original graphics profile. Partially fixes issue 13.\n- Fixed missing or flashing interface elements, dialogue frames, characters and room textures in several chapters.\n- Added safer surface synchronization before GPU readback.\n- Preserved the Original, Medium and Low graphics profiles without forcing reduced texture quality in Original mode.\n\nGraphic API:\n- A feature allowing chapters to launch with different graphics APIs was tested in the v0.64 beta. While the test yielded positive results, modern-gl still requires further adjustments before it can be fully implemented.\n- The experimental modern-gl renderer was evaluated and reverted. As a result, v0.64 continues to rely on the more stable legacy-gl renderer across all chapters.\n\nAudio and video\n- Revised music streaming, startup order and room-transition behavior.\n- Added separate Master, Music and Sound Effects controls, plus an option to disable audio for performance testing.\n- Expanded audio preloading to reduce first-use stutters in dialogue, battles and room transitions.\n- Added experimental Chapter 3 video playback support. Some videos may still require further compatibility work (Still in development)\n\nGame Settings, controls and diagnostics\n- Reworked Game Settings icons and confirmation screens. Fix Issue 7.\n- Improved touch controls, touch editing and navigation.\n- Expanded the room browser and developer overlay with room, event, alarm, collision, audio, render and expensive-GML timing data.\n- Added optional collision-mask diagnostics for puzzle and room testing.\n- Improved dynamic borders, manual border selection and configuration loading.",
         "requirements": "- libshacccg.suprx\n- Game Data Files: Steam",
@@ -176,7 +176,7 @@
         "tags": "",
         "ai": "1",
         "score": "85.9",
-        "url": "https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.64/Deltarune-v0.64.vpk",
+        "url": "https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.67/Deltarune-v0.67.vpk",
         "data": ""
     },
     {
@@ -498,7 +498,7 @@
         "trailer": "",
         "size": "944413",
         "data_size": "0",
-        "hash": "0d58b50441ea767087aeeb6fb8697ba4",
+        "hash": "8a47eae6731e2cd14550b5675ce3997e",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
@@ -506,7 +506,7 @@
         "tags": "",
         "ai": "1",
         "score": "76.4",
-        "url": "https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.0.0/btd5-vita-v1.00-logging.vpk",
+        "url": "https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.0.0/btd5-vita-v1.00.vpk",
         "data": ""
     },
     {
@@ -1756,9 +1756,9 @@
         "source": "https://github.com/Mips96/Trogdor-Reburninated",
         "release_page": "https://github.com/Mips96/Trogdor-Reburninated/releases",
         "trailer": "",
-        "size": "6496524",
+        "size": "10350041",
         "data_size": "7515398",
-        "hash": "5ce45ae92c981b493b2571b084646fb9",
+        "hash": "e27146f57d348115bb35fac60edd104f",
         "hash2": "",
         "changelog": "- Added new \"Reburninated\" logo to instructions screen and icons.\n- Added custom soundtrack support.\n- Added volume controls for music, sound effects, and Strong Badâ€™s commentary.\n- Increased volume of most sound effects, and slightly increased volume of most voice clips. Additionally, music can now get much louder.\n- Removed all audio stuttering and reduced audio latency.\n- Reorganized Options menu by splitting Cosmetic Settings into separate Audio and Video sections.\n- Reworked Options menu background to fill full (4:3) screen.\n- Fixed music not playing on levels 47 and 48.\n- Fixed Theater and sound logic misclassifying some sound effects as music and vice-versa.\n- Adjusted fire breath position to match the Flash version more closely.\n- Other assorted polish and optimizations.",
         "requirements": "",
@@ -1766,7 +1766,7 @@
         "tags": "retro,8 bit,casual,2d,f2p",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/Mode8fx/Trogdor-Reburninated/releases/download/v2.4/Trogdor-Reburninated-v2.4-3ds-cia.zip",
+        "url": "https://github.com/Mode8fx/Trogdor-Reburninated/releases/download/v2.4/Trogdor-Reburninated-v2.4-vita.zip",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Trogdor-RB.zip"
     },
     {
@@ -1802,7 +1802,7 @@
     {
         "name": "ZGloom-Vita",
         "icon": "3fe4c259148c39d71116e90cfa3d3755323d5dd2e692bc53f03e63bca91cd835.png",
-        "version": "05.2026v2",
+        "version": "v.08.2026",
         "author": "Andiweli & JetStreamSham",
         "type": "2",
         "description": "Port of ZGloom for PSVITA.",
@@ -1816,9 +1816,9 @@
         "source": "https://github.com/Andiweli/ZGloom-Vita-Vita2D",
         "release_page": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases",
         "trailer": "",
-        "size": "4981758",
+        "size": "5079436",
         "data_size": "17897691",
-        "hash": "e4b98dae3c654b19e570ea458ac67610",
+        "hash": "c32b77fc7f7178bdda453d77b2271e7f",
         "hash2": "",
         "changelog": "- game selector at start for all installed \"Gloom-Engine\" games\n- \"run\" option\n- Save/Load position option (it won't save the enemies states)\n- 3 profiles for Classic up to Enhanced visuals\n- Blob shadows\n- Muzzle flash and reflections\n- Atmospheric dust\n- Fixed teleport animation as in the original 90s game\n- Fixed intro sequence as in the original 90s game",
         "requirements": "",
@@ -1826,7 +1826,7 @@
         "tags": "",
         "ai": "1",
         "score": "79",
-        "url": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v05.2026-v2/ZGloomCollection.05.2026.v2.vpk",
+        "url": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v08.2026/ZGloomCollection.08.2026.vpk",
         "data": "https://github.com/Andiweli/ZGloom-Vita-Vita2D/releases/download/v11.2025/ZGloom-Datafiles.zip"
     },
     {
@@ -2162,7 +2162,7 @@
     {
         "name": "FakeName Changer",
         "icon": "21ebf288cf1731fe3fc20066a705484c164d5498a882a4a6494f8a7e7f11ea80.png",
-        "version": "v.2.0",
+        "version": "v.2.1",
         "author": "Eywa186",
         "type": "4",
         "description": "Bubble names changer for PSVita.",
@@ -2176,9 +2176,9 @@
         "source": "",
         "release_page": "https://github.com/Eywa186/FakeName-Changer-For-PSVita/releases",
         "trailer": "",
-        "size": "4531597",
+        "size": "4532316",
         "data_size": "0",
-        "hash": "5ea134feaf208a27b47aa5bba0edd581",
+        "hash": "71560d835cbee1c845e7ab1f5eafdb4d",
         "hash2": "e9157a88fffd96072099398423ae27de",
         "changelog": "- First Release.",
         "requirements": "",
@@ -2186,7 +2186,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/Eywa186/FakeName-Changer-For-PSVita/releases/download/v1.0.0/FakeNameChanger_v2.0.vpk",
+        "url": "https://github.com/Eywa186/FakeName-Changer-For-PSVita/releases/download/v2.1/FakeNameChanger_v2.1.vpk",
         "data": ""
     },
     {
@@ -2822,7 +2822,7 @@
     {
         "name": "VitaRPS5",
         "icon": "f754ebe4cee40540c181672aac04923a8cede8a57aee74e218000e6482bb49d0.png",
-        "version": "v.2.1.2",
+        "version": "v.3.0.2",
         "author": "Claude AI & ywnico & AAGaming",
         "type": "4",
         "description": "PS5 streaming application for PSVita.",
@@ -2836,9 +2836,9 @@
         "source": "https://github.com/mauricio-gg/vitaki-vitarps5",
         "release_page": "https://github.com/mauricio-gg/vitaki-vitarps5/releases",
         "trailer": "",
-        "size": "2962123",
+        "size": "3708108",
         "data_size": "0",
-        "hash": "ae9bf47031697c14cd5bcc15b946023f",
+        "hash": "046a1532500616f1e892202ad076da6b",
         "hash2": "",
         "changelog": "-Fix production log writes and add UI logging toggle (#79) (fb34cc1).",
         "requirements": "",
@@ -2846,7 +2846,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v2.1.2/VitakiFork-v2.1.2.vpk",
+        "url": "https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.0.2/VitakiFork-v3.0.2.vpk",
         "data": ""
     },
     {
@@ -3586,9 +3586,9 @@
         "source": "",
         "release_page": "https://github.com/malone46/NFH-PS-VITA/",
         "trailer": "",
-        "size": "13193713",
+        "size": "72628873",
         "data_size": "0",
-        "hash": "28df76217cc4803a8d702c8597b59d38",
+        "hash": "61821fc4b436bb144bf1a9e358692664",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- Game Data Files: Android",
@@ -3596,7 +3596,7 @@
         "tags": "",
         "ai": "0",
         "score": "68.1",
-        "url": "https://github.com/MaloneCZSD/NFH-PS-VITA/releases/download/V1.0/NFHV1.0.vpk",
+        "url": "https://github.com/MaloneCZSD/NFH-PS-VITA/releases/download/V1.0/NeighboursFromHellANDROID.zip",
         "data": ""
     },
     {
@@ -4142,7 +4142,7 @@
     {
         "name": "HEXFlow Launcher Custom",
         "icon": "97c1b80a4a6cb390b29d8c64a68e537b3abd136493396115c1d650f5f95a54d6.png",
-        "version": "v.2.9",
+        "version": "v.2.9.1",
         "author": "BlackSheepBoy69 & VitaHEX games",
         "type": "4",
         "description": "3D coverflow launcher for PSVITA.",
@@ -4156,9 +4156,9 @@
         "source": "https://github.com/BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom",
         "release_page": "https://github.com/BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom/releases",
         "trailer": "",
-        "size": "19837323",
+        "size": "19836866",
         "data_size": "0",
-        "hash": "1f674b186ea9646e5798bae4953891bc",
+        "hash": "ffea2021deaaa0a3ddeb3e782ea3d436",
         "hash2": "84dc7870803d61bf6845919a205a6752",
         "changelog": "NEW:\n- (w/ \"RetroFlow: ON\") Launch Nintendo DS games from \"ux0:/data/dsvita\"\n- (w/ \"RetroFlow: ON\") Manipulate DSVita settings in HexFlow triangle menu: \"fast\"/\"accurate\" mode, and layout style. NOTE: ingame, swap screens with PS+X.\n- (w/ \"Allow 2D Views: ON\") 2-Row View temporarily to replace SwitchView while finding a good order to put them in.\n\nIMPROVEMENTS:\n- \"Recently Played\" uses new tab-separated format instead of comma-separated; works much better for RetroFlow files. Likely to be used for all custom categories in v3.0+\n\nBUGFIXES:\n- Several bugfixes from v2.8.3, released a few days prior though that version lacks these new experimental features. Use it if you have trouble with this one.",
         "requirements": "",
@@ -4166,7 +4166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom/releases/download/v2.9/HexFlow.Custom.2.9.vpk",
+        "url": "https://github.com/BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom/releases/download/v2.9.1/HexFlow.Custom.2.9.1.vpk",
         "data": ""
     },
     {
@@ -4486,9 +4486,9 @@
         "source": "https://github.com/joel16/vitaPDF",
         "release_page": "https://joel16dev.itch.io/vitapdf",
         "trailer": "",
-        "size": "32204024",
+        "size": "31999916",
         "data_size": "0",
-        "hash": "d96501754ea3e3c9ada966b4624a1af9",
+        "hash": "bd8e359c9d88e712ee9f1c263818ee8a",
         "hash2": "",
         "changelog": "- Added ability to switch been landscape and portrait orientation (Use the square button to toggle orientation). The orientation is saved into the database and is specific to the ebook.\n- Update to MuPDF v1.26.10.",
         "requirements": "",
@@ -4496,7 +4496,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1290-vitaPDF.vpk",
+        "url": "https://github.com/joel16/vitaPDF/releases/download/v1.03/vitaPDF.vpk",
         "data": ""
     },
     {
@@ -5762,7 +5762,7 @@
     {
         "name": "TheXTech",
         "icon": "5bdc6a1a2c4c20919ef8a5861cf9c1fcfe743a1f05de6cc5fd52b70968c62c25.png",
-        "version": "Nightly",
+        "version": "v.1.3.7.3-1",
         "author": "TheXTech Team",
         "type": "2",
         "description": "Port of Super Mario Bros X for PSVITA.",
@@ -5776,9 +5776,9 @@
         "source": "https://github.com/TheXTech/TheXTech",
         "release_page": "https://wohlsoft.ru/projects/TheXTech/",
         "trailer": "",
-        "size": "4456627",
+        "size": "4871436",
         "data_size": "0",
-        "hash": "403b60c6755fc57711f60ef4f1c2d71f",
+        "hash": "78e3126348a2f37ee08bbf53dccba7c3",
         "hash2": "",
         "changelog": "- Automatically updated nightly build.",
         "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
@@ -5786,7 +5786,7 @@
         "tags": "",
         "ai": "0",
         "score": "82",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/727-thextech.vpk",
+        "url": "https://github.com/TheXTech/TheXTech/releases/download/v1.3.7.3-1/thextech-vita-v1.3.7.3.zip",
         "data": ""
     },
     {
@@ -6286,9 +6286,9 @@
         "source": "https://github.com/mgba-emu/mgba/",
         "release_page": "https://mgba.io/",
         "trailer": "",
-        "size": "784603",
+        "size": "852635",
         "data_size": "0",
-        "hash": "42b7402e887206e1ab730a611032bdf0",
+        "hash": "32b8b8aba21abdccde50d2355f61c3dd",
         "hash2": "",
         "changelog": "Fixes:\n- ARM Debugger: Fix disassembly of ror r0 barrel shift (fixes #3412)\n- FFmpeg: Fix failing to record videos with CRF video (fixes #3368)\n- GB Core: Fix cloning savedata when backing file is outdated (fixes #3388)\n- GBA Cheats: Let VBA-style codes patch ROM (fixes #3423)\n- GBA Core: Fix booting into BIOS when skip BIOS is enabled\n- GBA Hardware: Fix loading states unconditionally overwriting GPIO memory\n- Updater: Fix rewriting folders and files on Windows (fixes #3384)\n\nMisc:\n- GB: Allow use of CGB-E and AGB-0 BIOS versions (closes #3427)",
         "requirements": "",
@@ -6296,7 +6296,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/164-mgba.vpk",
+        "url": "https://github.com/mgba-emu/mgba/releases/download/0.10.5/mGBA-0.10.5-vita.7z",
         "data": ""
     },
     {
@@ -6916,9 +6916,9 @@
         "source": "https://github.com/sharkwouter/oceanpop",
         "release_page": "https://sharkwouter.github.io/oceanpop/",
         "trailer": "",
-        "size": "28875218",
+        "size": "28872251",
         "data_size": "0",
-        "hash": "eeada67d21a36d8cbf79fe8c4878a59b",
+        "hash": "000c475c7af83b6f76ea8067964a9b4c",
         "hash2": "",
         "changelog": "- Challenge mode levels are now random, making each playthrough different\n- Matches required in challenge mode now only increases every 5 levels\n- Matches required in challenge mode now maxes out at 25\n- Fix the high score screen not showing correctly if standard mode had been completed\n- Show how the game works on first run\n- Add support for the Wii thanks to @mardy\n- Add Dutch translation. Contributions to add additional languages are welcome\n- Always use maximum resolution in full screen mode\n- Make window resizable and scale dynamically in windowed mode\n- Allow opening the menu with middle click on the mouse\n- Add opening animation to levels\n- Improve matching animation\n- Add credits screen\n- Move game modes into own screen\n- Fix Playstation Portable version\n- Improve performance in Playstation Portable version\n- Improve text positioning on all menus\n- Decrease the size of binary on all platforms\n- Log exceptions thanks to @mardy",
         "requirements": "",
@@ -6926,7 +6926,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/792-oceanpop.vpk",
+        "url": "https://github.com/sharkwouter/oceanpop/releases/download/2.0/oceanpop-vita.zip",
         "data": ""
     },
     {
@@ -7292,7 +7292,7 @@
     {
         "name": "Tiny Crate Vita",
         "icon": "0d3ffae5f13a2ca349bf52100a69921dcd7d29e65c0fe44e53715075f2ee6090.png",
-        "version": "v.1.1.6",
+        "version": "v.Main",
         "author": "Thatoneham & Harmony Honey",
         "type": "2",
         "description": "Port of Tiny Crate for PSVITA.",
@@ -7306,9 +7306,9 @@
         "source": "https://github.com/thatoneham/Tiny-Crate-Vita",
         "release_page": "",
         "trailer": "",
-        "size": "23590662",
+        "size": "23561988",
         "data_size": "0",
-        "hash": "49fab8a74e95303499f9e66c49e49e63",
+        "hash": "bc4c3d2b3b5a6aa15c423b99c03c08c0",
         "hash2": "fe92dcea7ffb62233b3232c742afe6b7",
         "changelog": "- Added 4 more levels\n- Framerate improvements\n- Level select image rendering improvement",
         "requirements": "",
@@ -7316,7 +7316,7 @@
         "tags": "2d,platform,indie,godot,8 bit",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1235-tiny_crate.vpk",
+        "url": "https://github.com/thatoneham/Tiny-Crate-Vita/releases/download/Main/Tiny.Crate.vpk",
         "data": ""
     },
     {
@@ -8372,7 +8372,7 @@
     {
         "name": "UX0 to SD CloneTool",
         "icon": "7851bbbaae48249806c811d896b91ce3f137f239613d6d6aa1a54a992e1f5cd4.png",
-        "version": "v.2.3b",
+        "version": "v.2.3",
         "author": "AntHJ",
         "type": "4",
         "description": "Tool that semi-automates migration to an SD.",
@@ -8386,9 +8386,9 @@
         "source": "",
         "release_page": "https://github.com/AntHJ/UX0toSD/releases",
         "trailer": "",
-        "size": "7431932",
+        "size": "7431948",
         "data_size": "0",
-        "hash": "7392290f07ff3ace307e243da320d17c",
+        "hash": "c80ae21233c76639de0bbcfa21a0f02a",
         "hash2": "f7a212f84b30a75c08ece789eef4dfcf",
         "changelog": "- Fixed SD values for cards such as Samsung Evo Plus\n- Now updates memory values from the git page",
         "requirements": "",
@@ -8396,7 +8396,7 @@
         "tags": "opensource,lua",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/724-UX0toSD.vpk",
+        "url": "https://github.com/AntHJ/UX0toSD/releases/download/v2.3/UX0toSD_v2.3.vpk",
         "data": ""
     },
     {
@@ -9542,7 +9542,7 @@
     {
         "name": "BoggleVita",
         "icon": "c83b4e4686a58c1a06934a1d07eac69c7c16d61e67dae4d430ee8b8145cab641.png",
-        "version": "v.1.0",
+        "version": "v.ita",
         "author": "SoulTieGames",
         "type": "1",
         "description": "Boggle game for PSVITA.",
@@ -9556,9 +9556,9 @@
         "source": "",
         "release_page": "https://github.com/SoulTieGames/BoggleVita",
         "trailer": "",
-        "size": "3058336",
+        "size": "3496823",
         "data_size": "0",
-        "hash": "59d7ac3f60caa620dcec64e221701e2f",
+        "hash": "89921b207754917410372c1d3684ea6a",
         "hash2": "c0972a7f40c3efc8959c278deb15dc40",
         "changelog": "- First Release.",
         "requirements": "",
@@ -9566,7 +9566,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1169-boggle.vpk",
+        "url": "https://github.com/SoulTieGames/BoggleVita/releases/download/Vita/boggle_v2.0.VPK",
         "data": ""
     },
     {
@@ -9596,7 +9596,7 @@
         "tags": "",
         "ai": "0",
         "score": "86.4",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/649-vanillara.vpk",
+        "url": "https://github.com/Northfear/Vanilla-Conquer-vita/releases/download/v1.0-r914/vanillara.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/VanillaRA.zip"
     },
     {
@@ -9626,7 +9626,7 @@
         "tags": "",
         "ai": "0",
         "score": "88.4",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/650-vanillatd.vpk",
+        "url": "https://github.com/Northfear/Vanilla-Conquer-vita/releases/download/v1.0-r914/vanillatd.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/VanillaTD.zip"
     },
     {
@@ -9962,7 +9962,7 @@
     {
         "name": "Xash3D-FWGS",
         "icon": "ea21c1e094cc19f20ed4e11d671e28f1cee347b2f07d1c64e03c5923d0928aa6.png",
-        "version": "Nightly",
+        "version": "v.continuous",
         "author": "Xash3D-FWGS Team & fgsfds",
         "type": "2",
         "description": "Port of Xash3D-FWGS for PSVITA.",
@@ -9976,9 +9976,9 @@
         "source": "https://github.com/FWGS/xash3d-fwgs",
         "release_page": "https://github.com/FWGS/xash3d-fwgs/release",
         "trailer": "",
-        "size": "53202825",
+        "size": "33443462",
         "data_size": "45288926",
-        "hash": "05622ae7f4df659462c939b6ae34f4d3",
+        "hash": "3fece0680f712109eafbb9a42d3b2c80",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: PC",
@@ -9986,7 +9986,7 @@
         "tags": "",
         "ai": "0",
         "score": "92",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1157-xash3d.zip",
+        "url": "https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-psvita.7z",
         "data": "https://files.coolatoms.org/xash-data.zip"
     },
     {
@@ -12136,9 +12136,9 @@
         "source": "https://github.com/LumenTuoma/RTDink",
         "release_page": "http://www.dinknetwork.com/forum.cgi?MID=207184&Posts=1",
         "trailer": "",
-        "size": "2830604",
+        "size": "2830265",
         "data_size": "0",
-        "hash": "b6999508cd089da75adeef0f18e782d2",
+        "hash": "c50a9a2a26fa75d3f7b70753b3e928a6",
         "hash2": "",
         "changelog": "NOTICE\n- The path of the data files has changed to ux0:data/Dink Smallwood HD/ rather than ux0:data/proton\n- the TITLEID of the application has changed and is now DINK54321 rather than RTDINK123.\n- If you want MIDI Audio to work please download Timidity from here and unpack it to ux0:data/timidity\n\nNEW\n- Fix crash which happens when trying to load save.\n\nLAST UPDATE\n- Now you can move using the left analog stick of your Playstation Vita\n- MIDI Audio works using Timidity\n- Livearea assets\n- Other performance improvements.",
         "requirements": "- libshacccg.suprx\n- Game Data Files: Android/Windows/Mac/iOS",
@@ -12146,7 +12146,7 @@
         "tags": "",
         "ai": "0",
         "score": "63.4",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/742-RTDink.vpk",
+        "url": "https://github.com/Nyabsi/RTDink/releases/download/1.3.1/RTDink.vpk",
         "data": ""
     },
     {
@@ -13382,7 +13382,7 @@
     {
         "name": "vita-smb-client",
         "icon": "79250cc45455551a1eb9f5a4b64ef0ca8bf02e5869095a9cfebbac89b92d7b91.png",
-        "version": "v.1.02",
+        "version": "v.latest",
         "author": "cy33hc",
         "type": "4",
         "description": "SMB client for PSVITA.",
@@ -13396,9 +13396,9 @@
         "source": "https://github.com/cy33hc/vita-smb-client",
         "release_page": "https://github.com/cy33hc/vita-smb-client/releases",
         "trailer": "",
-        "size": "1326086",
+        "size": "14638132",
         "data_size": "0",
-        "hash": "84334c3ed49d8f1be3fe26041c12b6ab",
+        "hash": "1ff18b7e47351c8f2a15a37a0ebb9261",
         "hash2": "",
         "changelog": "- Fixed anonymous access for some SMB shares",
         "requirements": "- libshacccg.suprx",
@@ -13406,7 +13406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1024-smbclient.vpk",
+        "url": "https://github.com/cy33hc/vita-smb-client/releases/download/latest/smbclient.vpk",
         "data": ""
     },
     {
@@ -13532,7 +13532,7 @@
     {
         "name": "vita-webdav-client",
         "icon": "26ba7e84ae7c6ed20e7fe7f0e1b8d5ab44b5194d2204eabb95e47c36680e322d.png",
-        "version": "v.1.00",
+        "version": "v.latest",
         "author": "cy33hc",
         "type": "4",
         "description": "WebDAV client for PSVITA.",
@@ -13546,9 +13546,9 @@
         "source": "https://github.com/cy33hc/vita-webdav-client",
         "release_page": "https://github.com/cy33hc/vita-webdav-client/releases",
         "trailer": "",
-        "size": "2394073",
+        "size": "15798332",
         "data_size": "0",
-        "hash": "aef78782e75e15158641ee53c52fe8fa",
+        "hash": "af59e561de2fe37adaac78db447343b0",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -13556,7 +13556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1025-webdavclient.vpk",
+        "url": "https://github.com/cy33hc/vita-webdav-client/releases/download/latest/webdavclient.vpk",
         "data": ""
     },
     {
@@ -13592,7 +13592,7 @@
     {
         "name": "vita-ftp-client",
         "icon": "a32154976120b05a43a184a485f9ff4e1af33a2e1115151f9ce1f4593bd5ce59.png",
-        "version": "v.1.52",
+        "version": "v.latest",
         "author": "cy33hc",
         "type": "4",
         "description": "FTP client for PSVITA.",
@@ -13606,9 +13606,9 @@
         "source": "https://github.com/cy33hc/vita-ftp-client",
         "release_page": "https://github.com/cy33hc/vita-ftp-client/releases",
         "trailer": "",
-        "size": "2545981",
+        "size": "16543732",
         "data_size": "0",
-        "hash": "8c974c12a26b7c7920ba7784232d2482",
+        "hash": "a58def434f8e2a29baf14b9965559383",
         "hash2": "",
         "changelog": "- Fixed bug when if you try rename a file without changing the name, the file got deleted instead.",
         "requirements": "",
@@ -13616,7 +13616,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/817-ftpclient.vpk",
+        "url": "https://github.com/cy33hc/vita-ftp-client/releases/download/latest/ftpclient.vpk",
         "data": ""
     },
     {
@@ -13772,7 +13772,7 @@
     {
         "name": "Vita Launcher",
         "icon": "d9b02819daa3bcf8b65a7087c0274550511b5547a25fb820e2074a2f29eacf77.png",
-        "version": "v.3.9.6",
+        "version": "v.latest",
         "author": "cy33hc",
         "type": "4",
         "description": "Applications launcher for PSVita/PSTV.",
@@ -13796,7 +13796,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/583-launcher.vpk",
+        "url": "https://github.com/cy33hc/vita-launcher/releases/download/latest/launcher.vpk",
         "data": ""
     },
     {
@@ -14006,7 +14006,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/605-flycast.vpk",
+        "url": "https://github.com/Rinnegatamante/flycast-vita/releases/download/v.1.1/Flycast.vpk",
         "data": ""
     },
     {
@@ -14276,7 +14276,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.7",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/881-Doom64EX.vpk",
+        "url": "https://github.com/Rinnegatamante/Doom64EX/releases/download/v.1.0.1/Doom64EX.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Doom64EX.zip"
     },
     {
@@ -15572,7 +15572,7 @@
     {
         "name": "YoYo Loader Vita",
         "icon": "31908a8a78d451a49d424b135c7e7ec72732102a6504574e41cca958f407b417.png",
-        "version": "Nightly",
+        "version": "v.Nightly",
         "author": "Rinnegatamante",
         "type": "5",
         "description": "Game Maker Studio games loader.",
@@ -15586,9 +15586,9 @@
         "source": "https://github.com/Rinnegatamante/yoyoloader_vita",
         "release_page": "https://github.com/Rinnegatamante/yoyoloader_vita/releases",
         "trailer": "",
-        "size": "9886777",
+        "size": "8208053",
         "data_size": "0",
-        "hash": "bd5c2cf9d861c123070b9bcdd0e876bf",
+        "hash": "33a09c7a681033093691d6b90dc22405",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android OR PC/Console Bytecode",
@@ -15596,7 +15596,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/Rinnegatamante/yoyoloader_vita/releases/download/Nightly/banners.zip",
+        "url": "https://github.com/Rinnegatamante/yoyoloader_vita/releases/download/Nightly/YoYoLoader.vpk",
         "data": ""
     },
     {
@@ -15962,7 +15962,7 @@
     {
         "name": "MVPlayer",
         "icon": "8dcfa8fc2265da7044005512f8fe160e959178130f02468ee978b97a63027736.png",
-        "version": "v.1.0",
+        "version": "v.1.4",
         "author": "AntHJ",
         "type": "4",
         "description": "Stylish video player for PSVITA.",
@@ -15976,9 +15976,9 @@
         "source": "",
         "release_page": "https://github.com/AntHJ/MVPlayer/releases/",
         "trailer": "",
-        "size": "4527264",
+        "size": "4528105",
         "data_size": "0",
-        "hash": "4a9f0416963cb10ef497f4ebc7b9c09a",
+        "hash": "879cddc851c30f16e30a34fa3b110e9f",
         "hash2": "f381cdb30da6df19d558b72b084f02b9",
         "changelog": "- First release.",
         "requirements": "",
@@ -15986,7 +15986,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/796-MVPLAYER0.vpk",
+        "url": "https://github.com/AntHJ/MVPlayer/releases/download/v1.4/MVPLAYER0.vpk",
         "data": ""
     },
     {
@@ -16076,7 +16076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/392-PiCrest.vpk",
+        "url": "https://github.com/Creckeryop/PiCrest/releases/download/1.15/PiCrest.vpk",
         "data": ""
     },
     {
@@ -16682,7 +16682,7 @@
     {
         "name": "Innyume",
         "icon": "b15260cadc8bcd7063f0d3aca9af729d75dd3e5608eca71f02f6baf5e366dd66.png",
-        "version": "v.1.6",
+        "version": "v.1.8",
         "author": "4DSWorks",
         "type": "2",
         "description": "Port of Innyume for PSVITA.",
@@ -16696,9 +16696,9 @@
         "source": "https://github.com/VMHoss/Innyume-Vita",
         "release_page": "",
         "trailer": "",
-        "size": "44653922",
+        "size": "45866181",
         "data_size": "0",
-        "hash": "69e570e6020aad3b493b230f538ed169",
+        "hash": "40da4492d639133f9a5bd58912bbccb2",
         "hash2": "714e8a84b2dc1ec10348cf947fd82f24",
         "changelog": "- First Release.",
         "requirements": "",
@@ -16706,7 +16706,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/772-Innyume.6.vpk",
+        "url": "https://github.com/VMHoss/Innyume-Vita/releases/download/1.8/Innyume_1_8.vpk",
         "data": ""
     },
     {
@@ -18002,7 +18002,7 @@
     {
         "name": "JetMan-3D",
         "icon": "d5515dc3a7808701fb7a98cf09d779981aa70b06848370712e5e6fc8545fa1f0.png",
-        "version": "v.1.0",
+        "version": "v.Main",
         "author": "Gremlin Software",
         "type": "1",
         "description": "Game based on the ZX Spectrum classic Jetpac.",
@@ -18026,7 +18026,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/719-JetMan-3D.vpk",
+        "url": "https://github.com/softwaregremlin/Jetman3D/releases/download/Main/JetMan-3D.vpk",
         "data": ""
     },
     {
@@ -18326,7 +18326,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/680-SillyTower.vpk",
+        "url": "https://github.com/Cpasjuste/sillytower/releases/download/1.3/SillyTower-1.3.vpk",
         "data": ""
     },
     {
@@ -19366,9 +19366,9 @@
         "source": "",
         "release_page": "https://github.com/m1s3ry/minit-vita",
         "trailer": "",
-        "size": "4116102",
+        "size": "2995304",
         "data_size": "0",
-        "hash": "444dd403dd61d2ef8f62165e8418bd8b",
+        "hash": "d1729173957f837dfa258458ba18c990",
         "hash2": "",
         "changelog": "",
         "requirements": "- Game Data Files: PC",
@@ -19376,7 +19376,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.7",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/638-Minit.vpk",
+        "url": "https://github.com/m1s3ry/minit-vita/releases/download/v1.1/Minit.VPK",
         "data": ""
     },
     {
@@ -19922,7 +19922,7 @@
     {
         "name": "PSV IDPS Dumper",
         "icon": "9bb8521a2287f4b74876ce47427ce0f168e3f68ae3eb39f78c9d9c287e63d5c1.png",
-        "version": "v.0.8",
+        "version": "v.1.1",
         "author": "Yoti",
         "type": "4",
         "description": "IDPS Dumper for PSVITA.",
@@ -19936,9 +19936,9 @@
         "source": "https://github.com/Yoti/psv_idpsdump",
         "release_page": "https://github.com/Yoti/psv_idpsdump/releases",
         "trailer": "",
-        "size": "275286",
+        "size": "275754",
         "data_size": "0",
-        "hash": "9cb580aa0c21e44f9001442ebb57f06e",
+        "hash": "55490ea7be8ad214f598653952d008a8",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -19946,7 +19946,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/619-PSV_IDPS_Dumper.vpk",
+        "url": "https://github.com/Yoti/psv_idpsdump/releases/download/v1.1/PSV_IDPS_Dumper_v1.1.vpk",
         "data": ""
     },
     {
@@ -20786,7 +20786,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/434-MSweep.vpk",
+        "url": "https://github.com/Creckeryop/MSweep/releases/download/v1.2.1/MSweep.vpk",
         "data": ""
     },
     {
@@ -20882,7 +20882,7 @@
     {
         "name": "OpenBOR",
         "icon": "53278376c8056b6609f80851e8e4af90e4b07a0a0cae1181faa317544a66fb15.png",
-        "version": "v.1.2",
+        "version": "v.4704-rsn8887git-1.2",
         "author": "cpasjuste & rsn8887 & Plombo",
         "type": "5",
         "description": "Fighting game engine.",
@@ -20906,7 +20906,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/410-OpenBOR.vpk",
+        "url": "https://github.com/rsn8887/openbor/releases/download/v4704-rsn8887git-1.2/OpenBOR.vpk",
         "data": ""
     },
     {
@@ -21392,7 +21392,7 @@
     {
         "name": "OpenSupaplex",
         "icon": "5fd62c37c3b8369d999a693ed25862f53edeaa8b7275c075c9d30f2d239b8b94.png",
-        "version": "v.7.1.1",
+        "version": "v.7.2.2",
         "author": "sergiou87",
         "type": "2",
         "description": "Port of Supaplex for PSVITA.",
@@ -21406,9 +21406,9 @@
         "source": "https://github.com/sergiou87/open-supaplex",
         "release_page": "https://github.com/sergiou87/open-supaplex/releases",
         "trailer": "",
-        "size": "21131999",
+        "size": "4635077",
         "data_size": "0",
-        "hash": "7dba1acc0faffac9cf69ef333cc74f95",
+        "hash": "037d9c7763fc12ee250cc84ae432b5a0",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -21416,7 +21416,7 @@
         "tags": "",
         "ai": "0",
         "score": "77",
-        "url": "https://github.com/sergiou87/open-supaplex/releases/download/v7.1.1/OpenSupaplex-vita-v7.1.1.vpk",
+        "url": "https://github.com/sergiou87/open-supaplex/releases/download/v7.2.2/OpenSupaplex.vpk",
         "data": ""
     },
     {
@@ -21626,7 +21626,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/440-easyplugin.vpk",
+        "url": "https://github.com/THEN00P/EasyPlugin/releases/download/1.1.1/easyplugin.vpk",
         "data": ""
     },
     {
@@ -21752,7 +21752,7 @@
     {
         "name": "Daedalus X64",
         "icon": "932a2c421cd1217626c59ea726d5e6a16ba737f98ce86c193db75e9e633fcec9.png",
-        "version": "Nightly",
+        "version": "v.Nightly",
         "author": "Rinnegatamante",
         "type": "5",
         "description": "N64 Emulator for PSVITA.",
@@ -21766,9 +21766,9 @@
         "source": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL",
         "release_page": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases",
         "trailer": "",
-        "size": "415091",
+        "size": "2823264",
         "data_size": "28680897",
-        "hash": "54391e85a6921142ab36f7c81ca5ff70",
+        "hash": "4a0b719836466d0629815315707ba709",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -21776,7 +21776,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/download/Nightly/builder.zip",
+        "url": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/download/Nightly/DaedalusX64.vpk",
         "data": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/download/Nightly/DaedalusX64.zip"
     },
     {
@@ -22456,9 +22456,9 @@
         "source": "https://github.com/Kirezar/VitaGrafixConfigurator",
         "release_page": "https://github.com/Kirezar/VitaGrafixConfigurator/releases",
         "trailer": "",
-        "size": "2143646",
+        "size": "2455900",
         "data_size": "0",
-        "hash": "d638d760b7e838557996620cf7d5f59d",
+        "hash": "befb6838c9052002d7a648d8cf360870",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -22466,7 +22466,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/400-VitaGraphs.vpk",
+        "url": "https://github.com/Kirezar/VitaGrafixConfigurator/releases/download/v3.0/VitaGrafixConfigurator.vpk",
         "data": ""
     },
     {
@@ -22916,7 +22916,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/352-sdlpal.vpk",
+        "url": "https://github.com/usineur/sdlpal/releases/download/1.3/sdlpal.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/sdlpal.zip"
     },
     {
@@ -23222,7 +23222,7 @@
     {
         "name": "bstone-vita",
         "icon": "e65e90124d6f6cc5b0d9de0c0d474e15c3286eb334f245d29d9bfe7675dfc6e4.png",
-        "version": "v.0.3",
+        "version": "v.0.3-vita",
         "author": "01y",
         "type": "2",
         "description": "Blake Stone port for PSVITA",
@@ -23236,9 +23236,9 @@
         "source": "https://github.com/01y/bstone-vita",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=49428",
         "trailer": "",
-        "size": "1174300",
+        "size": "1479735",
         "data_size": "1174300",
-        "hash": "ea6c13ba49081ab399cc9345744187bb",
+        "hash": "e2cd83f01d807c1f35c7712f31fcd3e6",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -23246,13 +23246,13 @@
         "tags": "",
         "ai": "0",
         "score": "71.1",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/393-bstone.zip",
+        "url": "https://github.com/01y/bstone-vita/releases/download/0.3-vita/bstone-0.3.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/bstone.zip"
     },
     {
         "name": "PSM Manager",
         "icon": "b96a69559da726f539f0d9816b6d0f4a6f0e542749e6c99a20b57886695b7cbb.png",
-        "version": "v.2.0",
+        "version": "v.2.1",
         "author": "Yoti",
         "type": "4",
         "description": "Bypass PSN for PSM titles.",
@@ -23266,9 +23266,9 @@
         "source": "https://github.com/Yoti/psv_npdrmfix",
         "release_page": "https://github.com/Yoti/psv_npdrmfix/releases",
         "trailer": "",
-        "size": "74543",
+        "size": "261619",
         "data_size": "0",
-        "hash": "eeb759d2b169c81012cef48ffe962b8e",
+        "hash": "9d5a1ae523f0cad9c352c14ac42c9974",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -23276,7 +23276,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/500-PSM_Manager.vpk",
+        "url": "https://github.com/Yoti/psv_npdrmfix/releases/download/v2.1/PSM_Manager.vpk",
         "data": ""
     },
     {
@@ -23396,7 +23396,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/447-ElevenMPV.vpk",
+        "url": "https://github.com/joel16/ElevenMPV/releases/download/v2.10/ElevenMPV.vpk",
         "data": ""
     },
     {
@@ -24896,7 +24896,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/399-RPPHS.vpk",
+        "url": "https://github.com/G333333/RPPHS/releases/download/v1.2/RPPHS.vpk",
         "data": ""
     },
     {
@@ -25166,7 +25166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/361-VitaBackup.vpk",
+        "url": "https://github.com/joel16/VitaBackup/releases/download/2.00/VitaBackup.vpk",
         "data": ""
     },
     {
@@ -25772,7 +25772,7 @@
     {
         "name": "vita-savemgr",
         "icon": "6623e30364290bbb3b166046ce26b6a2f769bbedf63b15c02d51575fc5d87b3c.png",
-        "version": "v.2.0.0",
+        "version": "v.nightly",
         "author": "d3m3vilurr",
         "type": "4",
         "description": "Savegame dumper/restorer.",
@@ -25786,9 +25786,9 @@
         "source": "https://github.com/d3m3vilurr/vita-savemgr",
         "release_page": "",
         "trailer": "",
-        "size": "490724",
+        "size": "515954",
         "data_size": "0",
-        "hash": "6b38f237a6635ebf717ec6faa24231ba",
+        "hash": "5c3e869faa3be41b078f1d9dd58a43e6",
         "hash2": "",
         "changelog": "- Re-enable package compression (cdf1833)\n- Fix confirm button always ASIA mode (#59)\n- Fix not shown all games (#62)\n- Fix crash if not have icon files (#68)\n- Embed VitaShell modules into vpk file (#66)",
         "requirements": "",
@@ -25796,7 +25796,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/9-savemgr.vpk",
+        "url": "https://github.com/d3m3vilurr/vita-savemgr/releases/download/nightly/savemgr.vpk",
         "data": ""
     },
     {
@@ -25946,7 +25946,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/330-tetromino.vpk",
+        "url": "https://github.com/svennd/vita-tetromino/releases/download/0.8/tetromino.vpk",
         "data": ""
     },
     {
@@ -26072,7 +26072,7 @@
     {
         "name": "FadeToBlack",
         "icon": "d474c63b742db3cf7d8ee23211668df0ee623bcfc5e01ee40170548be019f943.png",
-        "version": "v.1.0",
+        "version": "v.ita-1.0",
         "author": "usineur",
         "type": "2",
         "description": "Fade to Black port for PSVITA.",
@@ -26096,7 +26096,7 @@
         "tags": "",
         "ai": "0",
         "score": "77.5",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/367-FadeToBlack.vpk",
+        "url": "https://github.com/usineur/f2bgl/releases/download/vita-1.0/FadeToBlack.vpk",
         "data": ""
     },
     {
@@ -26216,7 +26216,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/363-VitaGraphs.vpk",
+        "url": "https://github.com/Creckeryop/VitaGraphs/releases/download/0010/VitaGraphs.vpk",
         "data": ""
     },
     {
@@ -26246,7 +26246,7 @@
         "tags": "",
         "ai": "0",
         "score": "73",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/115-bermuda-vita.vpk",
+        "url": "https://github.com/usineur/bermuda/releases/download/1.4/bermuda-vita.vpk",
         "data": "https://www.rinnegatamante.eu/files/vitadb/Homebrews%20Data%20Files/bermuda.zip"
     },
     {
@@ -26456,7 +26456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/351-Cookie.Clicker.vpk",
+        "url": "https://github.com/Creckeryop/CookieClicker-Vita/releases/download/0.2/Cookie.Clicker.vpk",
         "data": ""
     },
     {
@@ -26486,7 +26486,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/266-vita_cord.vpk",
+        "url": "https://github.com/devingDev/VitaCord/releases/download/1.5fix1/vita_cord.vpk",
         "data": ""
     },
     {
@@ -26536,9 +26536,9 @@
         "source": "https://github.com/usineur/opentitus",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48673",
         "trailer": "",
-        "size": "543212",
+        "size": "543246",
         "data_size": "0",
-        "hash": "2950677aeeab798aeac1dd774455f95c",
+        "hash": "67822c65a54983fbfc9ad709dc41ecdd",
         "hash2": "",
         "changelog": "",
         "requirements": "- Game Data Files: PC",
@@ -26546,7 +26546,7 @@
         "tags": "",
         "ai": "0",
         "score": "60.9",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/344-Titus.vpk",
+        "url": "https://github.com/usineur/opentitus/releases/download/1.0/Titus.vpk",
         "data": ""
     },
     {
@@ -26636,13 +26636,13 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/339-chain.vpk",
+        "url": "https://github.com/svennd/vita-chain/releases/download/0.2/chain.vpk",
         "data": ""
     },
     {
         "name": "Database Manager",
         "icon": "00324e51d63bca0c6355b19409497e9d1b90e75548bf1afb18ad22796b43fbd9.png",
-        "version": "v.1.10",
+        "version": "v.1.20",
         "author": "Deltaclock",
         "type": "4",
         "description": "app.db management tool.",
@@ -26656,9 +26656,9 @@
         "source": "https://github.com/deltaclock/Database-Manager",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48671",
         "trailer": "",
-        "size": "2302266",
+        "size": "2310239",
         "data_size": "0",
-        "hash": "26175679ea8bb4147ec3f426aaa136e3",
+        "hash": "69ae98b6add88b20a1e3fac9afae6ea1",
         "hash2": "3ebf86543721fc96c986c406f1a0f11e",
         "changelog": "",
         "requirements": "",
@@ -26666,7 +26666,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/340-Database.Manager.vpk",
+        "url": "https://github.com/deltaclock/Database-Manager/releases/download/v1.20/Database.Manager.vpk",
         "data": ""
     },
     {
@@ -26696,7 +26696,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/25-VITAident.vpk",
+        "url": "https://github.com/joel16/VITAident/releases/download/0.7.4/VITAident.vpk",
         "data": ""
     },
     {
@@ -26726,7 +26726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/26-VITAident_GUI.vpk",
+        "url": "https://github.com/joel16/VITAident/releases/download/0.7.4/VITAident_GUI.vpk",
         "data": ""
     },
     {
@@ -27026,7 +27026,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/303-VitaFFT.vpk",
+        "url": "https://github.com/pyroesp/vitaFFT/releases/download/v0.1.6/VitaFFT.vpk",
         "data": ""
     },
     {
@@ -27056,7 +27056,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/102-Pong.vpk",
+        "url": "https://github.com/NamelessGhoul0/VitaPong/releases/download/v1.10/Pong.vpk",
         "data": ""
     },
     {
@@ -27506,7 +27506,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/259-MediaImporter.vpk",
+        "url": "https://github.com/cnsldv/MediaImporter/releases/download/v0.91/MediaImporter.vpk",
         "data": ""
     },
     {
@@ -27536,7 +27536,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/249-CardUnlock.vpk",
+        "url": "https://github.com/cnsldv/CardUnlock/releases/download/v1.0/CardUnlock.vpk",
         "data": ""
     },
     {
@@ -27596,7 +27596,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/80-Restart.vpk",
+        "url": "https://github.com/devnoname120/vita-restart/releases/download/0.10/vita-restart.vpk",
         "data": ""
     },
     {
@@ -27656,7 +27656,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/238-PickrVITA.vpk",
+        "url": "https://github.com/joel16/PickrVITA/releases/download/1.1/PickrVITA.vpk",
         "data": ""
     },
     {
@@ -27806,7 +27806,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/128-Starfield-Vita.vpk",
+        "url": "https://github.com/gnmmarechal/starfield-vita/releases/download/v0.2/Starfield-Vita-v0.2.vpk",
         "data": ""
     },
     {
@@ -27992,7 +27992,7 @@
     {
         "name": "BlockOut II",
         "icon": "cfcd39dca798b5462938a9288699256991790f928f6f356510798963323ebc9c.png",
-        "version": "v.2.5",
+        "version": "v.BlockOut_II_PSVITA_2.5",
         "author": "bomblik",
         "type": "2",
         "description": "BlockOut II port for PSVITA.",
@@ -28016,13 +28016,13 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/18-BlockOutII.vpk",
+        "url": "https://github.com/bomblik/BlockOut_II_PSVITA/releases/download/BlockOut_II_PSVITA_2.5/BlockOut_II.vpk",
         "data": ""
     },
     {
         "name": "GNU Robbo",
         "icon": "3c141bbfc70f8d29f2901938aefe7beff5d7f6847920a44e9ad5100ccd2cc0a2.png",
-        "version": "v.0.68",
+        "version": "v.GNU_Robbo_0.68_PSVITA",
         "author": "bomblik",
         "type": "2",
         "description": "Atari XL/XE Robbo port.",
@@ -28046,7 +28046,7 @@
         "tags": "",
         "ai": "0",
         "score": "66",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/114-GNU_Robbo.vpk",
+        "url": "https://github.com/bomblik/GNU_Robbo_PSVITA_PSP/releases/download/GNU_Robbo_0.68_PSVITA/gnurobbo_0.68.vpk",
         "data": ""
     },
     {
@@ -28142,7 +28142,7 @@
     {
         "name": "CATSFC-libretro-vita",
         "icon": "17f7e96b84404d915c12ee68a527aad293c5ad86187a02c869ca7392e81208fd.png",
-        "version": "MOD v.1",
+        "version": "v.1.3.0",
         "author": "Malachi & skogaby",
         "type": "5",
         "description": "SNES emulator.",
@@ -28156,9 +28156,9 @@
         "source": "https://github.com/skogaby/CATSFC-libretro",
         "release_page": "http://wololo.net/talk/viewtopic.php?t=46394",
         "trailer": "",
-        "size": "1449897",
+        "size": "1319283",
         "data_size": "0",
-        "hash": "47e8e003da581d066587d69150a24004",
+        "hash": "6f0af7a42f505da62f10f5479ac15cc3",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -28166,7 +28166,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/75-CATSFC-libretro-vita_MOD.vpk",
+        "url": "https://github.com/skogaby/CATSFC-libretro/releases/download/1.3.0/CATSFC-libretro-vita-1.3.0.vpk",
         "data": ""
     },
     {
@@ -28226,7 +28226,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/64-qrdecoder.vpk",
+        "url": "https://github.com/linhtinh11/vita_qrdecoder/releases/download/0.2.1/qrdecoder.vpk",
         "data": ""
     },
     {
@@ -28442,7 +28442,7 @@
     {
         "name": "Flood It!",
         "icon": "cebb681351b58a33c475136d4f3796133442588454b4e4aa0bae3c21923559b6.png",
-        "version": "v.1.3",
+        "version": "v.11.17.2016",
         "author": "notnotme",
         "type": "1",
         "description": "Small game powered by NotEngine.",
@@ -28466,7 +28466,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/156-floodit.vpk",
+        "url": "https://github.com/notnotme/NotEngine_PSV/releases/download/11.17.2016/floodit.vpk",
         "data": ""
     },
     {
@@ -28676,7 +28676,7 @@
         "tags": "",
         "ai": "0",
         "score": "78.3",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/168-REminiscence.vpk",
+        "url": "https://github.com/enriquesomolinos/REminiscence-Vita/releases/download/v0.4.2/REminiscence-0.4.2.vpk",
         "data": ""
     },
     {
@@ -28706,7 +28706,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/252-FTPlaystation.vpk",
+        "url": "https://github.com/StonedModder/FTPlaystation/releases/download/0.1/FTPlaystation.vpk",
         "data": ""
     },
     {
@@ -28766,7 +28766,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/48-PSVibe.vpk",
+        "url": "https://github.com/NamelessGhoul0/PSVibe/releases/download/v2-final/PSVibe.v2-final.vpk",
         "data": ""
     },
     {
@@ -28826,7 +28826,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/152-VITAPluginsManager.vpk",
+        "url": "https://github.com/NeoLTK/VITAPluginsManager/releases/download/0.6/VITAPluginsManager.vpk",
         "data": ""
     },
     {
@@ -29216,7 +29216,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/8-Vitapong.vpk",
+        "url": "https://github.com/nyorem/vitapong/releases/download/v1.0/vitapong.vpk",
         "data": ""
     },
     {
@@ -29486,7 +29486,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/171-vita-activator.vpk",
+        "url": "https://github.com/yhtez/vita-activator/releases/download/v1.1/vita-activator.vpk",
         "data": ""
     },
     {
@@ -29576,7 +29576,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/149-RegistryEditor.vpk",
+        "url": "https://github.com/some1psv/RegistryEditor/releases/download/v1.0/RegistryEditor.vpk",
         "data": ""
     },
     {
@@ -29636,7 +29636,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/150-uriCaller.vpk",
+        "url": "https://github.com/Freakler/vita-uriCaller/releases/download/0.1/uriCaller.vpk",
         "data": ""
     },
     {
@@ -29846,7 +29846,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/148-VitaCID.vpk",
+        "url": "https://github.com/MajorTomSec/VitaCID/releases/download/1.0/VitaCID.vpk",
         "data": ""
     },
     {
@@ -29996,7 +29996,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/147-button-swapper.vpk",
+        "url": "https://github.com/xyzz/vita-button-swapper/releases/download/1.0/button-swapper.vpk",
         "data": ""
     },
     {
@@ -30026,7 +30026,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/160-offlineInstaller.vpk",
+        "url": "https://github.com/henkaku/offline-installer/releases/download/1.0/offlineInstaller.vpk",
         "data": ""
     },
     {
@@ -30086,7 +30086,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/23-desmume.vpk",
+        "url": "https://github.com/masterfeizz/DeSmuME-Vita/releases/download/v0.2/desmume.vpk",
         "data": ""
     },
     {
@@ -30266,7 +30266,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/167-realboy.vpk",
+        "url": "https://github.com/xerpi/realboy-vita/releases/download/1.2/realboy.vpk",
         "data": ""
     },
     {

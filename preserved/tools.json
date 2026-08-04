@@ -97,7 +97,7 @@
     },
     {
         "name": "SD2Vita Helper Tool",
-        "version": "v.1.1",
+        "version": "v.1.2",
         "author": "AntHJ",
         "description": "zzBlank, format and check then build your new Vita SD card all in one handy tool.",
         "id": "707",
@@ -109,15 +109,15 @@
         "source": "",
         "release_page": "https://github.com/AntHJ/SD2Vita-Format-Tool",
         "trailer": "",
-        "size": "564074",
+        "size": "564663",
         "data_size": "0",
-        "hash": null,
+        "hash": "73706471b306137ba96fea923372dea8",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/AntHJ/SD2Vita-Format-Tool/releases/download/1.2/FormatTool-lite.zip"
+        "url": "https://github.com/AntHJ/SD2Vita-Format-Tool/releases/download/1.2/SD2Vita.Format.Tool.v1.2.zip"
     },
     {
         "name": "RetroBuilder",
@@ -313,7 +313,7 @@
     },
     {
         "name": "Psvimgtools Easy Frontend",
-        "version": "1.8.5",
+        "version": "v.1.8.7",
         "author": "MrGhidini",
         "description": "GUI for PSVIMGTools.",
         "id": "315",
@@ -325,15 +325,15 @@
         "source": "https://github.com/MRGhidini/Psvimgtools-Easy-FrontEnd",
         "release_page": "https://github.com/MRGhidini/Psvimgtools-Easy-FrontEnd/releases",
         "trailer": "",
-        "size": "55260708",
+        "size": "52781558",
         "data_size": "0",
-        "hash": "93155c227be2a68fd45e059f1ca9fe15",
+        "hash": "fbcda30ba78cc4fa8e628edf08158ef3",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/MRGhidini/Psvimgtools-Easy-FrontEnd/releases/download/1.8.5/Psvimgtools.Easy.FrontEnd.1.8.5.zip"
+        "url": "https://github.com/MRGhidini/Psvimgtools-Easy-FrontEnd/releases/download/1.8.7/Psvimgtools.Easy.FrontEnd.1.8.7.zip"
     },
     {
         "name": "Sony Homebrew Manager",
