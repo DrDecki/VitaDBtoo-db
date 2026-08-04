@@ -1,0 +1,40 @@
+name: Check for updates
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Look for newer release assets
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_MB: '150'
+        run: python3 check_updates.py
+
+      - name: Rebuild derived files
+        if: steps.check.outputs.count != '0'
+        run: |
+          python3 build_db.py
+          python3 stats.py
+          python3 mkwanted.py
+
+      - name: Open a pull request
+        if: steps.check.outputs.count != '0'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/updates
+          title: 'Catalogue updates: ${{ steps.check.outputs.count }} entries'
+          body-path: update_report.md
+          commit-message: 'Update ${{ steps.check.outputs.count }} entries from upstream releases'
+          delete-branch: true

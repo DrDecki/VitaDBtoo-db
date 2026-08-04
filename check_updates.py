@@ -6,7 +6,8 @@ MAX_MB = int(os.environ.get('MAX_MB', '150'))
 
 FOREIGN = ('3ds', 'switch', 'wiiu', 'wii', 'gamecube', 'gc', 'android', 'linux',
            'macos', 'mac', 'windows', 'win32', 'win64', 'win', 'x64', 'x86',
-           'ps4', 'ps3', 'nx', 'steam', 'epic', 'funkey', 'rg35xx', 'miyoo')
+           'ps4', 'ps3', 'nx', 'steam', 'epic', 'funkey', 'rg35xx', 'miyoo', 'nspire',
+           'dreamcast', 'xbox', 'ios', 'web', 'wasm', 'dsi', 'gba', 'n64')
 EXTRA = ('data', 'patch', 'gamefiles', 'assets', 'source', 'symbols', 'debug')
 
 def load(n):
