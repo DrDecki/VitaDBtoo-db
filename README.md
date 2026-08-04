@@ -101,6 +101,11 @@ coverage. Run it after any change to `apps.json`, `psp_apps.json` or `icons/`.
 
 `mkwanted.py` regenerates `WANTED.md`.
 
+Anyone can run these; they only touch a local checkout. To contribute an entry,
+fork the repository, run the two commands above and open a pull request. What
+gets merged is still reviewed by hand, because a wrong URL in the catalogue is
+worse than a missing one.
+
 ## Credits and takedowns
 
 VitaDB was created and run by **Rinnegatamante**. The catalogue is his work and that of
