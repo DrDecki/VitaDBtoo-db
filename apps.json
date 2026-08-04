@@ -2,7 +2,7 @@
     {
         "name": "VitaForge",
         "icon": "c96090391fe69d3310a4443a8fee60cbfa46adc77dd0812da81a4e8ba659d86b.png",
-        "version": "v..00",
+        "version": "v.0.1.0",
         "author": "josephinoo",
         "type": "4",
         "description": "Homebrew store client.",
