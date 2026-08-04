@@ -769,7 +769,7 @@
     },
     {
         "name": "remaPSV2",
-        "version": "v.2.0.1",
+        "version": "v.2.0.2",
         "author": "Mer1e & Rinnegatamante & S1ngyy",
         "description": "Remap plugin for PSVita/PSTV.",
         "id": "474",
@@ -781,15 +781,15 @@
         "source": "https://github.com/MERLev/remaPSV2",
         "release_page": "https://github.com/MERLev/remaPSV2/releases",
         "trailer": "",
-        "size": "34156",
+        "size": "33713",
         "data_size": "0",
-        "hash": null,
+        "hash": "ed9aea909c041066f410a87a79af6e9c",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/MERLev/remaPSV2/releases/download/2.0/remaPSV2v2.0.zip"
+        "url": "https://github.com/MERLev/remaPSV2/releases/download/2.0.2/remaPSV2.suprx"
     },
     {
         "name": "TriggerRemap",
@@ -1729,7 +1729,7 @@
     },
     {
         "name": "FakeCameraBMP",
-        "version": "v.1.2",
+        "version": "v.1.2.1",
         "author": "OperationNT",
         "description": "Simulate camera usage on PSTV.",
         "id": "331",
@@ -1741,15 +1741,15 @@
         "source": "https://github.com/OperationNT414C/FakeCamera",
         "release_page": "http://wololo.net/talk/viewtopic.php?f=116&t=48367",
         "trailer": "",
-        "size": "3656",
+        "size": "12833",
         "data_size": "0",
-        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "hash": "5245258e32df1b5e7a9b230e1c518598",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/OperationNT414C/FakeCamera/releases/download/1.2.1/dsmotion.skprx"
+        "url": "https://github.com/OperationNT414C/FakeCamera/releases/download/1.2.1/fakecamerabmp.suprx"
     },
     {
         "name": "usbhostfs",
