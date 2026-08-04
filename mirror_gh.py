@@ -1,4 +1,4 @@
-import hashlib, json, os, re, subprocess, sys, time, urllib.request
+import hashlib, json, os, queue, re, subprocess, sys, threading, time, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TAG = 'mirror'
@@ -7,6 +7,8 @@ TMP = '/tmp/gh_stage'
 os.makedirs(TMP, exist_ok=True)
 
 LIMIT = int(sys.argv[1]) * 1048576 if len(sys.argv) > 1 else 10 ** 12
+WORKERS = int(sys.argv[2]) if len(sys.argv) > 2 else 6
+lock = threading.Lock()
 STATE = os.path.join(ROOT, 'mirror_state.json')
 done = json.load(open(STATE)) if os.path.exists(STATE) else {}
 
@@ -24,36 +26,61 @@ for fname in files:
 todo.sort(key=lambda x: x[4])
 print('%d Dateien, %.2f GB' % (len(todo), sum(x[4] for x in todo) / 1073741824.0), flush=True)
 
-ok = fail = 0
-for i, (fname, aid, nm, url, sz) in enumerate(todo, 1):
-    if aid in done:
-        continue
+cnt = {'ok': 0, 'fail': 0, 'n': 0}
+work = queue.Queue()
+for t in todo:
+    if t[1] not in done:
+        work.put(t)
+total = work.qsize()
+print('%d offen, %d Threads' % (total, WORKERS), flush=True)
+
+def worker():
+  while True:
+    try:
+        fname, aid, nm, url, sz = work.get_nowait()
+    except queue.Empty:
+        return
     m = re.search(r'files/vitadb/(.+)$', url)
     orig = m.group(1).split('/')[-1] if m else aid + '.vpk'
     safe = re.sub(r'[^A-Za-z0-9._-]', '_', orig)
     asset = aid + '-' + safe
     path = os.path.join(TMP, asset)
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'vitadbtoo'})
+        safe_url = urllib.parse.quote(url, safe=':/?&=%')
+        req = urllib.request.Request(safe_url, headers={'User-Agent': 'vitadbtoo'})
         with urllib.request.urlopen(req, timeout=600) as r:
             blob = r.read()
         if len(blob) < 1000:
             raise ValueError('too small')
-        open(path, 'wb').write(blob)
+        with open(path, 'wb') as fh:
+            fh.write(blob)
+        lock.acquire()
         subprocess.run(['gh', 'release', 'upload', TAG, path, '--clobber'],
                        cwd=ROOT, check=True, capture_output=True, timeout=900)
         done[aid] = {'url': BASE + asset, 'size': str(len(blob)),
                      'hash': hashlib.md5(blob).hexdigest()}
+        lock.release()
         os.unlink(path)
-        ok += 1
-        print('  %4d/%d  %-30s %7.1f MB' % (i, len(todo), nm[:30], len(blob) / 1048576.0), flush=True)
+        cnt['ok'] += 1
+        cnt['n'] += 1
+        print('  %4d/%d  %-30s %7.1f MB' % (cnt['n'], total, nm[:30], len(blob) / 1048576.0), flush=True)
     except Exception as e:
-        fail += 1
-        print('  %4d/%d  FEHLER %-24s %s' % (i, len(todo), nm[:24], str(e)[:45]), flush=True)
+        if lock.locked():
+            lock.release()
+        cnt['fail'] += 1
+        cnt['n'] += 1
+        print('  %4d/%d  FEHLER %-24s %s' % (cnt['n'], total, nm[:24], str(e)[:45]), flush=True)
         if os.path.exists(path):
             os.unlink(path)
-    if i % 10 == 0:
+    work.task_done()
+    if cnt['n'] % 10 == 0:
         json.dump(done, open(STATE, 'w'), indent=1)
+
+ths = [threading.Thread(target=worker, daemon=True) for _ in range(WORKERS)]
+for t in ths:
+    t.start()
+for t in ths:
+    t.join()
 
 json.dump(done, open(STATE, 'w'), indent=1)
 
@@ -73,4 +100,4 @@ for fname in files:
         print('%s: %d Eintraege umgestellt' % (fname, n))
 
 print('---')
-print('gespiegelt: %d, fehlgeschlagen: %d' % (ok, fail))
+print('gespiegelt: %d, fehlgeschlagen: %d' % (cnt['ok'], cnt['fail']))

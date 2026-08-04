@@ -2168,5 +2168,335 @@
   "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/555-SuperConsoleWars.vpk",
   "size": "52121578",
   "hash": "f7a4bdd0e6197d71af0965c2f9632d1d"
+ },
+ "223": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/223-Vita_Object_Loader.vpk",
+  "size": "2311152",
+  "hash": "6686c7ab7356866fcf8c0722212c47a5"
+ },
+ "759": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/759-VeryObscureSoulsD.vpk",
+  "size": "53605566",
+  "hash": "6dbe23e1292cf6ecd30eb4ef6c08d25e"
+ },
+ "463": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/463-bakkupakku.vpk",
+  "size": "53564747",
+  "hash": "878a0d2128c900508760161a70d916ff"
+ },
+ "1026": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1026-sunshine.vpk",
+  "size": "55927557",
+  "hash": "c7eea7169795461cbfde042b6e2fc318"
+ },
+ "484": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/484-TTER.vpk",
+  "size": "54375202",
+  "hash": "e351d90966aacf306b2cd5466f8b2328"
+ },
+ "622": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/622-Torn.vpk",
+  "size": "55897615",
+  "hash": "fd5a234924539540dafa818027f6dd99"
+ },
+ "468": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/468-VitaFighters.vpk",
+  "size": "54291648",
+  "hash": "ae7155b6294a6282ac1590724be7dcd9"
+ },
+ "675": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/675-RollyPoly.vpk",
+  "size": "56032306",
+  "hash": "f9463ffd675364a72433139903bf55bd"
+ },
+ "1130": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1130-AnimalVitas.vpk",
+  "size": "56187739",
+  "hash": "16db4a12d1ac704d39c90b029e0f91f6"
+ },
+ "470": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/470-UFE_Demo.vpk",
+  "size": "57123701",
+  "hash": "db1df0ea46c94085e3334ac5f51d9304"
+ },
+ "682": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/682-HaveAGoodOne.vpk",
+  "size": "59085720",
+  "hash": "c3c9c8e5d66960c86f127494bbe320ad"
+ },
+ "442": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/442-MKMayhem.vpk",
+  "size": "58460781",
+  "hash": "de5cbfe3a4b82c8e888635735d38f99a"
+ },
+ "686": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/686-WTFDIGTS.vpk",
+  "size": "58377878",
+  "hash": "2e0947089d0de817f1307dd4750e028d"
+ },
+ "880": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/880-slender8.vpk",
+  "size": "59456074",
+  "hash": "1e33fcedec5b84983274ed6ac4fdb427"
+ },
+ "805": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/805-UndeadSlayer.vpk",
+  "size": "62235983",
+  "hash": "a36e4d130393c42009d50f016e1ece5e"
+ },
+ "991": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/991-got.vpk",
+  "size": "62388542",
+  "hash": "6e28a95dcc0f084f9dbdfcf829cd77b4"
+ },
+ "681": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/681-ArsPoetica.vpk",
+  "size": "64308506",
+  "hash": "d206c7db9567b0e38a7c4093d52b4e26"
+ },
+ "783": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/783-SimpleFPSplatformer.vpk",
+  "size": "64122004",
+  "hash": "72ec8ca288f55031a00194381d3b0246"
+ },
+ "1074": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1074-sorcerer.vpk",
+  "size": "65284172",
+  "hash": "864088f90f90100f5e35f9a366e286b4"
+ },
+ "83": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/83-Resident_Evil_CODE_Vita.vpk",
+  "size": "65464001",
+  "hash": "c0d7cc9a8d18ac078b61354f1db7537a"
+ },
+ "673": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/673-AngelCollide.vpk",
+  "size": "66228307",
+  "hash": "f3bcb8f53da0b420773f27978ccc6b2f"
+ },
+ "767": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/767-GoingNowhere.vpk",
+  "size": "68289722",
+  "hash": "166ce8c8c6c3ffffbdcdc0eeb03ac7b3"
+ },
+ "1249": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1249-RoadOfMailhem.vpk",
+  "size": "68177828",
+  "hash": "a9a093757ebbc709b692c60f6455d567"
+ },
+ "665": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/665-BrainSplitter.vpk",
+  "size": "68658061",
+  "hash": "d4c6a93ad58b5e0749eeb1aeadb9e25a"
+ },
+ "672": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/672-thrustshot.vpk",
+  "size": "69380267",
+  "hash": "1c14c6c05d727546b6e395dc73f7bd5a"
+ },
+ "505": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/505-Beat_20Master.vpk",
+  "size": "70547593",
+  "hash": "1618390c0d70e071031631b682519dcb"
+ },
+ "465": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/465-ToPieces.vpk",
+  "size": "70925822",
+  "hash": "42a224614c9bf4378f682be9c953b2e1"
+ },
+ "602": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/602-Tropical_Zone.vpk",
+  "size": "71288738",
+  "hash": "6dbb00e45cdd48a0e3c5903fbd04c2c8"
+ },
+ "859": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/859-fnaf4.vpk",
+  "size": "71660453",
+  "hash": "89388a9f0b487afe04458222bad9f1b3"
+ },
+ "620": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/620-FNaFVita.vpk",
+  "size": "73237056",
+  "hash": "33476b3aea000f896aa46df407bf51ef"
+ },
+ "308": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/308-AMTR01693.vpk",
+  "size": "73768102",
+  "hash": "b52176928e7bd3f10faad51e9404bae5"
+ },
+ "1212": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1212-sonic_unleashed.vpk",
+  "size": "74123397",
+  "hash": "b5fde642b7811e0459ba5508c5aaaa53"
+ },
+ "1265": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1265-BubblePunk-Vita.vpk",
+  "size": "77201382",
+  "hash": "4da9046b9982fe1f5b8ab30a146b319b"
+ },
+ "429": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/429-elfforest.vpk",
+  "size": "77914757",
+  "hash": "1c0515fb783115e1c6d81ff884f5d8dc"
+ },
+ "1151": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1151-dream_punk.vpk",
+  "size": "80438565",
+  "hash": "ca786f1798a714de5153e829743c5a0e"
+ },
+ "1163": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1163-hitem.vpk",
+  "size": "80783866",
+  "hash": "d6a5780257f863fedb59723ebe477221"
+ },
+ "1214": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1214-clasherball.vpk",
+  "size": "81026913",
+  "hash": "d2c06aea68d490de7230a8609ab36696"
+ },
+ "489": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/489-quiz.vpk",
+  "size": "87409296",
+  "hash": "b11d870db036708107938642e75ad144"
+ },
+ "856": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/856-fnaf-2-vita.vpk",
+  "size": "85766384",
+  "hash": "4e5316ee1eb8817ddaaca962026ec1ae"
+ },
+ "595": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/595-LostOnIsland.vpk",
+  "size": "87645624",
+  "hash": "f0d2d67c4d16d232331c0fae8c53c2bd"
+ },
+ "448": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/448-Fallen-Knights.vpk",
+  "size": "90545320",
+  "hash": "9e91f902e40ea75f87fd3afb529a2bb2"
+ },
+ "1140": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1140-purified.vpk",
+  "size": "88310794",
+  "hash": "f8a7544b4978f0aa842c159532da9741"
+ },
+ "729": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/729-rocket_league.vpk",
+  "size": "91911109",
+  "hash": "6f92cf52a5be2fd2bb9b4aa6251931be"
+ },
+ "1153": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1153-pinkshake.vpk",
+  "size": "98293326",
+  "hash": "5e7f26f33d759ef1af56c911e00caeb0"
+ },
+ "1141": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1141-edgar.vpk",
+  "size": "95830168",
+  "hash": "c1f273f16ff91f59a5920c61680da7c4"
+ },
+ "836": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/836-SonicTimeTwisted.vpk",
+  "size": "102118727",
+  "hash": "1bbfed22eb014265702f8dbf84683055"
+ },
+ "464": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/464-Speedrun_Vita.vpk",
+  "size": "104058997",
+  "hash": "6cbf38a15720f276e31ac1849640e704"
+ },
+ "562": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/562-NedoKun.vpk",
+  "size": "111872206",
+  "hash": "0ef20ac8449698b392f81526a19b6721"
+ },
+ "428": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/428-TheHallway.vpk",
+  "size": "114002075",
+  "hash": "a8cdac4107ae345572ba152ded8d68e9"
+ },
+ "1104": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1104-The-Four-of-Us-Are-Dying.vpk",
+  "size": "119610374",
+  "hash": "ab27f34a885af94c15d5959f6d3be1ac"
+ },
+ "594": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/594-DarkParadigm.vpk",
+  "size": "125810977",
+  "hash": "2cc3b47ed2276848d251ba8954ede73b"
+ },
+ "585": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/585-scummvm_release.vpk",
+  "size": "129889683",
+  "hash": "28b5df43ddb86a6639a16c002ab03f5a"
+ },
+ "456": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/456-DooM_Vita.vpk",
+  "size": "127433776",
+  "hash": "29c5ea36bd7305f3e524a17879749d48"
+ },
+ "1027": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1027-sanicball.vpk",
+  "size": "130049007",
+  "hash": "51b452e1b700400776e572283451b6ae"
+ },
+ "662": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/662-rebuilt.vpk",
+  "size": "141645560",
+  "hash": "353af0f53a2a953a2907cee02d3a32dc"
+ },
+ "405": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/405-405.vpk",
+  "size": "145368891",
+  "hash": "cc4a26b0b3e59a24ae098bd236d5a420"
+ },
+ "992": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/992-call_of_vita.vpk",
+  "size": "149904935",
+  "hash": "a0f5f046f5825c32492c7f916ba6e69d"
+ },
+ "1124": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1124-gnomopolis.vpk",
+  "size": "152381609",
+  "hash": "0ab85ede6a92e9345fb2bf2265028efc"
+ },
+ "613": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/613-LapyGC.vpk",
+  "size": "155765604",
+  "hash": "282592ac5cf9ae6378615fc425c027c5"
+ },
+ "1260": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1260-Emu4VitaPlus.vpk",
+  "size": "166871885",
+  "hash": "effa1dffd292a4c135841917bb5d05fb"
+ },
+ "634": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/634-WeAreBroken.vpk",
+  "size": "215970370",
+  "hash": "f1a7f112b652c3081f1c7f165592de93"
+ },
+ "79": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/79-KatawaShoujo.vpk",
+  "size": "227303932",
+  "hash": "43209796c995435e44defaf08d31e7a0"
+ },
+ "668": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/668-STHV.vpk",
+  "size": "259769917",
+  "hash": "06cb83e5446ac5c374799d1a4f43febf"
+ },
+ "1086": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1086-katawa2.vpk",
+  "size": "447046987",
+  "hash": "0a9e764ba3317f41aeb6625255e1f16c"
+ },
+ "186": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/186-186.vpk",
+  "size": "487257047",
+  "hash": "ed3897e38f786293c63f9b65709a8605"
+ },
+ "469": {
+  "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/469-469.vpk",
+  "size": "507006412",
+  "hash": "054e532381190b364e8ba64f88776d5c"
  }
 }

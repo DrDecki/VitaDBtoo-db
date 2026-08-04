@@ -31,7 +31,9 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | --- | ---: |
 | Metadata | 100% (1298 entries) |
 | Icons | 100% (1343) |
-| Data files | 93 missing |
+| Screenshots | 26% (561 of 2186) |
+| Trailers | 24% (15 of 62) |
+| Data files | 32% (44 of 137) |
 | Trophy data | 0%, gone for good |
 
 ### Help wanted
