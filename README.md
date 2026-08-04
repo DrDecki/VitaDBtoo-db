@@ -126,3 +126,8 @@ the work of Rinnegatamante and of the individual homebrew authors. This
 repository preserves and redistributes them so the catalogue stays reachable; it
 claims no ownership over them. Clients are welcome to consume the JSON files,
 and anyone who wants their own work removed only has to open an issue.
+
+If you build a client or another catalogue on top of this data, please link back
+to this repository. The metadata is not mine to license, so this is a request
+rather than a condition, but a fair amount of work went into recovering it and
+being credited for that is the only thing asked in return.
