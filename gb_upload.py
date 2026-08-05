@@ -5,6 +5,7 @@ TAG = 'mirror'
 BASE = 'https://github.com/DrDecki/VitaDBtoo-db/releases/download/' + TAG + '/'
 VPKS = '/tmp/gamebrew'
 ARCS = '/tmp/gbsurvey'
+TOOLS = '/tmp/gbtools'
 limit = int(sys.argv[1]) if len(sys.argv) > 1 else 999
 
 gb = json.load(open(os.path.join(ROOT, 'gamebrew_refs.json'), encoding='utf-8'))
@@ -14,7 +15,8 @@ done = json.load(open(STATE)) if os.path.exists(STATE) else {}
 plan = []
 for fname, folder, want_vpk in (('apps.json', VPKS, True),
                                 ('preserved/plugins.json', ARCS, False),
-                                ('psp_apps.json', ARCS, False)):
+                                ('psp_apps.json', ARCS, False),
+                                ('preserved/tools.json', TOOLS, False)):
     d = json.load(open(os.path.join(ROOT, fname), encoding='utf-8'))
     for a in d:
         if 'get_hb_url' not in a['url'] and not a['url'].endswith('.php'):
@@ -33,7 +35,7 @@ for fname, folder, want_vpk in (('apps.json', VPKS, True),
                     if os.path.exists(cand):
                         src = cand
         else:
-            src = os.path.join(ARCS, dl.rsplit('/', 1)[-1].split('?')[0])
+            src = os.path.join(folder, dl.rsplit('/', 1)[-1].split('?')[0])
             if not os.path.exists(src):
                 src = None
         if src:

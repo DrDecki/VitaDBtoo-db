@@ -231,13 +231,13 @@
         "trailer": "",
         "size": "55562762",
         "data_size": "0",
-        "hash": null,
+        "hash": "a579569d7988f27ac7d8d8fade8bf394",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=690"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/690-guessit_custom.zip"
     },
     {
         "name": "AdrBubbleBooterCreator",
@@ -471,13 +471,13 @@
         "trailer": "",
         "size": "64108",
         "data_size": "0",
-        "hash": "",
+        "hash": "141036add502e2265547bc0b1ca411a6",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=343"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/343-nomorepackage.zip"
     },
     {
         "name": "psvtools",
@@ -493,15 +493,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "5257",
+        "size": "12903",
         "data_size": "0",
-        "hash": "",
+        "hash": "98bc622f8a55f56b60e6761ee97449ca",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=322"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/322-psvtoolsvita.7z"
     },
     {
         "name": "PkgDecrypt",
@@ -517,15 +517,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "117646",
+        "size": "165674",
         "data_size": "0",
-        "hash": "",
+        "hash": "5e1cf0e79f96c69173df8600bbdd8047",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=321"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/321-pkgdecryptvita.7z"
     },
     {
         "name": "unpkg_vita",
@@ -589,15 +589,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "6005",
+        "size": "20792",
         "data_size": "0",
-        "hash": "",
+        "hash": "751b55459f535eff6f68ceda25406538",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=318"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/318-psvtrimmervita.7z"
     },
     {
         "name": "psvimgtools",
@@ -613,15 +613,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "6381566",
+        "size": "6290867",
         "data_size": "0",
-        "hash": "",
+        "hash": "2b1b14dccb024b8a6cd73657a79b9cb8",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=316"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/316-psvimgtoolsvitayif.7z"
     },
     {
         "name": "Qcma",
@@ -637,14 +637,14 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "95729630",
+        "size": "82255150",
         "data_size": "0",
-        "hash": "",
+        "hash": "d12398c2daacda011aa5430022eafc04",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=314"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/314-qcmavita.7z"
     }
 ]

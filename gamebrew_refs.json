@@ -826,5 +826,33 @@
  "945": {
   "page": "FileAssistant PSP",
   "dl": "https://dlhb.gamebrew.org/psphomebrew/FileAssistant_3XX.zip"
+ },
+ "690": {
+  "page": "Guess It Customization Tool Vita",
+  "dl": "https://dlhb.gamebrew.org/vitahomebrews/guessit_custom.zip"
+ },
+ "343": {
+  "page": "NoMorePacKaGe Vita",
+  "dl": "https://dlhb.gamebrew.org/vitahomebrews/nomorepackage.zip"
+ },
+ "322": {
+  "page": "Psvtools Vita",
+  "dl": "https://dlhb.gamebrew.org/vitahomebrews/psvtoolsvita.7z"
+ },
+ "321": {
+  "page": "PkgDecrypt Vita",
+  "dl": "https://dlhb.gamebrew.org/vitahomebrews/pkgdecryptvita.7z"
+ },
+ "318": {
+  "page": "PSVTrimmer Vita",
+  "dl": "https://dlhb.gamebrew.org/vitahomebrews/psvtrimmervita.7z"
+ },
+ "316": {
+  "page": "Psvimgtools Vita",
+  "dl": "https://dlhb.gamebrew.org/vitahomebrews/psvimgtoolsvitayif.7z"
+ },
+ "314": {
+  "page": "Qcma Vita",
+  "dl": "https://dlhb.gamebrew.org/vitahomebrews/qcmavita.7z"
  }
 }

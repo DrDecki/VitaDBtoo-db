@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 33 entries survive in the catalogue with full metadata, but their download
+These 26 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -33,15 +33,8 @@ contributors. Verify anything before trusting it.
 | PSP | rpg2kpp | v.0.12 Beta Test 04 | seerouxdark | 1.1 MB | - | - | - |
 | Plugin | ShellDateSecBat | v.2 | OperationNT | 0.0 MB | - | - | [lead](https://www.gamebrew.org/wiki/ShellSecBat_Vita) |
 | Tool | AdrBubbleBooterCreator | v.1.3 | Leecherman | 2.8 MB | [link](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) | - | [lead](https://github.com/xXxTheDarkprogramerxXx/AdrBubbleBooterCreator) |
-| Tool | Guess It! Customization Tool | v.1.0.0.0 | HWNJ | 53.0 MB | [link](https://kyuhen.customprotocol.com/en/submissions/guessit) | - | [lead](https://www.gamebrew.org/wiki/Guess_It_Customization_Tool_Vita) |
 | Tool | NPS Browser | v.0.7.2 | jhonhenry10 | 0.1 MB | - | - | - |
-| Tool | NoMorePacKaGe | v.1.0 | ScarletDreamz | 0.1 MB | - | - | [lead](https://gbatemp.net/threads/nomorepackage-simple-pkg-to-nonpdrm-extractor.486081/) |
-| Tool | PSVTrimmer | v.0.1 Alpha | pez2k | 0.0 MB | - | - | [lead](https://www.gamebrew.org/wiki/PSVTrimmer_Vita) |
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |
-| Tool | PkgDecrypt | v.1.1 | st4rk & weaknespase | 0.1 MB | - | - | [lead](https://www.gamebrew.org/wiki/PkgDecrypt_Vita) |
-| Tool | Qcma | v.0.4.1 | codestation | 91.3 MB | - | - | [lead](https://www.gamebrew.org/wiki/Qcma_Vita) |
-| Tool | psvimgtools | v.0.1 | yifanlu | 6.1 MB | - | - | [lead](https://www.gamebrew.org/wiki/Psvimgtools_Vita) |
-| Tool | psvtools | v.0.1.0 | kageurufu | 0.0 MB | - | - | [lead](https://www.gamebrew.org/wiki/Psvtools_Vita) |
 | Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - | [page](https://www.gamebrew.org/wiki/Hackez-i_Vita) | - |
 | Vita | ABYSS | v.2.1 | Balder | 162.9 MB | [link](https://balderdragonslayer.itch.io/abyss) | [page](https://www.gamebrew.org/wiki/ABYSS_Vita) | - |
 | Vita | Aperture Reconstructed | v.0.4.00 | MRKane | 71.8 MB | [link](https://mrkane.itch.io/aperturereconstructed) | [page](https://www.gamebrew.org/wiki/Aperture:_Reconstructed_Vita) | - |
