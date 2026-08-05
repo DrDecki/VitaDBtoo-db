@@ -1,65 +1,58 @@
-import json, os, re, sys, time, urllib.parse, urllib.request
+import html, json, os, re, time, urllib.request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-SUBS = ('vitahacks', 'VitaPiracy', 'vitahacksdev')
-UA = 'VitaDBtoo/0.1 by DrDecki (github.com/DrDecki/VitaDBtoo-db)'
+SUBS = ('vitahacks', 'VitaPiracy')
+UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
 SEEN = os.path.join(ROOT, 'watch_seen.json')
-
-cid = os.environ.get('REDDIT_ID')
-sec = os.environ.get('REDDIT_SECRET')
-if not cid or not sec:
-    print('REDDIT_ID und REDDIT_SECRET fehlen, nichts zu tun')
-    sys.exit(0)
-
-def token():
-    data = urllib.parse.urlencode({'grant_type': 'client_credentials'}).encode()
-    req = urllib.request.Request('https://www.reddit.com/api/v1/access_token', data=data,
-                                 headers={'User-Agent': UA})
-    import base64
-    auth = base64.b64encode(('%s:%s' % (cid, sec)).encode()).decode()
-    req.add_header('Authorization', 'Basic ' + auth)
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.load(r)['access_token']
-
-def get(url, tok):
-    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Authorization': 'Bearer ' + tok})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.load(r)
+EIGENE = ('vitadbtoo', 'drdecki.github.io')
+# Hilfe-Anfragen beginnen fast immer so. Nur der Titelanfang wird geprueft,
+# weil Ankuendigungstexte weiter unten oft selbst um Rueckmeldung bitten.
+FRAGEN = ('help', 'how do i', 'how to', 'how can i', 'is there a way', 'anyone know',
+          'does anyone', 'can someone', 'can anyone', 'need help', 'looking for',
+          'why is', 'why does', 'what is the best', 'question', 'issue with',
+          'problem with', 'trouble with')
 
 seen = set(json.load(open(SEEN))) if os.path.exists(SEEN) else set()
-namen = set()
-for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
-    for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
-        namen.add(re.sub(r'[^a-z0-9]', '', a['name'].lower()))
 
-tok = token()
+def entries(xml):
+    for block in re.findall(r'<entry>(.*?)</entry>', xml, re.S):
+        g = lambda p: (re.search(p, block, re.S) or [None, ''])[1]
+        yield {
+            'id': html.unescape(g(r'<id>([^<]+)</id>')),
+            'title': html.unescape(g(r'<title>([^<]*)</title>')).strip(),
+            'url': html.unescape(g(r'<link[^>]*href="([^"]+)"')),
+            'text': re.sub(r'<[^>]+>', ' ', html.unescape(g(r'<content[^>]*>(.*?)</content>')))[:1200],
+        }
+
 kandidaten = []
 for sub in SUBS:
     try:
-        d = get('https://oauth.reddit.com/r/%s/new?limit=50' % sub, tok)
+        req = urllib.request.Request('https://www.reddit.com/r/%s/new/.rss?limit=50' % sub,
+                                     headers={'User-Agent': UA})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            xml = r.read().decode('utf-8', 'replace')
     except Exception as e:
-        print('r/%s: %s' % (sub, getattr(e, 'code', type(e).__name__)))
+        print('r/%-14s %s' % (sub, getattr(e, 'code', type(e).__name__)))
         continue
-    posts = d.get('data', {}).get('children', [])
+    alle = list(entries(xml))
     neu = 0
-    for p in posts:
-        x = p['data']
-        if x['id'] in seen:
+    for e in alle:
+        if not e['id'] or e['id'] in seen:
             continue
-        seen.add(x['id'])
+        seen.add(e['id'])
         neu += 1
-        txt = (x.get('title', '') + ' ' + (x.get('selftext') or ''))[:1500]
-        slug = re.sub(r'[^a-z0-9]', '', x.get('title', '').lower())
-        bekannt = any(n and len(n) > 4 and n in slug for n in namen)
-        kandidaten.append({'id': x['id'], 'sub': sub, 'title': x.get('title', ''),
-                           'url': 'https://reddit.com' + x.get('permalink', ''),
-                           'link': x.get('url_overridden_by_dest') or '',
-                           'text': txt, 'im_katalog': bekannt})
-    print('r/%-14s %d neue von %d' % (sub, neu, len(posts)))
-    time.sleep(2)
+        e['sub'] = sub
+        low = (e['title'] + ' ' + e['text']).lower()
+        titel = e['title'].lower().lstrip('[( ')
+        frage = titel.startswith(FRAGEN) or e['title'].rstrip().endswith('?')
+        eigen = any(w in low for w in EIGENE)
+        e['uebersprungen'] = 'eigenes Projekt' if eigen else ('Frage' if frage else '')
+        kandidaten.append(e)
+    print('r/%-14s %d neue von %d' % (sub, neu, len(alle)))
+    time.sleep(15)
 
 json.dump(sorted(seen), open(SEEN, 'w'))
 json.dump(kandidaten, open(os.path.join(ROOT, 'watch_new.json'), 'w'), indent=1, ensure_ascii=False)
 print()
-print('%d neue Beitraege, davon %d zu bereits katalogisierten Homebrews'
-      % (len(kandidaten), sum(1 for k in kandidaten if k['im_katalog'])))
+uebrig = [k for k in kandidaten if not k['uebersprungen']]
+print('%d neue Beitraege, %d nach dem Vorfilter' % (len(kandidaten), len(uebrig)))

@@ -16,21 +16,16 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Collect new posts
-        env:
-          REDDIT_ID: ${{ secrets.REDDIT_ID }}
-          REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
         run: python3 watch_reddit.py
 
-      - name: Screen them
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python3 watch_judge.py
+      - name: Build the report
+        run: python3 watch_report.py
 
       - name: Open an issue
         if: hashFiles('watch_issue.md') != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh issue create --title "Possible new homebrew on Reddit" --body-file watch_issue.md
+        run: gh issue create --title "New posts to look through" --body-file watch_issue.md
 
       - name: Remember what was seen
         run: |
