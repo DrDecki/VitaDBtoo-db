@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 18 entries survive in the catalogue with full metadata, but their download
+These 17 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -36,7 +36,6 @@ contributors. Verify anything before trusting it.
 | Tool | NPS Browser | v.0.7.2 | jhonhenry10 | 0.1 MB | - | - | - |
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |
 | Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - | [page](https://www.gamebrew.org/wiki/Hackez-i_Vita) | - |
-| Vita | DS8 Drumstream | v.0.1 | Intermynd Instruments | 1.6 MB | [link](https://intermynd-instruments.itch.io/ds-8) | [page](https://www.gamebrew.org/wiki/DS8_Drumstream_Vita) | - |
 | Vita | Freeway Mutant | v.1.0 | Loodanon | 4.1 MB | [link](https://gbatemp.net/threads/release-freeway-mutant-gamemaker-1-4-port-gaymaker.527870/) | - | - |
 | Vita | Nazi Zombies Portable | Nightly | NZP Reboot Team & Rinnegatamante | 3.2 MB | [link](https://github.com/nzp-team/nzportable/releases) | - | - |
 | Vita | NooDS | Nightly | Hydr8gon | 0.4 MB | [link](https://github.com/Hydr8gon/NooDS/releases) | - | - |
