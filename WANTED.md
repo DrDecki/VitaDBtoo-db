@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 13 entries survive in the catalogue with full metadata, but their download
+These 5 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -27,16 +27,8 @@ contributors. Verify anything before trusting it.
 
 | Type | Name | Version | Author | Size | Known source | GameBrew | Other leads |
 | --- | --- | --- | --- | ---: | --- | --- | --- |
-| PSP | Neko Project II | v.0.33 | Sakahi | 0.3 MB | - | - | - |
-| PSP | PSPQuakeII | v.1.0 | Crow_bar | 34.8 MB | - | - | [lead](https://www.gamebrew.org/wiki/PSP_Quake2) |
-| PSP | PSPQuakeIII | v.1.0 | Crow_bar | 73.5 MB | [link](https://github.com/Fighter19/Quake3PSP-mirror) | - | - |
-| PSP | rpg2kpp | v.0.12 Beta Test 04 | seerouxdark | 1.1 MB | - | - | - |
-| Plugin | ShellDateSecBat | v.2 | OperationNT | 0.0 MB | - | - | [lead](https://www.gamebrew.org/wiki/ShellSecBat_Vita) |
 | Tool | AdrBubbleBooterCreator | v.1.3 | Leecherman | 2.8 MB | [link](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) | - | [lead](https://github.com/xXxTheDarkprogramerxXx/AdrBubbleBooterCreator) |
 | Tool | NPS Browser | v.0.7.2 | jhonhenry10 | 0.1 MB | - | - | - |
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |
-| Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - | [page](https://www.gamebrew.org/wiki/Hackez-i_Vita) | - |
-| Vita | Freeway Mutant | v.1.0 | Loodanon | 4.1 MB | [link](https://gbatemp.net/threads/release-freeway-mutant-gamemaker-1-4-port-gaymaker.527870/) | - | - |
-| Vita | Snake! | v.2.0 | Ccoolguy | 5.7 MB | [link](https://github.com/Ccoolguy/SnakeVita) | - | [lead](https://www.gamebrew.org/wiki/Snake_Ccoolguy_Vita) |
 | Vita | SwitchKaKu | MOD v.2.0 | kylon | 0.6 MB | - | - | - |
 | Vita | Voice Recorder Vita | v.1.0 | VitaHEX games | 2.2 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48444) | - | - |
