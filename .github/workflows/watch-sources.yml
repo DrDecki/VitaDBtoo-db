@@ -1,0 +1,44 @@
+name: Watch sources
+
+on:
+  schedule:
+    - cron: '41 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect new posts
+        env:
+          REDDIT_ID: ${{ secrets.REDDIT_ID }}
+          REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
+        run: python3 watch_reddit.py
+
+      - name: Screen them
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 watch_judge.py
+
+      - name: Open an issue
+        if: hashFiles('watch_issue.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue create --title "Possible new homebrew on Reddit" --body-file watch_issue.md
+
+      - name: Remember what was seen
+        run: |
+          rm -f watch_new.json watch_issue.md
+          if [ -n "$(git status --porcelain watch_seen.json)" ]; then
+            git config user.name DrDecki
+            git config user.email drdecki@users.noreply.github.com
+            git add watch_seen.json
+            git commit -m "Update the watch list"
+            git push
+          fi
