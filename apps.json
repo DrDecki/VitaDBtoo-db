@@ -3526,9 +3526,9 @@
         "source": "https://github.com/Cpasjuste/pemu",
         "release_page": "https://github.com/Cpasjuste/pemu/releases",
         "trailer": "",
-        "size": "3202992",
+        "size": "3425938",
         "data_size": "0",
-        "hash": "43d7e3732826cc57fdb1d65676fcf0cf",
+        "hash": "3ca9ba0dfcbd6239499794860d1a24b3",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -3536,7 +3536,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.1/pgba.vpk",
+        "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.1/pgen.vpk",
         "data": ""
     },
     {
@@ -9632,7 +9632,7 @@
     {
         "name": "OpenXcom",
         "icon": "a443705c218386088a4aa06ae29a11fca8aa4b30d938bf108467238b0c3e5fe9.png",
-        "version": "v.1.0-vita.6",
+        "version": "v.7.10.0-vita.1",
         "author": "Northfear",
         "type": "2",
         "description": "Port of OpenXcom for PSVITA.",
@@ -9646,9 +9646,9 @@
         "source": "https://github.com/Northfear/OpenXcom-vita",
         "release_page": "https://kyuhen.customprotocol.com/en/submissions/xcom/",
         "trailer": "",
-        "size": "3815383",
+        "size": "6884745",
         "data_size": "3141542",
-        "hash": "1ae982b53648bdd97cc53c0a8265cc9f",
+        "hash": "3408d1dddeea76ea578dbe35bdef1b82",
         "hash2": "",
         "changelog": "- Upstream version bump\n- Fixed inventory cursor position during mixed touchpad/thumbstick usage\n- Added X-COM Unofficial Data Patch to the game data",
         "requirements": "- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: PC",
@@ -9656,7 +9656,7 @@
         "tags": "",
         "ai": "0",
         "score": "82.2",
-        "url": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom.vpk",
+        "url": "https://github.com/Northfear/OpenXcom-vita/releases/download/v.7.10.0-vita.1/oxce.vpk",
         "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v1.0-vita.6/openxcom-data.zip"
     },
     {
