@@ -9166,9 +9166,9 @@
         "source": "https://github.com/nzp-team/nzportable",
         "release_page": "https://github.com/nzp-team/nzportable/releases",
         "trailer": "",
-        "size": "3384432",
+        "size": "3612951",
         "data_size": "46790302",
-        "hash": "0ccbba1b9aeb0540e1c73859e054634b",
+        "hash": "d6c1f0b2ab51328f4028ba0490a6617c",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx",
@@ -9176,7 +9176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1028",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1028-nzp.vpk",
         "data": "https://files.coolatoms.org/nzp-data.zip"
     },
     {
@@ -11716,9 +11716,9 @@
         "source": "https://github.com/Hydr8gon/NooDS",
         "release_page": "https://github.com/Hydr8gon/NooDS/releases",
         "trailer": "",
-        "size": "448153",
+        "size": "480453",
         "data_size": "0",
-        "hash": "7e0ad6983c2f4d7947c23de5680458a1",
+        "hash": "f3a101d6a00147ae393fabfcd335387e",
         "hash2": "",
         "changelog": "- Nightly Release.",
         "requirements": "",
@@ -11726,7 +11726,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1093",
+        "url": "https://github.com/Hydr8gon/NooDS/releases/download/release/noods-vita.zip",
         "data": ""
     },
     {
