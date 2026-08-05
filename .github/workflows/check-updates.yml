@@ -28,6 +28,7 @@ jobs:
           python3 build_db.py
           python3 stats.py
           python3 mkwanted.py
+          python3 mkindex.py
 
       - name: Open a pull request
         if: steps.check.outputs.count != '0'

@@ -21,15 +21,18 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 <!-- STATS -->
 | | Entries | With a working download |
 | --- | ---: | ---: |
-| PSVITA homebrews | 1027 | 1027 |
+| PSVITA homebrews | 1019 | 1019 |
 | Plugins | 123 | 123 |
 | PSP homebrews | 127 | 127 |
-| PC tools | 33 | 31 |
-| **Total** | **1310** | **1308 (99%)** |
+| PC tools | 27 | 25 |
+| **Total** | **1296** | **1294 (99%)** |
+
+14 further entries have been added since the shutdown and are not part of
+what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
 
 | Asset | Recovered |
 | --- | ---: |
-| Metadata | 100% (1310 entries) |
+| Metadata | 100% (1296 entries) |
 | Icons | 100% (1349) |
 | Screenshots | 26% (561 of 2186) |
 | Trailers | 24% (15 of 62) |

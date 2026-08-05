@@ -1,0 +1,54 @@
+import json, os
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+LAST_VITADB_ID = 1449
+
+def load(n):
+    with open(os.path.join(ROOT, n), 'rb') as f:
+        return json.loads(f.read().decode('utf-8', 'replace'))
+
+def live(a):
+    return 'get_hb_url' not in a.get('url', '') and not a.get('url', '').endswith('.php')
+
+def esc(s):
+    return (s or '').replace('|', '\\|').replace('\n', ' ').strip()
+
+cats = [('PSVITA homebrews', 'apps.json'), ('Plugins', 'preserved/plugins.json'),
+        ('PSP homebrews', 'psp_apps.json'), ('PC tools', 'preserved/tools.json')]
+
+def tabelle(entries):
+    out = ['| Name | Author | Version | Size | Download | Source |\n',
+           '| --- | --- | --- | ---: | --- | --- |\n']
+    for a in sorted(entries, key=lambda x: x['name'].lower()):
+        mb = int(a.get('size') or 0) / 1048576.0
+        dl = '[download](%s)' % a['url'] if live(a) else '—'
+        src = a.get('source') or a.get('release_page') or ''
+        src = '[repo](%s)' % src if src else '—'
+        out.append('| %s | %s | %s | %.1f MB | %s | %s |\n' % (
+            esc(a['name']), esc(a.get('author')), esc(a.get('version')), mb, dl, src))
+    return out
+
+for datei, titel, pick, vorwort in (
+    ('CATALOGUE.md', 'Catalogue',
+     lambda a: int(a['id']) <= LAST_VITADB_ID,
+     'Everything VitaDB held on 31.07.2026, with the download it now resolves to.\n'
+     'Entries added after the shutdown are in [ADDED.md](ADDED.md).\n'),
+    ('ADDED.md', 'Added after the shutdown',
+     lambda a: int(a['id']) > LAST_VITADB_ID,
+     'These were never on VitaDB. They were contributed afterwards, mostly by their\n'
+     'own authors, and are kept apart so the preserved catalogue stays exactly what\n'
+     'it was.\n'),
+):
+    out = ['# %s\n\n' % titel, vorwort, '\n']
+    n = 0
+    for label, f in cats:
+        e = [a for a in load(f) if pick(a)]
+        if not e:
+            continue
+        out.append('## %s (%d)\n\n' % (label, len(e)))
+        out += tabelle(e)
+        out.append('\n')
+        n += len(e)
+    with open(os.path.join(ROOT, datei), 'w', encoding='utf-8') as fh:
+        fh.write(''.join(out))
+    print('%s: %d Eintraege' % (datei, n))

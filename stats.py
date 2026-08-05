@@ -13,13 +13,20 @@ def live(a):
 cats = [('PSVITA homebrews', 'apps.json'), ('Plugins', 'preserved/plugins.json'),
         ('PSP homebrews', 'psp_apps.json'), ('PC tools', 'preserved/tools.json')]
 
+LAST_VITADB_ID = 1449
+
 rows, tot, ok = [], 0, 0
+added, added_ok = 0, 0
 for label, f in cats:
     d = load(f)
-    n = sum(1 for a in d if live(a))
-    rows.append((label, len(d), n))
-    tot += len(d)
+    kept = [a for a in d if int(a['id']) <= LAST_VITADB_ID]
+    new_ones = [a for a in d if int(a['id']) > LAST_VITADB_ID]
+    n = sum(1 for a in kept if live(a))
+    rows.append((label, len(kept), n))
+    tot += len(kept)
     ok += n
+    added += len(new_ones)
+    added_ok += sum(1 for a in new_ones if live(a))
 
 icons = len([x for x in os.listdir(os.path.join(ROOT, 'icons')) if x.endswith('.png')])
 need = set()
@@ -64,6 +71,9 @@ out.append('| | Entries | With a working download |\n| --- | ---: | ---: |\n')
 for label, n, k in rows:
     out.append('| %s | %d | %d |\n' % (label, n, k))
 out.append('| **Total** | **%d** | **%d (%d%%)** |\n\n' % (tot, ok, int(100.0 * ok / tot)))
+if added:
+    out.append('%d further entries have been added since the shutdown and are not part of\n' % added)
+    out.append('what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).\n\n')
 out.append('| Asset | Recovered |\n| --- | ---: |\n')
 out.append('| Metadata | 100%% (%d entries) |\n' % tot)
 out.append('| Icons | %.0f%% (%d) |\n' % (100.0 * len(need & set(os.listdir(os.path.join(ROOT, 'icons')))) / max(len(need), 1), icons))
