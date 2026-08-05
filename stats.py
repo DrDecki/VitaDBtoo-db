@@ -41,6 +41,10 @@ if os.path.exists(ORIG):
     ss_total = len(set(m for a in orig for m in re.findall(r'[0-9a-f]{64}\.png', a.get('screenshots') or '')))
     tr_total = sum(1 for a in orig if a.get('trailer'))
 
+if os.path.exists(os.path.join(ROOT, 'totals.json')):
+    _t = load('totals.json')
+    ss_total = _t.get('screenshots_total', ss_total)
+    tr_total = _t.get('trailers_total', tr_total)
 data_missing = sum(1 for a in load('apps.json') if a.get('data') and 'rinnegatamante' in a['data'])
 missing_dl = tot - ok
 unmatched = 0
@@ -68,7 +72,9 @@ if ss_total:
 if tr_total:
     out.append('| Trailers | %.0f%% (%d of %d) |\n' % (100.0 * tr_have / tr_total, tr_have, tr_total))
 data_total = 0
-if os.path.exists(ORIG):
+if os.path.exists(os.path.join(ROOT, 'totals.json')):
+    data_total = load('totals.json').get('data_total', 0)
+elif os.path.exists(ORIG):
     data_total = sum(1 for a in orig if a.get('data'))
 if data_total:
     out.append('| Data files | %.0f%% (%d of %d) |\n' % (100.0 * (data_total - data_missing) / data_total, data_total - data_missing, data_total))
