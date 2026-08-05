@@ -1426,9 +1426,9 @@
         "source": "https://github.com/mcallbosco/super-hexagon-vita",
         "release_page": "",
         "trailer": "",
-        "size": "1879964",
+        "size": "1910439",
         "data_size": "0",
-        "hash": "b241088d5da3a9a2c831f127a9dbbc96",
+        "hash": "80970d95c18b721ba1b61a176cb887f3",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
@@ -1436,7 +1436,7 @@
         "tags": "",
         "ai": "1",
         "score": "81.6",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1408",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1408-superhexagon_vita.vpk",
         "data": ""
     },
     {
@@ -1456,9 +1456,9 @@
         "source": "https://github.com/mcallbosco/pacman-cedx-vita",
         "release_page": "",
         "trailer": "",
-        "size": "2199923",
+        "size": "1953422",
         "data_size": "0",
-        "hash": "ac2e0e1e3b914c086261cd7d58177fa2",
+        "hash": "fa31e108bd72870145e5bd9622b64625",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
@@ -1466,7 +1466,7 @@
         "tags": "",
         "ai": "1",
         "score": "89.8",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1409",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1409-pacmancedx.vpk",
         "data": ""
     },
     {

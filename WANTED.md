@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 15 entries survive in the catalogue with full metadata, but their download
+These 13 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -37,8 +37,6 @@ contributors. Verify anything before trusting it.
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |
 | Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - | [page](https://www.gamebrew.org/wiki/Hackez-i_Vita) | - |
 | Vita | Freeway Mutant | v.1.0 | Loodanon | 4.1 MB | [link](https://gbatemp.net/threads/release-freeway-mutant-gamemaker-1-4-port-gaymaker.527870/) | - | - |
-| Vita | Pacman CE DX Vita | v.1.0 | mcallbosco | 2.1 MB | [link](https://github.com/mcallbosco/pacman-cedx-vita) | [page](https://www.gamebrew.org/wiki/Pacman_CE_DX_Vita) | - |
 | Vita | Snake! | v.2.0 | Ccoolguy | 5.7 MB | [link](https://github.com/Ccoolguy/SnakeVita) | - | [lead](https://www.gamebrew.org/wiki/Snake_Ccoolguy_Vita) |
-| Vita | Super Hexagon Vita | v.1.0 | mcallbosco | 1.8 MB | [link](https://github.com/mcallbosco/super-hexagon-vita) | [page](https://www.gamebrew.org/wiki/Super_Hexagon_Vita) | - |
 | Vita | SwitchKaKu | MOD v.2.0 | kylon | 0.6 MB | - | - | - |
 | Vita | Voice Recorder Vita | v.1.0 | VitaHEX games | 2.2 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48444) | - | - |
