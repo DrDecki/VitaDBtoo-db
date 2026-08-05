@@ -1291,7 +1291,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
-| AdrBubbleBooterCreator | Leecherman | v.1.3 | 2.8 MB | — | [repo](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) |
+| AdrBubbleBooterCreator | Leecherman | v.1.10.1 | 0.8 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/317-AdrBubbleBooterCreator.zip) | [repo](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) |
 | Boxset Bubble Creator | AntHJ | v.1.0 | 191.0 MB | [download](https://github.com/AntHJ/Boxset-Bubble-Creator/releases/download/v1.426/Boxset.Bubble.Creator.0426.zip) | [repo](https://github.com/AntHJ/Boxset-Bubble-Creator/releases) |
 | Bubble-Builder | DRok17 | v.1.2 | 10.8 MB | [download](https://github.com/DRok17/Bubble-Builder/releases/download/v1.2/Bubble-Builder-1.2.zip) | [repo](https://github.com/DRok17/Bubble-Builder) |
 | Fake-08-Builder | DRok17 | v.1.0 | 0.5 MB | [download](https://github.com/DRok17/Fake-08-Builder/releases/download/v1.0/Fake08-Builder-v.1.0.zip) | [repo](https://github.com/DRok17/Fake-08-Builder) |

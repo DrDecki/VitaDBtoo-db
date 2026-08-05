@@ -26,8 +26,8 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | PSVITA homebrews | 1019 | 1019 |
 | Plugins | 123 | 123 |
 | PSP homebrews | 127 | 127 |
-| PC tools | 27 | 25 |
-| **Total** | **1296** | **1294 (99%)** |
+| PC tools | 27 | 26 |
+| **Total** | **1296** | **1295 (99%)** |
 
 14 further entries have been added since the shutdown and are not part of
 what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
@@ -43,7 +43,7 @@ what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
 
 ### Help wanted
 
-**2 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
+**1 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
 
 This does not need programming. It needs people who recognise a homebrew by its filename, or who still have the file lying on an old memory card. If you can match even one entry, open an issue: every link restored is an application that stops being lost.
 <!-- /STATS -->

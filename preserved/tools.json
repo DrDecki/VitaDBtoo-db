@@ -241,7 +241,7 @@
     },
     {
         "name": "AdrBubbleBooterCreator",
-        "version": "v.1.3",
+        "version": "v.1.10.1",
         "author": "Leecherman",
         "description": "Create bubbles for PSP titles.",
         "id": "317",
@@ -253,15 +253,15 @@
         "source": "",
         "release_page": "https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition",
         "trailer": "",
-        "size": "2945327",
+        "size": "840088",
         "data_size": "0",
-        "hash": "",
+        "hash": "7bcbced1ffe7eb4c3d932f40ac1e2d15",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=317"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/317-AdrBubbleBooterCreator.zip"
     },
     {
         "name": "vita-presence-the-server",
