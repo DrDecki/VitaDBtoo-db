@@ -6,18 +6,18 @@ If you have one of these files, or know where it lives now, please open an issue
 or a pull request.
 
 **What is needed is a stable direct URL a PSVITA can fetch without a browser.**
-A GitHub release asset works. An archive.org item works. A GameBrew or itch.io page
-does not, because those serve through referrer checks or signed one-time links: if
-that is all you have, upload the file to an archive.org item and link that instead.
+A GitHub release asset works. An archive.org item works. An itch.io page does not,
+because it serves through signed one-time links. A page that only works in a browser
+is still a useful lead: send it anyway and the file can be mirrored here.
 If the file matches the MD5 listed in the catalogue it is the exact build VitaDB
 served, which settles any doubt about what it is.
 
 The file size below is the one VitaDB recorded, which makes it easy to confirm a
 candidate is the right build.
 
-Many entries link to a [GameBrew](https://www.gamebrew.org) page that documents the
-same homebrew, often with a working download. Those download links only work from a
-browser, so they cannot be resolved automatically. Help with these is welcome.
+Everything GameBrew still hosts has already been recovered and mirrored: 108 entries
+were restored that way. A [GameBrew](https://www.gamebrew.org) link in the table below
+therefore means the wiki documents the homebrew but holds no copy of the file.
 
 The last column collects other leads. `cbpsdb` points at an old mirror of VitaDB
 kept by LiEnby at [gitlab.com/SilicaAndPina/cbpsdb](https://gitlab.com/SilicaAndPina/cbpsdb);
