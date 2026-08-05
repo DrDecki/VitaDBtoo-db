@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 26 entries survive in the catalogue with full metadata, but their download
+These 25 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -37,7 +37,6 @@ contributors. Verify anything before trusting it.
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |
 | Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - | [page](https://www.gamebrew.org/wiki/Hackez-i_Vita) | - |
 | Vita | ABYSS | v.2.1 | Balder | 162.9 MB | [link](https://balderdragonslayer.itch.io/abyss) | [page](https://www.gamebrew.org/wiki/ABYSS_Vita) | - |
-| Vita | Aperture Reconstructed | v.0.4.00 | MRKane | 71.8 MB | [link](https://mrkane.itch.io/aperturereconstructed) | [page](https://www.gamebrew.org/wiki/Aperture:_Reconstructed_Vita) | - |
 | Vita | Chinese Social Credit Test | v.1.0 | Ximer | 37.0 MB | [link](https://ximer.itch.io/chinese-social-credit-test) | [page](https://www.gamebrew.org/wiki/Chinese_Social_Credit_Test_Vita) | - |
 | Vita | DS8 Drumstream | v.0.1 | Intermynd Instruments | 1.6 MB | [link](https://intermynd-instruments.itch.io/ds-8) | [page](https://www.gamebrew.org/wiki/DS8_Drumstream_Vita) | - |
 | Vita | DethKarz Remake | v.0.2.3.1 alpha | LachsProducktions | 152.1 MB | [link](https://lachsproducktions.itch.io/the-unofficial-dethkarz-remake) | [page](https://www.gamebrew.org/wiki/DethKarz_Remake_Vita) | - |

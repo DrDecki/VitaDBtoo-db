@@ -2208,7 +2208,7 @@
         "trailer": "",
         "size": "75242313",
         "data_size": "0",
-        "hash": "7b615892272b4696e73138f4b0dc6c94",
+        "hash": "9d4f8c4ba418f030dc33a54fe269d280",
         "hash2": "",
         "changelog": "- Fixed Radio 22 from falling through floor in fire-pit so it can now be collected\n- Addressed loading zones in Chamber 19 to tighten up gaps that player could slip through\n- Fixed weird bug in Chamber 19 where player would become unable to fire portal gun\n- Fixed font for Traditional and Simplified Chinese, Japanese, Korean, and Thai",
         "requirements": "- Game Data Files: PC",
@@ -2216,7 +2216,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1302",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1302-ApertureReconstructed.vpk",
         "data": ""
     },
     {
