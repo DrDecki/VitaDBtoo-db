@@ -18,6 +18,8 @@ changelog, requirements, category, release date and download count. That part ca
 reconstructed from repositories, which is what makes this catalogue worth keeping.
 
 
+[CATALOGUE.md](CATALOGUE.md) lists every entry with its author, version and download.
+
 <!-- STATS -->
 | | Entries | With a working download |
 | --- | ---: | ---: |
