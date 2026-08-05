@@ -25,7 +25,7 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | Plugins | 123 | 123 |
 | PSP homebrews | 127 | 127 |
 | PC tools | 27 | 24 |
-| **Total** | **1298** | **1293 (100%)** |
+| **Total** | **1298** | **1293 (99%)** |
 
 | Asset | Recovered |
 | --- | ---: |

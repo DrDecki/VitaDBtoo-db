@@ -63,7 +63,7 @@ out = ['<!-- STATS -->\n']
 out.append('| | Entries | With a working download |\n| --- | ---: | ---: |\n')
 for label, n, k in rows:
     out.append('| %s | %d | %d |\n' % (label, n, k))
-out.append('| **Total** | **%d** | **%d (%.0f%%)** |\n\n' % (tot, ok, 100.0 * ok / tot))
+out.append('| **Total** | **%d** | **%d (%d%%)** |\n\n' % (tot, ok, int(100.0 * ok / tot)))
 out.append('| Asset | Recovered |\n| --- | ---: |\n')
 out.append('| Metadata | 100%% (%d entries) |\n' % tot)
 out.append('| Icons | %.0f%% (%d) |\n' % (100.0 * len(need & set(os.listdir(os.path.join(ROOT, 'icons')))) / max(len(need), 1), icons))
@@ -107,4 +107,4 @@ if '<!-- STATS -->' in s:
 else:
     s = s.replace('## Files', block + '\n\n## Files', 1)
 open(readme, 'w', encoding='utf-8').write(s)
-print('README aktualisiert: %d von %d installierbar (%.0f%%)' % (ok, tot, 100.0 * ok / tot))
+print('README aktualisiert: %d von %d installierbar (%d%%)' % (ok, tot, int(100.0 * ok / tot)))
