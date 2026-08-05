@@ -100,6 +100,14 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
         if not newer(best_tag or best['name'], a.get('version', '')):
             skipped.append('%s: %s looks older than %s, keeping it' % (a['name'], best_tag or best['name'], a.get('version')))
             continue
+        cur_stem = re.sub(r'\d', '', slug(re.sub(r'\.[a-z0-9]+$', '', cur.lower())))
+        new_stem = re.sub(r'\d', '', slug(re.sub(r'\.[a-z0-9]+$', '', best['name'].lower())))
+        if cur_stem and new_stem and cur_stem not in new_stem and new_stem not in cur_stem:
+            skipped.append('%s: %s is a different file, not a newer %s' % (a['name'], best['name'], cur))
+            continue
+        if 'v.' + (best_tag or '').lstrip('vV.') == a.get('version', ''):
+            skipped.append('%s: %s is the same version, nothing to update' % (a['name'], best_tag))
+            continue
         if best_score < 0.55 or best_score < cur_score:
             skipped.append('%s: best candidate %s scored %.2f, keeping %s' % (a['name'], best['name'], best_score, cur))
             continue
