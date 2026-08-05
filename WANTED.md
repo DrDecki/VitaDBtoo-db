@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 35 entries survive in the catalogue with full metadata, but their download
+These 33 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -32,7 +32,6 @@ contributors. Verify anything before trusting it.
 | PSP | PSPQuakeIII | v.1.0 | Crow_bar | 73.5 MB | [link](https://github.com/Fighter19/Quake3PSP-mirror) | - | - |
 | PSP | rpg2kpp | v.0.12 Beta Test 04 | seerouxdark | 1.1 MB | - | - | - |
 | Plugin | ShellDateSecBat | v.2 | OperationNT | 0.0 MB | - | - | [lead](https://www.gamebrew.org/wiki/ShellSecBat_Vita) |
-| Plugin | c0ck blocker | v.1.1 | qwikrazor87 | 0.0 MB | - | [page](https://www.gamebrew.org/wiki/C0ck_Blocker_Vita) / [file](https://dlhb.gamebrew.org/vitahomebrews/c0ckbl0ckervita.7z?k33p0fil35) | - |
 | Tool | AdrBubbleBooterCreator | v.1.3 | Leecherman | 2.8 MB | [link](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) | - | [lead](https://github.com/xXxTheDarkprogramerxXx/AdrBubbleBooterCreator) |
 | Tool | Guess It! Customization Tool | v.1.0.0.0 | HWNJ | 53.0 MB | [link](https://kyuhen.customprotocol.com/en/submissions/guessit) | - | [lead](https://www.gamebrew.org/wiki/Guess_It_Customization_Tool_Vita) |
 | Tool | NPS Browser | v.0.7.2 | jhonhenry10 | 0.1 MB | - | - | - |
@@ -49,7 +48,6 @@ contributors. Verify anything before trusting it.
 | Vita | Chinese Social Credit Test | v.1.0 | Ximer | 37.0 MB | [link](https://ximer.itch.io/chinese-social-credit-test) | [page](https://www.gamebrew.org/wiki/Chinese_Social_Credit_Test_Vita) | - |
 | Vita | DS8 Drumstream | v.0.1 | Intermynd Instruments | 1.6 MB | [link](https://intermynd-instruments.itch.io/ds-8) | [page](https://www.gamebrew.org/wiki/DS8_Drumstream_Vita) | - |
 | Vita | DethKarz Remake | v.0.2.3.1 alpha | LachsProducktions | 152.1 MB | [link](https://lachsproducktions.itch.io/the-unofficial-dethkarz-remake) | [page](https://www.gamebrew.org/wiki/DethKarz_Remake_Vita) | - |
-| Vita | Flipper Volcano Vita | v.1.1 | bren | 15.7 MB | [link](https://brendonm17.itch.io/flipper-volcano-vita) | [page](https://www.gamebrew.org/wiki/Flipper_Volcano_Vita) / [file](https://dlhb.gamebrew.org/3dshomebrews/FlipperVolcanoVita.7z) | - |
 | Vita | Freeway Mutant | v.1.0 | Loodanon | 4.1 MB | [link](https://gbatemp.net/threads/release-freeway-mutant-gamemaker-1-4-port-gaymaker.527870/) | - | - |
 | Vita | Hexagon Jumper | v.1.4.1 | cubic games official | 76.4 MB | [link](https://cubic-games-official.itch.io/hexagon-jumper) | [page](https://www.gamebrew.org/wiki/Hexagon_Jumper_Vita) | - |
 | Vita | Nazi Zombies Portable | Nightly | NZP Reboot Team & Rinnegatamante | 3.2 MB | [link](https://github.com/nzp-team/nzportable/releases) | - | - |
