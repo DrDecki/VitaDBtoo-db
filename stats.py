@@ -80,7 +80,12 @@ if data_total:
     out.append('| Data files | %.0f%% (%d of %d) |\n' % (100.0 * (data_total - data_missing) / data_total, data_total - data_missing, data_total))
 else:
     out.append('| Data files | %d missing |\n' % data_missing)
-out.append('| Trophy data | 0%, gone for good |\n')
+_tt = load('totals.json').get('trophy_sets_total', 0) if os.path.exists(os.path.join(ROOT, 'totals.json')) else 0
+_th = len(load('trophies/index.json')) if os.path.exists(os.path.join(ROOT, 'trophies', 'index.json')) else 0
+if _tt:
+    out.append('| In-game trophies | %.0f%% (%d of %d sets) |\n' % (100.0 * _th / _tt, _th, _tt))
+else:
+    out.append('| In-game trophies | %d sets |\n' % _th)
 out.append('\n### Help wanted\n\n')
 out.append('**%d downloads and %d data files are still missing.** ' % (missing_dl, data_missing))
 out.append('They are listed with author, version and file size in [WANTED.md](WANTED.md), ')
