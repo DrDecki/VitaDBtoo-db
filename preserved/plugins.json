@@ -1357,15 +1357,15 @@
         "source": "https://github.com/TheOfficialFloW/VitaTweaks",
         "release_page": "https://github.com/TheOfficialFloW/VitaTweaks/releases",
         "trailer": "",
-        "size": "2953",
+        "size": "2043",
         "data_size": "0",
-        "hash": "",
+        "hash": "0b9cdc513d0c13a3d80882ae9cc4973c",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx"
+        "url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/NoLockScreen/nolockscreen.suprx"
     },
     {
         "name": "NoTrophyMsg",
@@ -1381,15 +1381,15 @@
         "source": "https://github.com/TheOfficialFloW/VitaTweaks",
         "release_page": "https://github.com/TheOfficialFloW/VitaTweaks/releases",
         "trailer": "",
-        "size": "2953",
+        "size": "1975",
         "data_size": "0",
-        "hash": "",
+        "hash": "a9f964a5092c92b72650e02912d98354",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx"
+        "url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/NoTrophyMsg/notrophymsg.suprx"
     },
     {
         "name": "vitastick",
