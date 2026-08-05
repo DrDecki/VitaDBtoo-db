@@ -1,0 +1,65 @@
+nohup: Eingabe wird ignoriert
+60 Kandidaten, Limit 999
+  1426  FNaF World Vita              OK 53.0 MB       fnaf-world.vpk
+  1429  Picture Poker                OK 14.5 MB       PicturePoker.vpk
+  1417  vitaImmich                   OK 5.9 MB        vitaImmich.vpk
+  1402  BIOHAZARD4 Vita              OK 3.1 MB        BIOHAZARD4.vpk
+  1397  Vita Pong                    OK 0.7 MB        Pong.vpk
+  1382  PSV MIDI Player              OK 0.2 MB        psv-midi-player.vpk
+  1370  Chex Quest Vita              OK 0.4 MB        ChexQuestVita.vpk
+  1337  Froggy's Battle Vita         OK 16.4 MB       FroggysBattle_v1_1.vpk
+  1300  Guardener Vita               OK 3.0 MB        GUARDENER_v1_2.vpk
+  1327  Flipper Volcano Vita         FEHLER HTTPError 
+  1330  Gravity Hunters              OK 4.1 MB        gravity_hunters.vpk
+  1338  The Other Her                OK 27.0 MB       TheOtherHer.vpk
+  1331  VitA Sketch                  OK 4.0 MB        VitASketck.vpk
+  1332  Vita Deck                    OK 3.7 MB        VITADECK0.vpk
+  1333  Reaction Station             OK 4.1 MB        reaction_station.vpk
+  1334  Stellar Shift                OK 62.0 MB       StellarShift.vpk
+  1335  Lantern Mouse                OK 48.0 MB       LMSubmit.vpk
+  1328  VX7 Vita FM Synthesizer      OK 1.3 MB        vita_fm.vpk
+  1325  TIE Vita                     OK 14.3 MB       TIE.vpk
+  1326  El Enviado                   OK 81.2 MB       enviado.vpk
+  1316  Vita Webradios               OK 1.3 MB        webradio.vpk
+  1321  Sort the Court Vita          OK 14.3 MB       STC.vpk
+  1309  Assessment Examination Vita  OK 102.5 MB      AssessmentExamination.vpk
+  1306  Five Beats at Freddy's       OK 47.4 MB       five_beats.vpk
+  1274  FNaF World PSVita Demake     OK 53.0 MB       fnaf-world.vpk
+  1122  VitaHot                      OK 213.4 MB      VitaHot.vpk
+  1162  Silver Falls Survive         OK 173.6 MB      SFSurvive v0_1beta.vpk
+  1147  Gone Home                    OK 508.2 MB      Gone Home for PlayStation Vita V1.
+  1111  Left 4 Dead 2D               OK 38.2 MB       left-4-dead-2-2d-ps-vita-1.1-2.vpk
+  1096  Top Classic Plaigarized      OK 17.2 MB       TopClassic.vpk
+  1126  Diver Down Vita              OK 20.5 MB       DIVER DOWN.vpk
+  1071  Heart Potato                 OK 39.8 MB       HeartPotato.vpk
+  1063  Slither.io Vita              OK 38.8 MB       Slither.io Vita.vpk
+  1447  Rukavychka                   OK 25.6 MB       rukavychka-vita.vpk
+  853   Lugaru HD                    OK 15.4 MB       Lugaru-release-beta-1.vpk
+  818   Blue Bayou                   OK 24.9 MB       BlueBayouVita.vpk
+  793   Vita Kohana                  OK 14.1 MB       Vita_Kohana_1.02.vpk
+  761   Super Pop-up Blocker 2000    OK 47.7 MB       psvdraft.vpk
+  753   Atlantis                     OK 3.4 MB        Atlantis.vpk
+  744   Rock Recker                  OK 2.3 MB        RockRecker.vpk
+  721   Leap of Faith                OK 14.2 MB       Leap_of_Faith.vpk
+  1446  DJ Escher                    OK 17.8 MB       djescher-vita.vpk
+  713   Astro Rush                   OK 33.3 MB       AstroRush.vpk
+  626   Circuit Dude                 OK 14.8 MB       CircuitDude.vpk
+  478   ZXVita                       OK 1.3 MB        zxvita.vpk
+  557   Kogre's Mountain             OK 46.4 MB       KogresMountain.vpk
+  548   River Raid                   OK 46.5 MB       RiverRaid.vpk
+  501   Dungeon Survivor             OK 43.9 MB       Dungeon Survivor.vpk
+  614   Sqrxz 3                      OK 1.4 MB        SQRXZ0003.vpk
+  490   Super Drone Racer Ultra      OK 54.4 MB       DR0056.vpk
+  421   Zombiebound Reloaded         OK 158.2 MB      Zombiebound-Reloaded.vpk
+  204   App DB Tool                  OK 0.3 MB        appdbtool.vpk
+  334   Zelda3T                      OK 27.6 MB       Zelda3T.vpk
+  307   AdrBubbleBooterInstaller     OK 0.4 MB        AdrBubbleBooterInstaller v1.3.vpk
+  95    Project Void                 OK 40.3 MB       projectvoid.vpk
+  301   MLTactivator                 OK 0.4 MB        MLTactivatorFIX2.vpk
+  124   ePSP Bubble Installer        OK 5.2 MB        ePSP_Bubble_Installer_v3.1.vpk
+  179   Homebrew Downloader          OK 0.5 MB        hbb-0.3/hbb.vpk
+  56    Vitamin                      OK 1.1 MB        Vitamin.vpk
+  135   BattleShip Arena             OK 0.3 MB        BattleShipArena.vpk
+
+erfolgreich: 59, fehlgeschlagen: 1
+VPKs liegen in /tmp/gamebrew

@@ -228,7 +228,7 @@
         "trailer": "",
         "size": "55543575",
         "data_size": "0",
-        "hash": "3333846b67ff62c18a9bb1349884e929",
+        "hash": "886f71f527c543641923c49c55281b27",
         "hash2": "2e283fdbb56d4e24e27a5f0ad60f403f",
         "changelog": "- First Release.",
         "requirements": "",
@@ -236,7 +236,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1426",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1426-fnaf-world.vpk",
         "data": ""
     },
     {
@@ -858,7 +858,7 @@
         "trailer": "",
         "size": "15227039",
         "data_size": "0",
-        "hash": "12c45d814c51fd208c69e6c37bb2758d",
+        "hash": "9482d8b8a1e17e563b7de8b6f5648971",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -866,7 +866,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1429",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1429-PicturePoker.vpk",
         "data": ""
     },
     {
@@ -1188,7 +1188,7 @@
         "trailer": "",
         "size": "6146954",
         "data_size": "0",
-        "hash": "8d6ddf145cc85d09a306c7e90316f301",
+        "hash": "560c58857930044e57020a515efc5283",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -1196,7 +1196,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1417",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1417-vitaImmich.vpk",
         "data": ""
     },
     {
@@ -1518,7 +1518,7 @@
         "trailer": "",
         "size": "3233206",
         "data_size": "0",
-        "hash": "6169b75b9380366c946cd2ef70935057",
+        "hash": "400ac17140955cd525160512be2ccca7",
         "hash2": "",
         "changelog": "- Added English language support.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
@@ -1526,7 +1526,7 @@
         "tags": "",
         "ai": "0",
         "score": "70.4",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1402",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1402-BIOHAZARD4.vpk",
         "data": ""
     },
     {
@@ -1936,9 +1936,9 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "26285287",
+        "size": "706314",
         "data_size": "0",
-        "hash": "7823facda93b4c8b5dd43e577f0858d0",
+        "hash": "a9f73c4c7383d970f4a975d0a0718717",
         "hash2": "8466505179cf307661194bdb49e2726b",
         "changelog": "- First Release.",
         "requirements": "",
@@ -1946,7 +1946,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1397",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1397-Pong.vpk",
         "data": ""
     },
     {
@@ -2628,7 +2628,7 @@
         "trailer": "",
         "size": "225795",
         "data_size": "0",
-        "hash": "182ff4fe92f71b9e2b518834b282bb35",
+        "hash": "06ed59f68871e112cc62bd17b7664e38",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -2636,7 +2636,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1382",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1382-psv-midi-player.vpk",
         "data": ""
     },
     {
@@ -2896,9 +2896,9 @@
         "source": "https://github.com/DraxTube/chexquest-vita",
         "release_page": "https://github.com/DraxTube/chexquest-vita/releases",
         "trailer": "",
-        "size": "277555",
+        "size": "398000",
         "data_size": "0",
-        "hash": "31a0b2e24b033fc6f1d0b6cd14065f05",
+        "hash": "287763a611f7350f7952b97ec4cd596d",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- Game Data Files: PC",
@@ -2906,7 +2906,7 @@
         "tags": "",
         "ai": "1",
         "score": "71.9",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1370",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1370-ChexQuestVita.vpk",
         "data": ""
     },
     {
@@ -3828,7 +3828,7 @@
         "trailer": "",
         "size": "17246766",
         "data_size": "0",
-        "hash": "beb2c69fb99165f6cec69ccd677d96be",
+        "hash": "7aedbd6a7305141d7013f5591c882623",
         "hash2": "",
         "changelog": "- Fixed UI issues\n- Fixed input issues\n- Fixed final boss bug\n- Fixed card selection bug\n- Decreased install size\n- Performance improvements",
         "requirements": "- Game Data Files: PC",
@@ -3836,7 +3836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1337",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1337-FroggysBattle_v1_1.vpk",
         "data": ""
     },
     {
@@ -3888,7 +3888,7 @@
         "trailer": "",
         "size": "3188441",
         "data_size": "0",
-        "hash": "d377065f664a2963d393e68e1400ee42",
+        "hash": "e483a190aa18dc197c331470415399a0",
         "hash2": "",
         "changelog": "- In-game achievements\n- High-score tracking added",
         "requirements": "- Game Data Files: PC",
@@ -3896,7 +3896,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1300",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1300-GUARDENER_v1_2.vpk",
         "data": ""
     },
     {
@@ -4128,7 +4128,7 @@
         "trailer": "",
         "size": "4303132",
         "data_size": "0",
-        "hash": "469eeee1a723da6ca106d9b61aa7de7b",
+        "hash": "0c7b686a89982278a06b2f48ea4e648a",
         "hash2": "",
         "changelog": "- Fixed small bugs\n- Lvl 9 is now completable",
         "requirements": "",
@@ -4136,7 +4136,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1330",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1330-gravity_hunters.vpk",
         "data": ""
     },
     {
@@ -4248,7 +4248,7 @@
         "trailer": "",
         "size": "28327338",
         "data_size": "0",
-        "hash": "fb4de9ae7ef869a0fa1cb5b5430fba47",
+        "hash": "1fd1321dbf6f47d8ad6910f073cef046",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4256,7 +4256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1338",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1338-TheOtherHer.vpk",
         "data": ""
     },
     {
@@ -4308,7 +4308,7 @@
         "trailer": "",
         "size": "4209007",
         "data_size": "0",
-        "hash": "65b69d3936e02cc49356d24cd937dace",
+        "hash": "d735a0689894d8a9bb0d2975051c09a9",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4316,7 +4316,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1331",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1331-VitASketck.vpk",
         "data": ""
     },
     {
@@ -4338,7 +4338,7 @@
         "trailer": "",
         "size": "3918135",
         "data_size": "0",
-        "hash": "65b69d3936e02cc49356d24cd937dace",
+        "hash": "34482ff9e12dd4ab4e60d8c4c86e9393",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4346,7 +4346,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1332",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1332-VITADECK0.vpk",
         "data": ""
     },
     {
@@ -4368,7 +4368,7 @@
         "trailer": "",
         "size": "4268638",
         "data_size": "0",
-        "hash": "65b69d3936e02cc49356d24cd937dace",
+        "hash": "945a3aa38dc3dc78c3cd889365a5a22f",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4376,7 +4376,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1333",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1333-reaction_station.vpk",
         "data": ""
     },
     {
@@ -4398,7 +4398,7 @@
         "trailer": "",
         "size": "65004205",
         "data_size": "0",
-        "hash": "c12c08752b3f1d352a59fc3f0e6218bb",
+        "hash": "1c47c46d78b09e90caf1ae076d70b201",
         "hash2": "8bafa1317e65dfa5dd1af33022eebb83",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4406,7 +4406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1334",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1334-StellarShift.vpk",
         "data": ""
     },
     {
@@ -4428,7 +4428,7 @@
         "trailer": "",
         "size": "50358675",
         "data_size": "0",
-        "hash": "b057e4944d90b0d54007ca1d9c96e6d1",
+        "hash": "ae5660d237d85dd9ce1971b2224e0d63",
         "hash2": "265195dca59cd4929d3d19ac19762992",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4436,7 +4436,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1335",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1335-LMSubmit.vpk",
         "data": ""
     },
     {
@@ -4458,7 +4458,7 @@
         "trailer": "",
         "size": "1311247",
         "data_size": "0",
-        "hash": "60c40272f7179584d903f0cd4a7833e9",
+        "hash": "dbd692dd47c129e11d4e79ec2482e707",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4466,7 +4466,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1328",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1328-vita_fm.vpk",
         "data": ""
     },
     {
@@ -4518,7 +4518,7 @@
         "trailer": "",
         "size": "14984183",
         "data_size": "0",
-        "hash": "c12c08752b3f1d352a59fc3f0e6218bb",
+        "hash": "26983a2d88c837b8cc1d779131dedad8",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- Game Data Files: PC",
@@ -4526,7 +4526,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1325",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1325-TIE.vpk",
         "data": ""
     },
     {
@@ -4548,7 +4548,7 @@
         "trailer": "",
         "size": "85097271",
         "data_size": "0",
-        "hash": "3333846b67ff62c18a9bb1349884e929",
+        "hash": "8a0b947c446ca09ab757b52095cdbd51",
         "hash2": "2cbdd79750df2cd0e903c185958faacc",
         "changelog": "- First Release.",
         "requirements": "",
@@ -4556,7 +4556,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1326",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1326-enviado.vpk",
         "data": ""
     },
     {
@@ -4668,7 +4668,7 @@
         "trailer": "",
         "size": "1347641",
         "data_size": "0",
-        "hash": "4ac24e674e9f50cd295bc406cd7fb726",
+        "hash": "a1c080253b2bfe51fcfeb0d528f07fa5",
         "hash2": "",
         "changelog": "- Reduced heap size.",
         "requirements": "- libshacccg.suprx",
@@ -4676,7 +4676,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1316",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1316-webradio.vpk",
         "data": ""
     },
     {
@@ -4698,7 +4698,7 @@
         "trailer": "",
         "size": "15042197",
         "data_size": "0",
-        "hash": "c12c08752b3f1d352a59fc3f0e6218bb",
+        "hash": "0e24d456d8edc82aa16daf2bd5d68ce6",
         "hash2": "",
         "changelog": "- Fixed most graphics.",
         "requirements": "- Game Data Files: PC",
@@ -4706,7 +4706,7 @@
         "tags": "",
         "ai": "0",
         "score": "70",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1321",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1321-STC.vpk",
         "data": ""
     },
     {
@@ -5148,7 +5148,7 @@
         "trailer": "",
         "size": "107502048",
         "data_size": "0",
-        "hash": "6c72e430d4b96420b6a0c11f07a832e4",
+        "hash": "11f5f60af321c19db9dffca22899403c",
         "hash2": "3bf2911118a1b6b03d23b6f66431f7be",
         "changelog": "- First Release.",
         "requirements": "",
@@ -5156,7 +5156,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1309",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1309-AssessmentExamination.vpk",
         "data": ""
     },
     {
@@ -5178,7 +5178,7 @@
         "trailer": "",
         "size": "49722199",
         "data_size": "0",
-        "hash": "3333846b67ff62c18a9bb1349884e929",
+        "hash": "c6335c0280aa2c11be12a5d46b93118c",
         "hash2": "d0d5453ea6bfc79aea3ee3636199692a",
         "changelog": "- First Release.",
         "requirements": "",
@@ -5186,7 +5186,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1306",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1306-five_beats.vpk",
         "data": ""
     },
     {
@@ -5866,9 +5866,9 @@
         "source": "",
         "release_page": "https://gamejolt.com/games/FWpsVita/996208",
         "trailer": "",
-        "size": "40753318",
+        "size": "55543575",
         "data_size": "0",
-        "hash": "3333846b67ff62c18a9bb1349884e929",
+        "hash": "886f71f527c543641923c49c55281b27",
         "hash2": "379cd0f810d92fb9dbcbddb7a591287f",
         "changelog": "- First Release.",
         "requirements": "",
@@ -5876,7 +5876,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1274",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1274-fnaf-world.vpk",
         "data": ""
     },
     {
@@ -8688,7 +8688,7 @@
         "trailer": "",
         "size": "223750866",
         "data_size": "0",
-        "hash": "beb2c69fb99165f6cec69ccd677d96be",
+        "hash": "a8d9efdeeb08642f02bfa98c1639e612",
         "hash2": "60f19b15f9b29dabc99cfb2248af000f",
         "changelog": "- Six new levels inspired by the likes of Unreal Tournament and Quake II, complete with arena hazards and quirks – meaning there’s almost a third more “game”!\n- A new weapon, the “BuzzRail”, a railgun that fires bouncing sawblades, inspired but Unreal Tournament and Chasm the Rift\n- Mod unlocks for the BuzzRail to ensure maximum chaos if you want it!\n- AI “personalities” are now fully implemented and working correctly, meaning that AI may behave with aggression, or be more cautious keeping it’s distance and duck behind cover, or maybe it’ll be erratic or simply just lazy and plug away at you like a noob!\n- Extra mods allowing the user to set AI personalities\n- Suggestions from Hypatia to have an animated and reactive reticule which more vividly indicates the weapon state, be it reloading, empty, as well as an unarmed cursor that shows if an item is within grabbing range\n- Quick-turn function that’s now mapped to Circle\n- Fixed a bug preventing users from unlocking all mods",
         "requirements": "",
@@ -8696,7 +8696,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1122",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1122-VitaHot.vpk",
         "data": ""
     },
     {
@@ -9828,7 +9828,7 @@
         "trailer": "",
         "size": "181992066",
         "data_size": "0",
-        "hash": "28df76217cc4803a8d702c8597b59d38",
+        "hash": "81d930c37b6478e0985a865b11284882",
         "hash2": "11a87fee4929a22bbe145e086eb2d5e8",
         "changelog": "- First Release.",
         "requirements": "",
@@ -9836,7 +9836,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1162",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1162-SFSurvive_v0_1beta.vpk",
         "data": ""
     },
     {
@@ -9888,7 +9888,7 @@
         "trailer": "",
         "size": "532864284",
         "data_size": "0",
-        "hash": "c12c08752b3f1d352a59fc3f0e6218bb",
+        "hash": "a4dbf456860d8c7943f8a5e98399c86f",
         "hash2": "",
         "changelog": "- Fixed game file patching for Steam and Epic Games versions of Gone Home.",
         "requirements": "- Game Data Files: PC",
@@ -9896,7 +9896,7 @@
         "tags": "",
         "ai": "0",
         "score": "81.8",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1147",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1147-Gone_Home_for_PlayStation_Vita_V1.0.1.vpk",
         "data": ""
     },
     {
@@ -11328,7 +11328,7 @@
         "trailer": "",
         "size": "40013315",
         "data_size": "0",
-        "hash": "0c91c430c618744af1f84c6e84f68c93",
+        "hash": "62a31362a5d15154462b6f11d297bd43",
         "hash2": "676c7cdb458ccade200b645830dcc33a",
         "changelog": "- Added STARS when completing maps on normal and expert, like horde mode.\n- Added the option to return to the main menu by pressing \"Select\".\n- Fixed small audio bugs.",
         "requirements": "",
@@ -11336,7 +11336,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1111",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1111-left-4-dead-2-2d-ps-vita-1.1-2.vpk",
         "data": ""
     },
     {
@@ -11478,7 +11478,7 @@
         "trailer": "",
         "size": "18003900",
         "data_size": "0",
-        "hash": "72cda66cf473900d5a922a938ca339a3",
+        "hash": "40eff1c32ea445ae11605158724c5e0e",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -11486,7 +11486,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1096",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1096-TopClassic.vpk",
         "data": ""
     },
     {
@@ -11928,7 +11928,7 @@
         "trailer": "",
         "size": "21463355",
         "data_size": "0",
-        "hash": "3333846b67ff62c18a9bb1349884e929",
+        "hash": "14b12ef9c12a3f43cc7d84be9264e847",
         "hash2": "9617d77d5cf6bce1dd9365e757dcdd6d",
         "changelog": "- First Release.",
         "requirements": "",
@@ -11936,7 +11936,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1126",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1126-DIVER_DOWN.vpk",
         "data": ""
     },
     {
@@ -12168,7 +12168,7 @@
         "trailer": "",
         "size": "41746686",
         "data_size": "0",
-        "hash": "beb2c69fb99165f6cec69ccd677d96be",
+        "hash": "4655708a0cd1f674bd6e3483b2086dc4",
         "hash2": "85827a006d0d2daaf62721c7584ec588",
         "changelog": "- First Release.",
         "requirements": "",
@@ -12176,7 +12176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1071",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1071-HeartPotato.vpk",
         "data": ""
     },
     {
@@ -12348,7 +12348,7 @@
         "trailer": "",
         "size": "40716230",
         "data_size": "0",
-        "hash": "b057e4944d90b0d54007ca1d9c96e6d1",
+        "hash": "969c127962f9d16a8a54afb9004a04be",
         "hash2": "f61df6507754dfa9774326752e183251",
         "changelog": "- First Release.",
         "requirements": "",
@@ -12356,7 +12356,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1063",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1063-Slither.io_Vita.vpk",
         "data": ""
     },
     {
@@ -13908,7 +13908,7 @@
         "trailer": "",
         "size": "26869727",
         "data_size": "0",
-        "hash": "8a8186f333b596591acd2aa6122eba1b",
+        "hash": "2f305bd074ebf9febe9891dff9ec47bc",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -13916,7 +13916,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1447",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1447-rukavychka-vita.vpk",
         "data": ""
     },
     {
@@ -14688,7 +14688,7 @@
         "trailer": "",
         "size": "16154761",
         "data_size": "0",
-        "hash": "c177c686aec7575e94e9ef1f0f40b31c",
+        "hash": "0191203879666a28366dcab90a1dd879",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -14696,7 +14696,7 @@
         "tags": "",
         "ai": "0",
         "score": "68.1",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=853",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/853-Lugaru-release-beta-1.vpk",
         "data": ""
     },
     {
@@ -15528,7 +15528,7 @@
         "trailer": "",
         "size": "26100600",
         "data_size": "0",
-        "hash": "d5401eeba07218bbf1bfa728b188aeef",
+        "hash": "38d8a2cf4f7f277604d2268c015b89dc",
         "hash2": "cc33df049e808b6e2f882382a969121d",
         "changelog": "- First Release.",
         "requirements": "",
@@ -15536,7 +15536,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=818",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/818-BlueBayouVita.vpk",
         "data": ""
     },
     {
@@ -15948,7 +15948,7 @@
         "trailer": "",
         "size": "14785560",
         "data_size": "0",
-        "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
+        "hash": "6546c823f2c55a70d6f6fd3e7d980cfb",
         "hash2": "",
         "changelog": "- Reduced out of memory errors when loading assets.",
         "requirements": "",
@@ -15956,7 +15956,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=793",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/793-Vita_Kohana_1.02.vpk",
         "data": ""
     },
     {
@@ -17058,7 +17058,7 @@
         "trailer": "",
         "size": "49965363",
         "data_size": "0",
-        "hash": "b057e4944d90b0d54007ca1d9c96e6d1",
+        "hash": "15358eb140f1965f81a41315019ed2c6",
         "hash2": "8fae09bcd9ba4d1ef455895bcfe6f0b9",
         "changelog": "- First Release",
         "requirements": "",
@@ -17066,7 +17066,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=761",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/761-psvdraft.vpk",
         "data": ""
     },
     {
@@ -17238,7 +17238,7 @@
         "trailer": "",
         "size": "3594347",
         "data_size": "0",
-        "hash": "0c91c430c618744af1f84c6e84f68c93",
+        "hash": "0bca40bfb116e63b8769e36e85fe428d",
         "hash2": "299ce5ac973fff4962348159e81511bc",
         "changelog": "- First Release",
         "requirements": "",
@@ -17246,7 +17246,7 @@
         "tags": "",
         "ai": "0",
         "score": "74.8",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=753",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/753-Atlantis.vpk",
         "data": ""
     },
     {
@@ -17448,7 +17448,7 @@
         "trailer": "",
         "size": "2361624",
         "data_size": "0",
-        "hash": "c5cf187c03dcbce4bce58812589c9c8b",
+        "hash": "09e0c315229464e675f61bc193c524ca",
         "hash2": "1a462352cf23e81ff05e6c11bf0378cb",
         "changelog": "- First Release",
         "requirements": "",
@@ -17456,7 +17456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=744",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/744-RockRecker.vpk",
         "data": ""
     },
     {
@@ -17928,7 +17928,7 @@
         "trailer": "",
         "size": "14939938",
         "data_size": "0",
-        "hash": "8b7db8265ec2d59fc0bccc47ac0ffb3b",
+        "hash": "3317aae37c1947a14cb2e4c6b6683f66",
         "hash2": "24521bbe27e4a64969fb6ec8c7f833ff",
         "changelog": "- First Release.",
         "requirements": "",
@@ -17936,7 +17936,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=721",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/721-Leap_of_Faith.vpk",
         "data": ""
     },
     {
@@ -18078,7 +18078,7 @@
         "trailer": "",
         "size": "18680010",
         "data_size": "0",
-        "hash": "cd19b203b66028af054d714e063f8f6f",
+        "hash": "c9cfeb3ef46afb6f70763ac058e04421",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -18086,7 +18086,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1446",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1446-djescher-vita.vpk",
         "data": ""
     },
     {
@@ -18168,7 +18168,7 @@
         "trailer": "",
         "size": "34924073",
         "data_size": "0",
-        "hash": "d4194f98fcddf81825fb2cbe274f8f8d",
+        "hash": "ddd17e8c73c942087857205dc258c163",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -18176,7 +18176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=713",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/713-AstroRush.vpk",
         "data": ""
     },
     {
@@ -19728,7 +19728,7 @@
         "trailer": "",
         "size": "15533399",
         "data_size": "0",
-        "hash": "0c91c430c618744af1f84c6e84f68c93",
+        "hash": "936a2b45e8f7cc39cfd2c071438425ab",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
@@ -19736,7 +19736,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=626",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/626-CircuitDude.vpk",
         "data": ""
     },
     {
@@ -20028,7 +20028,7 @@
         "trailer": "",
         "size": "1316328",
         "data_size": "0",
-        "hash": "a14284c79a0f936391645ec1fda9b2d8",
+        "hash": "4a1a45e659230332294a4ce5ddd23526",
         "hash2": "",
         "changelog": "- Added cycle-accurate rendering mechanism\n- Added a tape player UI for full control over tape loading \n- Added ability to browse to uma0: device for game loading (thanks to @rsn8887)\n- Modified file browser to remember the last visited directory\n- Made the keyboard more functional\n- Added more control mappings\n- Added joystick autofire feature\n- Added joystick type setting\n- Added reset/pause/boost hotkey controls\n- Added higher cpu speed options\n- Modified menu button actions\n- Changed the user interface font\n- Changed the livearea artwork\n- Bug fix: Fixed sound sometimes breaking when returning from the main menu\n- Bug fix: Fixed release issues with shifted control mappings\n- Several other small fixes and improvements",
         "requirements": "",
@@ -20036,7 +20036,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=478",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/478-zxvita.vpk",
         "data": ""
     },
     {
@@ -21678,7 +21678,7 @@
         "trailer": "",
         "size": "48613219",
         "data_size": "0",
-        "hash": "d4194f98fcddf81825fb2cbe274f8f8d",
+        "hash": "36aa1b7bc64b53bfc43d9fca5f1bb288",
         "hash2": "8218b8eafc5db21b3ea4972052fc703a",
         "changelog": "",
         "requirements": "",
@@ -21686,7 +21686,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=557",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/557-KogresMountain.vpk",
         "data": ""
     },
     {
@@ -21948,7 +21948,7 @@
         "trailer": "",
         "size": "48778063",
         "data_size": "0",
-        "hash": "092e7c7a15e5000d7bfcfa767f4aa942",
+        "hash": "a27bbf331322362f548e8bb5dadc7434",
         "hash2": "b2d70d686ee24551fb540865faa607f5",
         "changelog": "",
         "requirements": "",
@@ -21956,7 +21956,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=548",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/548-RiverRaid.vpk",
         "data": ""
     },
     {
@@ -23148,7 +23148,7 @@
         "trailer": "",
         "size": "46072244",
         "data_size": "0",
-        "hash": "386673ea58bd534d30763395b4e2a1ba",
+        "hash": "230db46eeb4a5bd5a9273a3f583fa29d",
         "hash2": "bdd6a491d6f0f93f97547b738e0e31a9",
         "changelog": "",
         "requirements": "",
@@ -23156,7 +23156,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=501",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/501-Dungeon_Survivor.vpk",
         "data": ""
     },
     {
@@ -23358,7 +23358,7 @@
         "trailer": "",
         "size": "1463772",
         "data_size": "0",
-        "hash": "956afa471097b32d34afc4dd64e76abe",
+        "hash": "f474c25c017358a0e8856cc71a04d5e7",
         "hash2": "",
         "changelog": "",
         "requirements": "- Game Data Files: PC",
@@ -23366,7 +23366,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=614",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/614-SQRXZ0003.vpk",
         "data": ""
     },
     {
@@ -23448,7 +23448,7 @@
         "trailer": "",
         "size": "57031071",
         "data_size": "0",
-        "hash": "d4194f98fcddf81825fb2cbe274f8f8d",
+        "hash": "62d3c1d1120b15910348372263a36cb0",
         "hash2": "7b601b6dc6d7beeafbc5abe82ec1bf1f",
         "changelog": "",
         "requirements": "",
@@ -23456,7 +23456,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=490",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/490-DR0056.vpk",
         "data": ""
     },
     {
@@ -24708,7 +24708,7 @@
         "trailer": "",
         "size": "165900291",
         "data_size": "0",
-        "hash": "d4194f98fcddf81825fb2cbe274f8f8d",
+        "hash": "4ac31dfef9f35544e023b5d16eec1ebd",
         "hash2": "a640479141a5ef3eb80458b3aafd2490",
         "changelog": "",
         "requirements": "",
@@ -24716,7 +24716,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=421",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/421-Zombiebound-Reloaded.vpk",
         "data": ""
     },
     {
@@ -25066,9 +25066,9 @@
         "source": "https://bitbucket.org/kylon/appdbtool",
         "release_page": "",
         "trailer": "",
-        "size": "336597",
+        "size": "353306",
         "data_size": "0",
-        "hash": "39ab5204fccbf069660e67d6cb309512",
+        "hash": "c075a0379a349d58e2690af937a4322f",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -25076,7 +25076,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=204",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/204-appdbtool.vpk",
         "data": ""
     },
     {
@@ -25398,7 +25398,7 @@
         "trailer": "",
         "size": "28980993",
         "data_size": "0",
-        "hash": "b8f64c354b372feecceee39a9924efc0",
+        "hash": "1166ff60cfffa439a76621bac137a3fe",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -25406,7 +25406,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=334",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/334-Zelda3T.vpk",
         "data": ""
     },
     {
@@ -25576,9 +25576,9 @@
         "source": "",
         "release_page": "https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition",
         "trailer": "",
-        "size": "433461",
+        "size": "441484",
         "data_size": "0",
-        "hash": "4a5174d5ce85a88c9cc0689985ff446a",
+        "hash": "7f649e3caa4d2d2cff6bbc2d6674adf2",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -25586,7 +25586,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=307",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/307-AdrBubbleBooterInstaller_v1.3.vpk",
         "data": ""
     },
     {
@@ -27078,7 +27078,7 @@
         "trailer": "",
         "size": "42266649",
         "data_size": "0",
-        "hash": "164bf7eda13218033ab58392148a4421",
+        "hash": "a115bc07295bd2f42fdf714002ff1422",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -27086,7 +27086,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=95",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/95-projectvoid.vpk",
         "data": ""
     },
     {
@@ -27168,7 +27168,7 @@
         "trailer": "",
         "size": "456420",
         "data_size": "0",
-        "hash": "d32d29c0a03713fd0716d15d453f6202",
+        "hash": "467424d339ef5a68cdcda03a6f9362b1",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -27176,7 +27176,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=301",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/301-MLTactivatorFIX2.vpk",
         "data": ""
     },
     {
@@ -27768,7 +27768,7 @@
         "trailer": "",
         "size": "5491546",
         "data_size": "0",
-        "hash": "bf2b30714698c1a7ec453d8b05cdefb3",
+        "hash": "fd17eadef3d8df44eaa7daffb795bb87",
         "hash2": "2343427aa88bcc848d91159b40e16da2",
         "changelog": "",
         "requirements": "",
@@ -27776,7 +27776,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=124",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/124-ePSP_Bubble_Installer_v3.1.vpk",
         "data": ""
     },
     {
@@ -28788,7 +28788,7 @@
         "trailer": "",
         "size": "485014",
         "data_size": "0",
-        "hash": "201957935dd970ec08b714324f16b7b8",
+        "hash": "46f545754ec4dedeb4ca505b0824b77a",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -28796,7 +28796,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=179",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/179-hbb.vpk",
         "data": ""
     },
     {
@@ -29298,7 +29298,7 @@
         "trailer": "",
         "size": "1196819",
         "data_size": "0",
-        "hash": "be9d065761ceacbee5dbe4b7ee6020e3",
+        "hash": "f786a0c12c4a40bb8e0a51e17e6628bb",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -29306,7 +29306,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=56",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/56-Vitamin.vpk",
         "data": ""
     },
     {
@@ -29898,7 +29898,7 @@
         "trailer": "",
         "size": "365423",
         "data_size": "0",
-        "hash": "a3dd6864f059c7fafe15dee4fe7cbcc8",
+        "hash": "c397dd5ec945564d991c2353447c31c9",
         "hash2": "",
         "changelog": "",
         "requirements": "",
@@ -29906,7 +29906,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=135",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/135-BattleShipArena.vpk",
         "data": ""
     },
     {

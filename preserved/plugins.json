@@ -421,15 +421,15 @@
         "source": "https://github.com/SKGleba/VitaTools/tree/main/fakegc/source",
         "release_page": "https://github.com/SKGleba/VitaTools",
         "trailer": "",
-        "size": "3017",
+        "size": "1386326",
         "data_size": "0",
-        "hash": null,
+        "hash": "d44e6fd479e240f03339348bb6547dcc",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=669"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/669-fakegcvita.7z"
     },
     {
         "name": "reVita",
@@ -565,15 +565,15 @@
         "source": "",
         "release_page": "https://kyuhen.customprotocol.com/en/submissions/mac_address_spoofer/",
         "trailer": "",
-        "size": "5261",
+        "size": "1502",
         "data_size": "0",
-        "hash": null,
+        "hash": "cb12b0ff2f27eda0c7e45fe0914f7477",
         "hash2": "",
         "changelog": "- First commit.",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=656"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/656-macaddressspoofervita.7z"
     },
     {
         "name": "hbRedirect",
@@ -685,15 +685,15 @@
         "source": "https://github.com/Voxel9/Vita-SysDualTouch",
         "release_page": "https://github.com/Voxel9/Vita-SysDualTouch/releases",
         "trailer": "",
-        "size": "2263",
+        "size": "4368",
         "data_size": "0",
-        "hash": null,
+        "hash": "24a55cf246072308c793af97413bb2f6",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=646"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/646-sysdualtouchvita.7z"
     },
     {
         "name": "PSV VSH Menu",
@@ -1405,15 +1405,15 @@
         "source": "https://github.com/xerpi/vitastick",
         "release_page": "https://github.com/xerpi/vitastick/releases",
         "trailer": "",
-        "size": "104344",
+        "size": "190452",
         "data_size": "0",
-        "hash": "",
+        "hash": "24cced04e56fd7ed0944b7e8dcff383b",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=236"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/236-vitastick.7z"
     },
     {
         "name": "Framecounter",
@@ -1477,15 +1477,15 @@
         "source": "https://github.com/Princess-of-Sleeping/sceShutterSoundPlayDisable",
         "release_page": "https://github.com/Princess-of-Sleeping/sceShutterSoundPlayDisable/releases",
         "trailer": "",
-        "size": "1618",
+        "size": "873",
         "data_size": "0",
-        "hash": "",
+        "hash": "b7f95076d4b6075101f1573482cf3672",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=373"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/373-scesspdvita.7z"
     },
     {
         "name": "NoPsmDrm",
@@ -1621,15 +1621,15 @@
         "source": "https://github.com/Princess-of-Sleeping/SceKernelModuleDumper",
         "release_page": "https://github.com/Princess-of-Sleeping/SceKernelModuleDumper/releases",
         "trailer": "",
-        "size": "8321",
+        "size": "10701",
         "data_size": "0",
-        "hash": "",
+        "hash": "7edc769d69a9d8d8b74ecad630afbc31",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=374"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/374-scekernelmoduledumpervita.7z"
     },
     {
         "name": "taiHen",
@@ -1671,13 +1671,13 @@
         "trailer": "",
         "size": "25630",
         "data_size": "0",
-        "hash": "",
+        "hash": "ae97f1d512a85d9b0743c7a9b821b067",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=355"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/355-renpdrm.zip"
     },
     {
         "name": "VITA2PC",
@@ -1885,15 +1885,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "72290",
+        "size": "436484",
         "data_size": "0",
-        "hash": "",
+        "hash": "30a119def5415f527cb30b3d66dcb8a2",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=276"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/276-adrbubblebootervita.7z"
     },
     {
         "name": "AutoBoot",
@@ -2053,15 +2053,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "4692",
+        "size": "11523",
         "data_size": "0",
-        "hash": "",
+        "hash": "21ea0b1c38fd5a6ce6007592349df30c",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=39"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/39-ds3vita.7z"
     },
     {
         "name": "viimote",
@@ -2077,15 +2077,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "6581",
+        "size": "14257",
         "data_size": "0",
-        "hash": "",
+        "hash": "b259196ffc181451fc6b413c146a2bf2",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=40"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/40-viimotevita.7z"
     },
     {
         "name": "noled",
@@ -2149,15 +2149,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "2638",
+        "size": "16186",
         "data_size": "0",
-        "hash": "",
+        "hash": "addab6ad5ad971c305cfb8565c8f02e8",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=287"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/287-uogamesdvita.7z"
     },
     {
         "name": "Lastseconds",
@@ -2173,15 +2173,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "86518",
+        "size": "10501",
         "data_size": "0",
-        "hash": "",
+        "hash": "8e1cbc519f6477fc77b74997dbfc4e67",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=280"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/280-lastsecondsvita.7z"
     },
     {
         "name": "WDNF",
@@ -2221,15 +2221,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "21457",
+        "size": "66085",
         "data_size": "0",
-        "hash": "",
+        "hash": "54ccd471455075a788407b9dfe2a8191",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=267"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/267-psp2shellvita.7z"
     },
     {
         "name": "VITAbattery",
@@ -2245,15 +2245,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "10",
+        "size": "51017",
         "data_size": "0",
-        "hash": "",
+        "hash": "03e767971c98662a78d54c798d46ea99",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=235"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/235-vitabattery.7z"
     },
     {
         "name": "idstorage dumper",
@@ -2271,13 +2271,13 @@
         "trailer": "",
         "size": "4230",
         "data_size": "0",
-        "hash": "",
+        "hash": "7c6435fde7dcb04be0469c6245f1491f",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=254"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/254-idstorage_dumper.zip"
     },
     {
         "name": "BrownNoise",
@@ -2389,15 +2389,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "9961",
+        "size": "9142",
         "data_size": "0",
-        "hash": "",
+        "hash": "d5b0af20bb759f57e68a1ace80f521e5",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=244"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/244-ultimatevshmenuvita.7z"
     },
     {
         "name": "ArkRightAnalog",
@@ -2413,15 +2413,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "1753",
+        "size": "33440",
         "data_size": "0",
-        "hash": "",
+        "hash": "9083ed8dedbdc105c120e2daa246e23c",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=241"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/241-arkrightanalogvita.7z"
     },
     {
         "name": "WDNR",
@@ -2485,15 +2485,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "1109",
+        "size": "2047",
         "data_size": "0",
-        "hash": "",
+        "hash": "0536eeed08c85a2ca203e85cb5d8d576",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=225"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/225-watermarkdisablervita.7z"
     },
     {
         "name": "Screenshot Enabler",
@@ -2511,13 +2511,13 @@
         "trailer": "",
         "size": "3163",
         "data_size": "0",
-        "hash": "",
+        "hash": "ec2104b17abc3bba35106999c62ef4ef",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=220"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/220-screenshot.zip"
     },
     {
         "name": "Wipeout 2048 Trainer",
@@ -2533,15 +2533,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "4597",
+        "size": "3794",
         "data_size": "0",
-        "hash": "",
+        "hash": "4845bfcc07e562f097052d5ee8c757c6",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=89"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/89-wipeout2048trainervita.7z"
     },
     {
         "name": "Soul Sacrifice Delta Trainer",
@@ -2559,13 +2559,13 @@
         "trailer": "",
         "size": "98020",
         "data_size": "0",
-        "hash": "",
+        "hash": "83ec8f68612672c631b27eb302e4f64a",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=74"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/74-soulsd.zip"
     },
     {
         "name": "Netcheck Bypass",
@@ -2629,15 +2629,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "15029",
+        "size": "22706",
         "data_size": "0",
-        "hash": "",
+        "hash": "68176cdf2e0db368790d5ea0db081ac1",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=87"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/87-killzonetrainervita.7z"
     },
     {
         "name": "c0ck blocker",
@@ -2679,13 +2679,13 @@
         "trailer": "",
         "size": "1851",
         "data_size": "0",
-        "hash": "",
+        "hash": "cdf5dfb7981bc5245ff8f15b97123801",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=67"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/67-history_wipe.zip"
     },
     {
         "name": "hidmouse",
@@ -2701,15 +2701,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "47032",
+        "size": "56811",
         "data_size": "0",
-        "hash": "",
+        "hash": "13129fd12fc80f6204cc674760fe7e62",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=268"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/268-hidmousevita.7z"
     },
     {
         "name": "ButtonSwap",
@@ -2749,15 +2749,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "97238",
+        "size": "12479",
         "data_size": "0",
-        "hash": "",
+        "hash": "de81925ca0159371d725f5ae208b9776",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=90"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/90-wofftrainervita.7z"
     },
     {
         "name": "rinCheat",
@@ -2797,15 +2797,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "94726",
+        "size": "12307",
         "data_size": "0",
-        "hash": "",
+        "hash": "5fe4f0127bdd72ca5fcd5c8ecd326758",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=86"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/86-unchartedtrainervita.7z"
     },
     {
         "name": "Unit13 Trainer",
@@ -2821,15 +2821,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "95886",
+        "size": "12726",
         "data_size": "0",
-        "hash": "",
+        "hash": "23b5c222f49c8f61d269c0f2debc95c7",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=85"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/85-unit13trainervita.7z"
     },
     {
         "name": "DukeMod Plugin",
@@ -2847,13 +2847,13 @@
         "trailer": "",
         "size": "14778",
         "data_size": "0",
-        "hash": "",
+        "hash": "f59a130a83108b5553631e795e2a127f",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=212"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/212-dukemod_plugin.zip"
     },
     {
         "name": "Better Amphetamin",
@@ -2869,15 +2869,15 @@
         "source": "",
         "release_page": "",
         "trailer": "",
-        "size": "94870",
+        "size": "106449",
         "data_size": "0",
-        "hash": "",
+        "hash": "ea604e78921c3caf94dadb53a7e6be30",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=41"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/41-betteramphetaminvita.7z"
     },
     {
         "name": "VitaMount",
@@ -2943,12 +2943,12 @@
         "trailer": "",
         "size": "34948",
         "data_size": "0",
-        "hash": "",
+        "hash": "360b0b3ff5dbbfb843475708ecdd0b4e",
         "hash2": "",
         "changelog": "",
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=199"
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/199-amphetamin_plugin.zip"
     }
 ]
