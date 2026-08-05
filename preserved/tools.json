@@ -646,5 +646,29 @@
         "trophies": "0",
         "tags": "",
         "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/314-qcmavita.7z"
+    },
+    {
+        "id": "1456",
+        "name": "GcNetworkBackup",
+        "author": "oestriot",
+        "version": "v.1.9",
+        "description": "Receive PSVITA game cart backups over the network.",
+        "long_description": "Companion application for GcToolKit. Receives a game cart backup from the PSVITA over the network, for use when no memory card is available.",
+        "changelog": "- First Release",
+        "requirements": "- GcToolKit on the PSVITA",
+        "url": "https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcNetworkBackup.exe",
+        "size": "403682",
+        "hash": "3b4bb4b61f8c5c8efa90fe18768eb955",
+        "hash2": "",
+        "data_size": "0",
+        "date": "2026-08-05",
+        "downloads": "0",
+        "release_page": "https://github.com/oestriot/GcToolKit/releases",
+        "source": "https://github.com/oestriot/GcToolKit",
+        "screenshots": "",
+        "status": "0",
+        "tags": "",
+        "trailer": "",
+        "trophies": "0"
     }
 ]
