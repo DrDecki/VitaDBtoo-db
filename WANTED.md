@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 5 entries survive in the catalogue with full metadata, but their download
+These 3 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -30,5 +30,3 @@ contributors. Verify anything before trusting it.
 | Tool | AdrBubbleBooterCreator | v.1.3 | Leecherman | 2.8 MB | [link](https://sites.google.com/site/theleecherman/adrbubblebooter/vpkedition) | - | [lead](https://github.com/xXxTheDarkprogramerxXx/AdrBubbleBooterCreator) |
 | Tool | NPS Browser | v.0.7.2 | jhonhenry10 | 0.1 MB | - | - | - |
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |
-| Vita | SwitchKaKu | MOD v.2.0 | kylon | 0.6 MB | - | - | - |
-| Vita | Voice Recorder Vita | v.1.0 | VitaHEX games | 2.2 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48444) | - | - |
