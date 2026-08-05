@@ -24,8 +24,8 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 | PSVITA homebrews | 1025 | 1025 |
 | Plugins | 123 | 123 |
 | PSP homebrews | 127 | 127 |
-| PC tools | 28 | 25 |
-| **Total** | **1303** | **1300 (99%)** |
+| PC tools | 28 | 26 |
+| **Total** | **1303** | **1301 (99%)** |
 
 | Asset | Recovered |
 | --- | ---: |
@@ -38,7 +38,7 @@ reconstructed from repositories, which is what makes this catalogue worth keepin
 
 ### Help wanted
 
-**3 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
+**2 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
 
 This does not need programming. It needs people who recognise a homebrew by its filename, or who still have the file lying on an old memory card. If you can match even one entry, open an issue: every link restored is an application that stops being lost.
 <!-- /STATS -->
