@@ -40,8 +40,10 @@ a = p.parse_args()
 
 target = 'psp_apps.json' if a.psp else 'apps.json'
 apps = load(target)
-other = load('apps.json' if a.psp else 'psp_apps.json')
-next_id = str(max(int(x['id']) for x in apps + other) + 1)
+belegt = []
+for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
+    belegt += load(f)
+next_id = str(max(int(x['id']) for x in belegt) + 1)
 
 print('downloading %s' % a.url)
 tmp = tempfile.NamedTemporaryFile(delete=False, suffix='.vpk')
