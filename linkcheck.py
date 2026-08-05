@@ -13,6 +13,25 @@ for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/too
             q.put((f, a['id'], a['name'], u))
 
 total = q.qsize()
+dupes = {}
+for f in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved/tools.json'):
+    for a in json.load(open(os.path.join(ROOT, f), encoding='utf-8')):
+        u = a.get('url', '')
+        if u and 'get_hb_url' not in u and not u.endswith('.php'):
+            t = a.get('titleid') or ''
+            if t.strip('A') == '':
+                t = ''
+            dupes.setdefault(u, []).append((t or '-', a['id'], a['name']))
+shared = {u: v for u, v in dupes.items() if len(v) > 1 and len(set(t for t, _, _ in v if t != '-')) > 1}
+if shared:
+    print()
+    print('%d URLs von Eintraegen mit verschiedener titleid geteilt:' % len(shared))
+    for u, v in shared.items():
+        print('  %s' % u[:74])
+        for t, i, nm in v:
+            print('     %-10s %-6s %s' % (t, i, nm[:32]))
+    print()
+
 print('%d URLs, %d Threads' % (total, WORKERS), flush=True)
 
 def run():
