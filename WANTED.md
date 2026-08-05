@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 25 entries survive in the catalogue with full metadata, but their download
+These 18 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -36,19 +36,12 @@ contributors. Verify anything before trusting it.
 | Tool | NPS Browser | v.0.7.2 | jhonhenry10 | 0.1 MB | - | - | - |
 | Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |
 | Vita | .hack//ez-i | v.1.0.3 | Twilight Games Studio | 0.9 MB | - | [page](https://www.gamebrew.org/wiki/Hackez-i_Vita) | - |
-| Vita | ABYSS | v.2.1 | Balder | 162.9 MB | [link](https://balderdragonslayer.itch.io/abyss) | [page](https://www.gamebrew.org/wiki/ABYSS_Vita) | - |
-| Vita | Chinese Social Credit Test | v.1.0 | Ximer | 37.0 MB | [link](https://ximer.itch.io/chinese-social-credit-test) | [page](https://www.gamebrew.org/wiki/Chinese_Social_Credit_Test_Vita) | - |
 | Vita | DS8 Drumstream | v.0.1 | Intermynd Instruments | 1.6 MB | [link](https://intermynd-instruments.itch.io/ds-8) | [page](https://www.gamebrew.org/wiki/DS8_Drumstream_Vita) | - |
-| Vita | DethKarz Remake | v.0.2.3.1 alpha | LachsProducktions | 152.1 MB | [link](https://lachsproducktions.itch.io/the-unofficial-dethkarz-remake) | [page](https://www.gamebrew.org/wiki/DethKarz_Remake_Vita) | - |
 | Vita | Freeway Mutant | v.1.0 | Loodanon | 4.1 MB | [link](https://gbatemp.net/threads/release-freeway-mutant-gamemaker-1-4-port-gaymaker.527870/) | - | - |
-| Vita | Hexagon Jumper | v.1.4.1 | cubic games official | 76.4 MB | [link](https://cubic-games-official.itch.io/hexagon-jumper) | [page](https://www.gamebrew.org/wiki/Hexagon_Jumper_Vita) | - |
 | Vita | Nazi Zombies Portable | Nightly | NZP Reboot Team & Rinnegatamante | 3.2 MB | [link](https://github.com/nzp-team/nzportable/releases) | - | - |
 | Vita | NooDS | Nightly | Hydr8gon | 0.4 MB | [link](https://github.com/Hydr8gon/NooDS/releases) | - | - |
 | Vita | Pacman CE DX Vita | v.1.0 | mcallbosco | 2.1 MB | [link](https://github.com/mcallbosco/pacman-cedx-vita) | [page](https://www.gamebrew.org/wiki/Pacman_CE_DX_Vita) | - |
-| Vita | Parkour Labs | v.1.2 | SoyKhaler | 41.3 MB | [link](https://soykhaler.itch.io/parkour-labs-vita-port) | [page](https://www.gamebrew.org/wiki/Parkour_Labs_Vita) | - |
 | Vita | Snake! | v.2.0 | Ccoolguy | 5.7 MB | [link](https://github.com/Ccoolguy/SnakeVita) | - | [lead](https://www.gamebrew.org/wiki/Snake_Ccoolguy_Vita) |
 | Vita | Super Hexagon Vita | v.1.0 | mcallbosco | 1.8 MB | [link](https://github.com/mcallbosco/super-hexagon-vita) | [page](https://www.gamebrew.org/wiki/Super_Hexagon_Vita) | - |
 | Vita | SwitchKaKu | MOD v.2.0 | kylon | 0.6 MB | - | - | - |
 | Vita | Voice Recorder Vita | v.1.0 | VitaHEX games | 2.2 MB | [link](http://wololo.net/talk/viewtopic.php?f=116&t=48444) | - | - |
-| Vita | Wrecking Wave | v.1.0 | brunu | 27.2 MB | [link](https://brunu.itch.io/wrecking-wave) | [page](https://www.gamebrew.org/wiki/Wrecking_Wave_Vita) | - |
-| Vita | iMango | v.1.0 | CapitanBarbaCoa | 3.6 MB | [link](https://capitanbarbacoa.itch.io/imango-psvita) | [page](https://www.gamebrew.org/wiki/IMango_Vita) | - |
