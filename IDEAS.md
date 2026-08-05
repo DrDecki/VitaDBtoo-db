@@ -33,14 +33,21 @@ is the remaining lead.
 
 ## Watching sources
 
-`watch_reddit.py` and `watch_judge.py` run daily and open an issue when someone
-announces a release that is not in the catalogue yet. They stay dormant until three
-secrets are set: `REDDIT_ID`, `REDDIT_SECRET` and `ANTHROPIC_API_KEY`. The first two
-come from a script-type app at reddit.com/prefs/apps.
+`watch_reddit.py` and `watch_report.py` run daily and open an issue listing new
+posts from the subreddits this catalogue watches. No API key and no account are
+needed. Posts linking to a repository already in the catalogue are marked and sorted
+to the bottom.
 
-Two things were tried first and do not work: Reddit's anonymous JSON endpoints and
-GBAtemp both answer 403 to anything that is not a browser. Reddit needs OAuth.
-GBAtemp would need a way around its bot protection and is probably not worth it.
+The list is deliberately unfiltered beyond that. A model could separate
+announcements from support questions, and `watch_judge.py` did exactly that before
+it was removed in favour of a plain list; the git history still has it. At forty
+posts a day, reading the titles is faster than checking a model's verdict.
+
+Reddit's JSON API and GBAtemp both answer 403 to anything that is not a browser,
+and creating a Reddit API application no longer works without going through their
+builder policy. The RSS feeds still work without any of that, which is what these
+scripts use. They return 429 if called too quickly, hence the pause between
+subreddits.
 
 X has no affordable API at all. This is the awkward part, because the idea came from
 devnoname120, who announces his own releases there and nowhere else. Posts on X will
