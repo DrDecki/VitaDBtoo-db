@@ -5748,7 +5748,7 @@
         "trailer": "",
         "size": "580635133",
         "data_size": "0",
-        "hash": "9f8ec6ff8f24328470b73f4630c1b897",
+        "hash": "85a3be0924f9c02d00cffe4567fa16b9",
         "hash2": "",
         "changelog": "- Added video support.\n- Added languages: Russian, Spanish, Italian, French, Chinese.",
         "requirements": "",
@@ -5756,7 +5756,7 @@
         "tags": "",
         "ai": "0",
         "score": "75.8",
-        "url": "https://web.archive.org/web/20250307193928id_/https://www.rinnegatamante.eu/files/vitadb/everlasting_summer.vpk",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1118-everlasting_summer.vpk",
         "data": ""
     },
     {
@@ -10368,7 +10368,7 @@
         "trailer": "",
         "size": "73075945",
         "data_size": "0",
-        "hash": "b057e4944d90b0d54007ca1d9c96e6d1",
+        "hash": "bc6fddf8a6b1f2b41a795b59111184d3",
         "hash2": "4d535f6ed14851b31d936688859ec2d0",
         "changelog": "- First Release.",
         "requirements": "",
@@ -10376,7 +10376,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://web.archive.org/web/20250207102837id_/https://www.rinnegatamante.eu/files/vitadb/BonkBots.vpk",
+        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1149-BonkBots.vpk",
         "data": ""
     },
     {
