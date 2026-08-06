@@ -37,7 +37,7 @@ what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
 | Metadata | 100% (1296 entries) |
 | Icons | 100% (1351) |
 | Screenshots | 100% (2186 of 2186) |
-| Trailers | 24% (15 of 62) |
+| Trailers | 100% (62 of 62) |
 | Data files | 32% (44 of 137) |
 | In-game trophies | 100% (28 of 28 sets) |
 
@@ -84,8 +84,6 @@ Known consumers: [VitaForge](https://github.com/josephinoo) by josephinoo, and
 Nothing, as of 2026-08-06. Every entry has a working download, every screenshot and
 every trophy set VitaDB carried has been recovered.
 
-- **Trailers**: 15 of 62 play again. The rest are YouTube links that were never
-  hosted by VitaDB.
 - **Data files**: some game data still points at the authors' own servers rather than
   a copy kept here.
 - **Download counts** are frozen at the numbers VitaDB recorded on 31.07.2026. Static
