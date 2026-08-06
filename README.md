@@ -36,7 +36,7 @@ what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
 | --- | ---: |
 | Metadata | 100% (1296 entries) |
 | Icons | 100% (1351) |
-| Screenshots | 26% (561 of 2186) |
+| Screenshots | 100% (2186 of 2186) |
 | Trailers | 24% (15 of 62) |
 | Data files | 32% (44 of 137) |
 | In-game trophies | 100% (28 of 28 sets) |
@@ -81,13 +81,15 @@ Known consumers: [VitaForge](https://github.com/josephinoo) by josephinoo, and
 
 ## What is missing
 
-- **269 downloads**, listed in [WANTED.md](WANTED.md). Contributions welcome.
-- **Screenshots**: 561 of about 2200 recovered, from the Internet Archive and from
-  the restored VitaDB. The rest belonged to other authors and is gone.
-- **Trailers**: 15 of 62 are playable again. Two are mirrored here; the rest are
-  either hosted on the restored VitaDB or are YouTube links.
-- **Trophy data**: gone. The definitions were authored by third parties and were not
-  part of the restored site.
+Nothing, as of 2026-08-06. Every entry has a working download, every screenshot and
+every trophy set VitaDB carried has been recovered.
+
+- **Trailers**: 15 of 62 play again. The rest are YouTube links that were never
+  hosted by VitaDB.
+- **Data files**: some game data still points at the authors' own servers rather than
+  a copy kept here.
+- **Download counts** are frozen at the numbers VitaDB recorded on 31.07.2026. Static
+  hosting cannot count.
 
 Themes are unaffected and continue to work: they have always been hosted separately at
 [CatoTheYounger97/vitaDB_themes](https://github.com/CatoTheYounger97/vitaDB_themes).

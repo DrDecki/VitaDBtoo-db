@@ -17,8 +17,12 @@ This matters more than anything else on this page.
 
 ## Screenshots
 
-561 of 2186 recovered. The rest were on the old webhost. They are cosmetic, but they
-are also the largest remaining gap in the metadata.
+Recovered in full on 2026-08-06. The files were still on the old webhost the whole
+time: `/vitadb/screenshots/` refuses a directory listing, but individual files answer
+normally, so all 2186 could simply be fetched one by one.
+
+Worth remembering as a general lesson: a 403 on a directory says nothing about the
+files inside it.
 
 ## The 26 entries in WANTED.md
 
