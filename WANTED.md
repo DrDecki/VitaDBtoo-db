@@ -1,5 +1,5 @@
 # Wanted: missing downloads
-These 1 entries survive in the catalogue with full metadata, but their download
+These 0 entries survive in the catalogue with full metadata, but their download
 link died with the VitaDB webhost and could not be recovered automatically.
 
 If you have one of these files, or know where it lives now, please open an issue
@@ -27,4 +27,3 @@ contributors. Verify anything before trusting it.
 
 | Type | Name | Version | Author | Size | Known source | GameBrew | Other leads |
 | --- | --- | --- | --- | ---: | --- | --- | --- |
-| Tool | PSVitaStuff | v.1.2 | Rudi Rastelli | 1.6 MB | - | - | [lead](https://gbatemp.net/threads/release-psvitastuff-manage-your-psvita-nonpdrm-stuff.488870/) |

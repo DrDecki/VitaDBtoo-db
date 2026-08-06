@@ -1303,7 +1303,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | PkgDecrypt | st4rk & weaknespase | v.1.1 | 0.2 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/321-pkgdecryptvita.7z) | — |
 | psvimgtools | yifanlu | v.0.1 | 6.0 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/316-psvimgtoolsvitayif.7z) | — |
 | Psvimgtools Easy Frontend | MrGhidini | v.1.8.7 | 50.3 MB | [download](https://github.com/MRGhidini/Psvimgtools-Easy-FrontEnd/releases/download/1.8.7/Psvimgtools.Easy.FrontEnd.1.8.7.zip) | [repo](https://github.com/MRGhidini/Psvimgtools-Easy-FrontEnd) |
-| PSVitaStuff | Rudi Rastelli | v.1.2 | 1.6 MB | — | — |
+| PSVitaStuff | Rudi Rastelli | v.1.2 | 1.6 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/349-PSVitaStuff.zip) | — |
 | psvpfstools | motoharu | v.2.0 | 0.3 MB | [download](https://github.com/motoharu-gosuto/psvpfstools/releases/download/v2.0/release_ubuntu64.zip) | [repo](https://github.com/motoharu-gosuto/psvpfstools) |
 | psvtools | kageurufu | v.0.1.0 | 0.0 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/322-psvtoolsvita.7z) | — |
 | PSVTrimmer | pez2k | v.0.1 Alpha | 0.0 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/318-psvtrimmervita.7z) | — |
