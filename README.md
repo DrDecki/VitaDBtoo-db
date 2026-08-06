@@ -38,12 +38,12 @@ what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
 | Icons | 100% (1351) |
 | Screenshots | 100% (2186 of 2186) |
 | Trailers | 100% (62 of 62) |
-| Data files | 32% (44 of 137) |
+| Data files | 75% (103 of 137) |
 | In-game trophies | 100% (28 of 28 sets) |
 
 ### Help wanted
 
-**0 downloads and 93 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
+**0 downloads and 34 data files are still missing.** They are listed with author, version and file size in [WANTED.md](WANTED.md).
 
 This does not need programming. It needs people who recognise a homebrew by its filename, or who still have the file lying on an old memory card. If you can match even one entry, open an issue: every link restored is an application that stops being lost.
 <!-- /STATS -->
