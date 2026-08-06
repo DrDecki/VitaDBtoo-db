@@ -105,6 +105,9 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
         if cur_stem and new_stem and cur_stem not in new_stem and new_stem not in cur_stem:
             skipped.append('%s: %s is a different file, not a newer %s' % (a['name'], best['name'], cur))
             continue
+        if cur.lower().endswith('.vpk') and not best['name'].lower().endswith('.vpk'):
+            skipped.append('%s: %s is an archive, the entry links a VPK' % (a['name'], best['name']))
+            continue
         if 'v.' + (best_tag or '').lstrip('vV.') == a.get('version', ''):
             skipped.append('%s: %s is the same version, nothing to update' % (a['name'], best_tag))
             continue
