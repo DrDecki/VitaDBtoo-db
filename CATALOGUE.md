@@ -201,7 +201,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | DeathRun To Vita | Vektast | Build 531 | 1.9 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/253-DeathRun.vpk) | [repo](http://wololo.net/talk/viewtopic.php?t=46567) |
 | Defender II Vita | Rocroverss | v.1.01 | 2.3 MB | [download](https://github.com/Rocroverss/Defender-II-PS-Vita-Port/releases/download/v1.01/defender2_vita_1.01.vpk) | [repo](https://github.com/Rocroverss/Defender-II-PS-Vita-Port) |
 | Defendguin | Island_Games | v.1.0 | 2.8 MB | [download](https://github.com/island-games/Defendguin/releases/download/v1.0/Defendguin.vpk) | [repo](https://github.com/island-games/Defendguin) |
-| Deltarune Vita | ChatGPT AI | v.0.67 | 60.5 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.67/Deltarune-v0.67.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
+| Deltarune Vita | ChatGPT AI | v.0.68 | 5.5 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.68/Deltarune-v0.68.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
 | Demons Down | WIDEGCG | v.1.0 | 45.5 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/679-DemonsDown.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/demonsdown/) |
 | Desert Golfing Vita | Rinnegatamante | v.1.0 | 0.5 MB | [download](https://github.com/Rinnegatamante/desertgolfing_vita/releases/download/v.1.0/desertgolfing.vpk) | [repo](https://github.com/Rinnegatamante/desertgolfing_vita) |
 | DeSmuME-Vita | MasterFeizz | v.0.2 | 1.8 MB | [download](https://github.com/masterfeizz/DeSmuME-Vita/releases/download/v0.2/desmume.vpk) | [repo](https://github.com/masterfeizz/DeSmuME-Vita) |
@@ -511,7 +511,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | Naruto Boruto | gambikules | v.2 | 46.6 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/510-NarutoBoruto.vpk) | — |
 | Naught 2 Vita | usineur | v.1.1 | 1.7 MB | [download](https://github.com/usineur/naught2-vita/releases/download/v1.1/naught2.vpk) | [repo](https://github.com/usineur/naught2-vita) |
 | Naught Vita | usineur | v.1.1 | 2.3 MB | [download](https://github.com/usineur/naught-vita/releases/download/v1.1/naught.vpk) | [repo](https://github.com/usineur/naught-vita) |
-| Nazi Zombies Portable | NZP Reboot Team & Rinnegatamante | Nightly | 3.4 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1028-nzp.vpk) | [repo](https://github.com/nzp-team/nzportable) |
+| Nazi Zombies Portable | NZP Reboot Team & Rinnegatamante | v.nightly | 91.1 MB | [download](https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-vita.zip) | [repo](https://github.com/nzp-team/nzportable) |
 | NBA Jam Vita | elliencode | v.1.00 | 2.3 MB | [download](https://github.com/elliencode/nba-jam-psv/releases/download/v1.00/com.eamobile.nbajam_row_wf-v1.00.vpk) | [repo](https://github.com/elliencode/nba-jam-psv) |
 | Neet Girl Date Night Vita | raidengugga | v.01.00 | 13.8 MB | [download](https://github.com/raidengugga/Neet-Girl-Date-Night-PSVITA/releases/download/Latest/NGDN-01.00.vpk) | [repo](https://github.com/raidengugga/Neet-Girl-Date-Night-PSVITA) |
 | Neighbours from Hell | MaloneCZSD | v.1.0 | 12.6 MB | [download](https://github.com/MaloneCZSD/NFH-PS-VITA/releases/download/V1.0/NFHV1.0.vpk) | [repo](https://github.com/malone46/NFH-PS-VITA/) |
