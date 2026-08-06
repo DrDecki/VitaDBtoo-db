@@ -4,7 +4,7 @@ These were never on VitaDB. They were contributed afterwards, mostly by their
 own authors, and are kept apart so the preserved catalogue stays exactly what
 it was.
 
-## PSVITA homebrews (9)
+## PSVITA homebrews (10)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -15,8 +15,15 @@ it was.
 | Minecraft: Story Mode | LeZergan | v.1.10 | 3.3 MB | [download](https://github.com/LeZergan/mcsm-vita/releases/download/v1.10/MCSM-1.10.vpk) | [repo](https://github.com/LeZergan/mcsm-vita) |
 | NXENGINE-EVO | nxengine | v.2.6.5 | 10.0 MB | [download](https://github.com/nxengine/nxengine-evo/releases/download/v2.6.5/NXEngine-Evo-v2.6.5-Vita.vpk) | [repo](https://github.com/nxengine/nxengine-evo) |
 | The Four of Us Are Dying | noradninja | v.1.0 | 109.0 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/TFoUAD.vpk) | [repo](https://github.com/noradninja/The-Four-of-Us-Are-Dying) |
+| VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [repo](https://github.com/SKGleba/VitaDeploy) |
 | VitaForge | josephinoo | v.0.1.0 | 4.1 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.0/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [repo](https://github.com/LiEnby/real-package-installer) |
+
+## Plugins (1)
+
+| Name | Author | Version | Size | Download | Source |
+| --- | --- | --- | ---: | --- | --- |
+| uac-pstv-host | SJK132 | v.0.2 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v0.2/uac_pstv.skprx) | [repo](https://github.com/SJK132/uac-pstv-host) |
 
 ## PC tools (6)
 
