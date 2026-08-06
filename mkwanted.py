@@ -33,6 +33,22 @@ for fname, label in (('apps.json', 'Vita'), ('psp_apps.json', 'PSP'),
 
 out = []
 out.append('# Wanted: missing downloads\n')
+if not rows:
+    out = ['# Nothing wanted right now' + chr(10) + chr(10)]
+    out.append('Every entry VitaDB held on 31.07.2026 has a working download again.' + chr(10) + chr(10))
+    out.append('That took the whole scene, not one person. LiEnby kept an old cbpsdb mirror' + chr(10))
+    out.append('alive that still had files nobody else could find. ChassyFlaps went through the' + chr(10))
+    out.append('list by hand and sent back a page of sources. devnoname120 turned up PSVitaStuff,' + chr(10))
+    out.append('the very last one missing. Cimmerian-Iter insisted early on that anything handed' + chr(10))
+    out.append('over should be verified, which is why every recovered file here was matched' + chr(10))
+    out.append('against the size VitaDB recorded. GameBrew and Brewology had quietly kept copies' + chr(10))
+    out.append('for years. Several authors simply sent their own builds when asked.' + chr(10) + chr(10))
+    out.append('Thank you.' + chr(10) + chr(10))
+    out.append('If something breaks again, or you spot an entry pointing at the wrong file,' + chr(10))
+    out.append('open an issue. This page will fill back up on its own when it needs to.' + chr(10))
+    open(os.path.join(ROOT, 'WANTED.md'), 'w', encoding='utf-8').writelines(out)
+    print('WANTED.md: nichts offen')
+    raise SystemExit
 out.append('These %d entries survive in the catalogue with full metadata, but their download\n' % len(rows))
 out.append('link died with the VitaDB webhost and could not be recovered automatically.\n\n')
 out.append('If you have one of these files, or know where it lives now, please open an issue\n')

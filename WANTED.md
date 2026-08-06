@@ -1,29 +1,16 @@
-# Wanted: missing downloads
-These 0 entries survive in the catalogue with full metadata, but their download
-link died with the VitaDB webhost and could not be recovered automatically.
+# Nothing wanted right now
 
-If you have one of these files, or know where it lives now, please open an issue
-or a pull request.
+Every entry VitaDB held on 31.07.2026 has a working download again.
 
-**What is needed is a stable direct URL a PSVITA can fetch without a browser.**
-A GitHub release asset works. An archive.org item works. An itch.io page does not,
-because it serves through signed one-time links. A page that only works in a browser
-is still a useful lead: send it anyway and the file can be mirrored here.
-If the file matches the MD5 listed in the catalogue it is the exact build VitaDB
-served, which settles any doubt about what it is.
+That took the whole scene, not one person. LiEnby kept an old cbpsdb mirror
+alive that still had files nobody else could find. ChassyFlaps went through the
+list by hand and sent back a page of sources. devnoname120 turned up PSVitaStuff,
+the very last one missing. Cimmerian-Iter insisted early on that anything handed
+over should be verified, which is why every recovered file here was matched
+against the size VitaDB recorded. GameBrew and Brewology had quietly kept copies
+for years. Several authors simply sent their own builds when asked.
 
-The file size below is the one VitaDB recorded, which makes it easy to confirm a
-candidate is the right build.
+Thank you.
 
-Everything GameBrew still hosts has already been recovered and mirrored: 108 entries
-were restored that way. A [GameBrew](https://www.gamebrew.org) link in the table below
-therefore means the wiki documents the homebrew but holds no copy of the file.
-
-The last column collects other leads. `cbpsdb` points at an old mirror of VitaDB
-kept by LiEnby at [gitlab.com/SilicaAndPina/cbpsdb](https://gitlab.com/SilicaAndPina/cbpsdb);
-those files predate this snapshot, so none of them match the MD5 recorded here and
-entries marked `?` share a title ID with other homebrew. `lead` entries were found by
-contributors. Verify anything before trusting it.
-
-| Type | Name | Version | Author | Size | Known source | GameBrew | Other leads |
-| --- | --- | --- | --- | ---: | --- | --- | --- |
+If something breaks again, or you spot an entry pointing at the wrong file,
+open an issue. This page will fill back up on its own when it needs to.
