@@ -51,7 +51,7 @@ def newer(new, old):
     a, b = vernum(new), vernum(old)
     if not a or not b:
         return True
-    return a >= b
+    return a > b
 
 def usable(name, want_ext, entry_slug):
     low = name.lower()
@@ -114,24 +114,24 @@ for fname in ('apps.json', 'psp_apps.json', 'preserved/plugins.json', 'preserved
         if best_score < 0.55 or best_score < cur_score:
             skipped.append('%s: best candidate %s scored %.2f, keeping %s' % (a['name'], best['name'], best_score, cur))
             continue
-        if best['size'] > MAX_MB * 1048576:
-            skipped.append('%s: %s is %.0f MB, over the limit' % (a['name'], best['name'], best['size'] / 1048576.0))
-            continue
-        try:
-            req = urllib.request.Request(best['browser_download_url'], headers={'User-Agent': 'vitadbtoo'})
-            with urllib.request.urlopen(req, timeout=300) as r:
-                blob = r.read()
-        except Exception as e:
-            skipped.append('%s: download failed, %s' % (a['name'], str(e)[:40]))
-            continue
+        gross = best['size'] > MAX_MB * 1048576
+        blob = None
+        if not gross:
+            try:
+                req = urllib.request.Request(best['browser_download_url'], headers={'User-Agent': 'vitadbtoo'})
+                with urllib.request.urlopen(req, timeout=300) as r:
+                    blob = r.read()
+            except Exception as e:
+                skipped.append('%s: download failed, %s' % (a['name'], str(e)[:40]))
+                continue
         old_v, old_f = a.get('version', '?'), cur
         a['url'] = best['browser_download_url']
-        a['size'] = str(len(blob))
-        a['hash'] = hashlib.md5(blob).hexdigest()
+        a['size'] = str(len(blob) if blob is not None else best['size'])
+        a['hash'] = hashlib.md5(blob).hexdigest() if blob is not None else ''
         if best_tag:
             a['version'] = 'v.' + best_tag.lstrip('vV.')
         changes.append('- **%s** %s -> %s  \n  `%s` -> `%s` (%.1f MB, match %.2f)' % (
-            a['name'], old_v, a.get('version'), old_f, best['name'], len(blob) / 1048576.0, best_score))
+            a['name'], old_v, a.get('version'), old_f, best['name'], best['size'] / 1048576.0, best_score))
         dirty = True
         time.sleep(0.5)
     if dirty:
