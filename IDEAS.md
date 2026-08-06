@@ -15,6 +15,16 @@ but has suspended bulk uploads before, so it cannot be the only answer either.
 
 This matters more than anything else on this page.
 
+## Data files
+
+34 entries still point their data archive at the old webhost. One of them,
+ufoai-vita at 1.2 GB, simply failed to upload and only needs a retry. The other 33
+are gone from there: Rinnegatamante kept his own files and removed everyone else's,
+which is exactly the split between what still answers and what does not.
+
+27 of those 33 have a GitHub repository, which is where to look next. The rest need
+the same treatment the downloads got.
+
 ## Screenshots
 
 Recovered in full on 2026-08-06. The files were still on the old webhost the whole
