@@ -544,7 +544,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | OpenJazz | usineur | v.1.1 | 0.7 MB | [download](https://github.com/usineur/openjazz/releases/download/1.1/OpenJazz.vpk) | [repo](https://github.com/usineur/openjazz) |
 | OpenMoktar | usineur | v.1.0 | 0.5 MB | [download](https://github.com/usineur/opentitus/releases/download/1.0/Moktar.vpk) | [repo](https://github.com/usineur/opentitus) |
 | OpenMRac Vita | Rinnegatamante | v.1.0.1 | 6.9 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1127-OpenMRac.vpk) | [repo](https://github.com/Rinnegatamante/OpenMRac) |
-| OpenMW Vita | KingTorro | v.2.1 | 160.6 MB | [download](https://github.com/TheLostPantheon/openmw/releases/download/v2.1/openmw.vpk) | [repo](https://github.com/TheLostPantheon/openmw) |
+| OpenMW Vita | KingTorro | v.2.1.1 | 160.6 MB | [download](https://github.com/TheLostPantheon/openmw/releases/download/v2.1.1/openmw.vpk) | [repo](https://github.com/TheLostPantheon/openmw) |
 | OpenNow Vita | josephinoo | v.0.3.0 | 6.3 MB | [download](https://github.com/OpenCloudGaming/OpenNOW-vita/releases/download/v0.3.0/opennow-vita.vpk) | [repo](https://github.com/OpenCloudGaming/OpenNOW-vita) |
 | OpenRCT2-CE Vita | technicaljicama | v.1 | 4.5 MB | [download](https://github.com/technicaljicama/OpenRCT2-CE/releases/download/vita-1/openrct2.vpk) | [repo](https://github.com/technicaljicama/OpenRCT2-CE) |
 | OpenSeason | InquisitionImplied | v.1.0 | 30.0 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/466-OpenSeason.vpk) | [repo](https://twitter.com/Yoyogames28/status/1120550464121122816) |
