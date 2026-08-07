@@ -143,3 +143,7 @@ If you build a client or another catalogue on top of this data, please link back
 to this repository. The metadata is not mine to license, so this is a request
 rather than a condition, but a fair amount of work went into recovering it and
 being credited for that is the only thing asked in return.
+
+## Support
+
+This is a spare-time project and the catalogue is free to use, with or without a client of mine. If it saved you a homebrew you thought was gone, there is a [Ko-fi](https://ko-fi.com/drdecki).
