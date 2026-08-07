@@ -4,10 +4,11 @@ These were never on VitaDB. They were contributed afterwards, mostly by their
 own authors, and are kept apart so the preserved catalogue stays exactly what
 it was.
 
-## PSVITA homebrews (10)
+## PSVITA homebrews (11)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
+| Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/BatmanDoom.vpk) | — |
 | GCToolKit | oestriot | v.1.9 | 2.0 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcToolKit.vpk) | [repo](https://github.com/oestriot/GcToolKit) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [repo](https://github.com/largepelotas/JaVitaScript-Snake) |
 | Lego Island | isledecomp | v.0.1 | 6.8 MB | [download](https://github.com/isledecomp/isle-portable/releases/download/continuous/isle.vpk) | [repo](https://github.com/isledecomp/isle-portable) |
