@@ -102,7 +102,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | Blasphemous Vita | gl00mm | beta.1 | 410.0 MB | [download](https://github.com/gl00mm/Blasphemous_PSVITA/releases/download/Blasphemous_PSVITA-beta.1/BlasphemousVitaSTEAM.zip) | [repo](https://github.com/gl00mm/Blasphemous_PSVITA) |
 | Blockamok Remix | Mode8fx | v.1.2 | 2.5 MB | [download](https://github.com/Mode8fx/blockamok/releases/download/v1.21/BlockamokRemix-v1.2-vita.vpk) | [repo](https://github.com/Mode8fx/blockamok) |
 | BlockOut II | bomblik | v.BlockOut_II_PSVITA_2.5 | 5.8 MB | [download](https://github.com/bomblik/BlockOut_II_PSVITA/releases/download/BlockOut_II_PSVITA_2.5/BlockOut_II.vpk) | [repo](https://github.com/bomblik/BlockOut_II_PSVITA) |
-| Bloons TD 5 Vita | Claude AI | v.1.0.0 | 0.9 MB | [download](https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.0.0/btd5-vita-v1.00.vpk) | [repo](https://github.com/reallootfury/bloons-td-5-vita) |
+| Bloons TD 5 Vita | Claude AI | v.1.01 | 0.9 MB | [download](https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.01/btd5-vita-v1.01.vpk) | [repo](https://github.com/reallootfury/bloons-td-5-vita) |
 | Blue Bayou | bokoyoss | v.1.0 | 24.9 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/818-BlueBayouVita.vpk) | [repo](https://bokonon-yossarian.itch.io/blue-bayou) |
 | BoggleVita | SoulTieGames | v.ita | 3.3 MB | [download](https://github.com/SoulTieGames/BoggleVita/releases/download/Vita/boggle_v2.0.VPK) | [repo](https://github.com/SoulTieGames/BoggleVita) |
 | BonkBots! | Almidasa Studios | v.1.0 | 69.7 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1149-BonkBots.vpk) | [repo](https://fuhen.homebrew-contest.com/submissions/69/) |
@@ -248,7 +248,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | Eldritch Vita | Rinnegatamante | v.1.2 | 4.3 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1100-Eldritch.vpk) | [repo](https://github.com/Rinnegatamante/eldritch-vita) |
 | ElevenMPV | joel16 | v.2.10 | 2.3 MB | [download](https://github.com/joel16/ElevenMPV/releases/download/v2.10/ElevenMPV.vpk) | [repo](https://github.com/joel16/ElevenMPV) |
 | Emu4Vita Arch | yizhigai | v.1.10 | 18.6 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1094-Emu4VitaArch.vpk) | [repo](https://gitee.com/yizhigai/Emu4Vita) |
-| Emu4Vita++ | noword | v.0.71 | 159.1 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1260-Emu4VitaPlus.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
+| Emu4Vita++ | noword | v.0.77 | 187.6 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.77/Emu4VitaPlus_v0.77.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
 | EnbornX Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/enbornx_vita/releases/download/v.1.0/enbornx.vpk) | [repo](https://github.com/Rinnegatamante/enbornx_vita) |
 | Enigma | rsn8887 | v.1.11 | 5.0 MB | [download](https://github.com/rsn8887/Enigma/releases/download/1.16/enigma_1.11.vpk) | [repo](https://github.com/rsn8887/Enigma) |
 | enso ex Installer | SKGleba & Team Molecule | v.5.0 | 0.1 MB | [download](https://github.com/SKGleba/enso_ex/releases/download/v5.0/enso_ex.vpk) | [repo](https://github.com/SKGleba/enso_ex) |

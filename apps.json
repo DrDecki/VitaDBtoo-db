@@ -722,7 +722,7 @@
     {
         "name": "Bloons TD 5 Vita",
         "icon": "65789c5aebcdb85aa611c134f74f7d8365b0787e45ddf1351d2609be140f7287.png",
-        "version": "v.1.0.0",
+        "version": "v.1.01",
         "author": "Claude AI",
         "type": "2",
         "description": "Port of Bloons TD 5 for PSVita.",
@@ -736,9 +736,9 @@
         "source": "https://github.com/reallootfury/bloons-td-5-vita",
         "release_page": "https://github.com/reallootfury/bloons-td-5-vita/releases",
         "trailer": "",
-        "size": "944413",
+        "size": "956984",
         "data_size": "0",
-        "hash": "8a47eae6731e2cd14550b5675ce3997e",
+        "hash": "de8240b34bc2720b0f7b371a351334d5",
         "hash2": "",
         "changelog": "- First Release.",
         "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
@@ -746,7 +746,7 @@
         "tags": "",
         "ai": "1",
         "score": "76.4",
-        "url": "https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.0.0/btd5-vita-v1.00.vpk",
+        "url": "https://github.com/reallootfury/bloons-td-5-vita/releases/download/v1.01/btd5-vita-v1.01.vpk",
         "data": ""
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "name": "Emu4Vita++",
         "icon": "5d477df9a54e8716a41c634947fefbc5f8fb1bd9d024cf5d6c1d2d177facfc0d.png",
-        "version": "v.0.71",
+        "version": "v.0.77",
         "author": "noword",
         "type": "5",
         "description": "Libretro frontend for PSVITA.",
@@ -1216,9 +1216,9 @@
         "source": "https://github.com/noword/Emu4VitaPlus",
         "release_page": "https://github.com/noword/Emu4VitaPlus/releases",
         "trailer": "",
-        "size": "166871885",
+        "size": "196707802",
         "data_size": "0",
-        "hash": "effa1dffd292a4c135841917bb5d05fb",
+        "hash": "",
         "hash2": "",
         "changelog": "- Fix bugs\n- Support multi touch\n- Enable URI game launch similar to Retroarch, thanks to hamadrehman for providing the code.",
         "requirements": "",
@@ -1226,7 +1226,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1260-Emu4VitaPlus.vpk",
+        "url": "https://github.com/noword/Emu4VitaPlus/releases/download/v0.77/Emu4VitaPlus_v0.77.vpk",
         "data": ""
     },
     {
