@@ -1232,7 +1232,7 @@
     {
         "name": "Emu4Vita++",
         "icon": "5d477df9a54e8716a41c634947fefbc5f8fb1bd9d024cf5d6c1d2d177facfc0d.png",
-        "version": "v.0.77",
+        "version": "v.0.78",
         "author": "noword",
         "type": "5",
         "description": "Libretro frontend for PSVITA.",
@@ -1246,7 +1246,7 @@
         "source": "https://github.com/noword/Emu4VitaPlus",
         "release_page": "https://github.com/noword/Emu4VitaPlus/releases",
         "trailer": "",
-        "size": "196707802",
+        "size": "197044944",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -1256,7 +1256,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/noword/Emu4VitaPlus/releases/download/v0.77/Emu4VitaPlus_v0.77.vpk",
+        "url": "https://github.com/noword/Emu4VitaPlus/releases/download/v0.78/Emu4VitaPlus_v0.78.vpk",
         "data": ""
     },
     {
