@@ -511,7 +511,7 @@
     },
     {
         "name": "OpenMW Vita",
-        "icon": "6900fb1e14ac8ee119689ec3263e02f05463c79ac40b8f169e83967ce3ceabc6.png",
+        "icon": "7019f6d9fb12a2e53ebbc24f0fd3bb6cf2807dabfdd4c94330b7c5f9378124f2.png",
         "version": "v.2.1.1",
         "author": "KingTorro",
         "type": "2",
@@ -26978,7 +26978,7 @@
         "description": "Shows info about your PSVITA.",
         "id": "26",
         "date": "2017-10-17",
-        "titleid": "VID000016",
+        "titleid": "VID000162",
         "screenshots": "",
         "long_description": "VITAident is a tool inspired by PSPident - which was originally developed by Jas0nuk and later updated by Yoti. The tool was used to obtain more information about your PSP's motherboard, firmware etc. Similarly the VITA version - VITAident aims to display more information about your PS VITA. It is currently a work in progress.",
         "downloads": "14374",
