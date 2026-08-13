@@ -201,7 +201,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | DeathRun To Vita | Vektast | Build 531 | 1.9 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/253-DeathRun.vpk) | [repo](http://wololo.net/talk/viewtopic.php?t=46567) |
 | Defender II Vita | Rocroverss | v.1.01 | 2.3 MB | [download](https://github.com/Rocroverss/Defender-II-PS-Vita-Port/releases/download/v1.01/defender2_vita_1.01.vpk) | [repo](https://github.com/Rocroverss/Defender-II-PS-Vita-Port) |
 | Defendguin | Island_Games | v.1.0 | 2.8 MB | [download](https://github.com/island-games/Defendguin/releases/download/v1.0/Defendguin.vpk) | [repo](https://github.com/island-games/Defendguin) |
-| Deltarune Vita | ChatGPT AI | v.0.68 | 5.5 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.68/Deltarune-v0.68.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
+| Deltarune Vita | ChatGPT AI | v.0.69 | 2.3 MB | [download](https://github.com/WolffsRoom/DeltaruneVita/releases/download/v0.69/Deltarune-v0.69.vpk) | [repo](https://github.com/WolffsRoom/DeltaruneVita) |
 | Demons Down | WIDEGCG | v.1.0 | 45.5 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/679-DemonsDown.vpk) | [repo](https://kyuhen.customprotocol.com/en/submissions/demonsdown/) |
 | Desert Golfing Vita | Rinnegatamante | v.1.0 | 0.5 MB | [download](https://github.com/Rinnegatamante/desertgolfing_vita/releases/download/v.1.0/desertgolfing.vpk) | [repo](https://github.com/Rinnegatamante/desertgolfing_vita) |
 | DeSmuME-Vita | MasterFeizz | v.0.2 | 1.8 MB | [download](https://github.com/masterfeizz/DeSmuME-Vita/releases/download/v0.2/desmume.vpk) | [repo](https://github.com/masterfeizz/DeSmuME-Vita) |
@@ -956,7 +956,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | vitaQuakeII | Rinnegatamante | v.2.4 | 5.4 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/278-vitaQuakeII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeII) |
 | vitaQuakeIII | Rinnegatamante | v.1.3 | 4.4 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/375-vitaQuakeIII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeIII) |
 | VitaRebootShutdown | McCallum99 | v.1.08 | 0.2 MB | [download](https://github.com/McCallum99/PSVitaRebootShutdown/releases/download/v1.08/VitaRebootShutdown.vpk) | [repo](https://github.com/McCallum99/PSVitaRebootShutdown) |
-| VitaRPS5 | Claude AI & ywnico & AAGaming | v.3.0.2 | 3.5 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.0.2/VitakiFork-v3.0.2.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
+| VitaRPS5 | Claude AI & ywnico & AAGaming | v.3.0.3 | 3.5 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.0.3/VitakiFork-v3.0.3.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
 | vitaRTCW | Rinnegatamante | v.0.9 | 4.0 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/459-vitaRTCW.vpk) | [repo](https://github.com/Rinnegatamante/vitaRTCW/) |
 | VitaRW | tomtomdu80 | #04d791c | 0.0 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/151-VitaRW.vpk) | [repo](https://github.com/tomtomdu80/VitaRW) |
 | VitaScreenFlasher | NamelessGhoul0 | v.1.1 | 0.3 MB | [download](https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/122-VitaScreenFlasher.vpk) | [repo](https://github.com/NamelessGhoul0/VitaScreenFlasher) |
