@@ -4,7 +4,7 @@ These were never on VitaDB. They were contributed afterwards, mostly by their
 own authors, and are kept apart so the preserved catalogue stays exactly what
 it was.
 
-## PSVITA homebrews (23)
+## PSVITA homebrews (24)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
@@ -29,6 +29,7 @@ it was.
 | TrophaxSE | LiEnby | v.1.5 | 0.2 MB | [download](https://git.silica.codes/Li/trophaxse/releases/download/v1.5/TrophaxSE.vpk) | [repo](https://git.silica.codes/Li/trophaxse) |
 | VitaDeploy | SKGleba | v.1.2.3 | 2.0 MB | [download](https://github.com/SKGleba/VitaDeploy/releases/download/v1.2.3/VitaDeploy.vpk) | [repo](https://github.com/SKGleba/VitaDeploy) |
 | VitaForge | josephinoo | v.0.1.0 | 4.1 MB | [download](https://github.com/josephinoo/vitaForge/releases/download/v0.1.0/vitaforge.vpk) | [repo](https://github.com/josephinoo/vitaForge) |
+| WoozyLLM | LuckyI13I | v.0.1P | 0.8 MB | [download](https://github.com/LuckyI13I/WoozyLLM/releases/download/v0.1P/WoozyLLM.vpk) | [repo](https://github.com/LuckyI13I/WoozyLLM) |
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [repo](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [repo](https://git.silica.codes/Li/trophydumper) |
 
