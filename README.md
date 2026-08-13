@@ -76,8 +76,8 @@ If you are writing a client against this, note that download counts are frozen a
 2026-07-31 values. Static hosting cannot count downloads, so sorting by popularity reflects
 the state at shutdown and will not change.
 
-Known consumers: [VitaForge](https://github.com/josephinoo) by josephinoo, and
-[VitaDBtoo](https://github.com/DrDecki/VitaDBtoo), a fork of the original client.
+Known consumers: [VitaForge](https://github.com/josephinoo/vitaForge) by josephinoo.
+If you build another one, open an issue and it can be listed here.
 
 ## What is missing
 
