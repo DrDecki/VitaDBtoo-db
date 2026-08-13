@@ -39,7 +39,7 @@ what VitaDB held. They are listed separately in [ADDED.md](ADDED.md).
 | Metadata | 100% (1296 entries) |
 | Icons | 100% (1364) |
 | Screenshots | 100% (2186 of 2186) |
-| Trailers | 102% (63 of 62) |
+| Trailers | 100% (62 of 62) |
 | Data files | 100% (137 of 137) |
 | In-game trophies | 100% (28 of 28 sets) |
 

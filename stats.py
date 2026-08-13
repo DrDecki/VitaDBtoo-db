@@ -35,9 +35,21 @@ for f in ('apps.json', 'psp_apps.json'):
         if a.get('icon'):
             need.add(a['icon'])
 
-ss_have = len([x for x in os.listdir(os.path.join(ROOT, 'screenshots'))
-               if x.endswith('.png')]) if os.path.isdir(os.path.join(ROOT, 'screenshots')) else 0
-tr_have = sum(1 for a in load('apps.json') if a.get('trailer'))
+_ss_ref = set()
+for _a in load('apps.json'):
+    if int(_a['id']) <= LAST_VITADB_ID:
+        _ss_ref |= set(re.findall(r'[0-9a-f]{64}\.png', _a.get('screenshots') or ''))
+ss_have = len(_ss_ref)
+_tr_orig = set()
+if os.path.exists(os.path.join(ROOT, 'totals.json')):
+    _tr_orig = set(load('totals.json').get('trailer_ids') or [])
+if not _tr_orig and os.path.exists(ORIG):
+    with zipfile.ZipFile(ORIG) as _z:
+        _tr_orig = {a['id'] for a in json.loads(_z.read('VitaDB/apps.json').decode('utf-8', 'replace')) if a.get('trailer')}
+if _tr_orig:
+    tr_have = sum(1 for a in load('apps.json') if a.get('trailer') and a['id'] in _tr_orig)
+else:
+    tr_have = sum(1 for a in load('apps.json') if a.get('trailer') and int(a['id']) <= LAST_VITADB_ID)
 unused_tr = len([x for x in os.listdir(os.path.join(ROOT, 'videos'))
                if x.endswith('.mp4')]) if os.path.isdir(os.path.join(ROOT, 'videos')) else 0
 
