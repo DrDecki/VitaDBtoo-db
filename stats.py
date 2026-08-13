@@ -96,17 +96,21 @@ if _tt:
     out.append('| In-game trophies | %.0f%% (%d of %d sets) |\n' % (100.0 * _th / _tt, _th, _tt))
 else:
     out.append('| In-game trophies | %d sets |\n' % _th)
-out.append('\n### Help wanted\n\n')
-out.append('**%d downloads and %d data files are still missing.** ' % (missing_dl, data_missing))
-out.append('They are listed with author, version and file size in [WANTED.md](WANTED.md)')
-if unmatched:
-    out.append(', together with %d archived files from the old webhost that nobody has ' % unmatched)
-    out.append('been able to identify yet')
-out.append('.\n\n')
-out.append('This does not need programming. It needs people who recognise a homebrew by its ')
-out.append('filename, or who still have the file lying on an old memory card. If you can match ')
-out.append('even one entry, open an issue: every link restored is an application that stops ')
-out.append('being lost.\n')
+if missing_dl or data_missing:
+    out.append('\n### Help wanted\n\n')
+    out.append('**%d downloads and %d data files are still missing.** ' % (missing_dl, data_missing))
+    out.append('They are listed with author, version and file size in [WANTED.md](WANTED.md)')
+    if unmatched:
+        out.append(', together with %d archived files from the old webhost that nobody has ' % unmatched)
+        out.append('been able to identify yet')
+    out.append('.\n\n')
+    out.append('This does not need programming. It needs people who recognise a homebrew by its ')
+    out.append('filename, or who still have the file lying on an old memory card. If you can match ')
+    out.append('even one entry, open an issue: every link restored is an application that stops ')
+    out.append('being lost.\n')
+else:
+    out.append('\nNothing is missing at the moment. [WANTED.md](WANTED.md) fills back up on its own\n')
+    out.append('when something breaks or a new entry arrives without a working link.\n')
 out.append('<!-- /STATS -->')
 
 readme = os.path.join(ROOT, 'README.md')
