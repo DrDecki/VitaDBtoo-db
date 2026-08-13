@@ -2,7 +2,7 @@ import hashlib, json, os, re, subprocess, sys, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TAG = 'mirror'
-BASE = 'https://github.com/DrDecki/VitaDBtoo-db/releases/download/' + TAG + '/'
+BASE = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/' + TAG + '/'
 STATE = os.path.join(ROOT, 'data_state.json')
 limit = int(sys.argv[1]) if len(sys.argv) > 1 else 999
 

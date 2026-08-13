@@ -93,7 +93,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://drdecki.github.io/VitaDBtoo-db/mirror/VideoBubblesCreator.zip"
+        "url": "https://drdecki.github.io/VitaHomebrewDB/mirror/VideoBubblesCreator.zip"
     },
     {
         "name": "SD2Vita Helper Tool",
@@ -237,7 +237,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/690-guessit_custom.zip"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/690-guessit_custom.zip"
     },
     {
         "name": "AdrBubbleBooterCreator",
@@ -261,7 +261,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/317-AdrBubbleBooterCreator.zip"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/317-AdrBubbleBooterCreator.zip"
     },
     {
         "name": "vita-presence-the-server",
@@ -429,7 +429,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/349-PSVitaStuff.zip"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/349-PSVitaStuff.zip"
     },
     {
         "name": "NPS Browser",
@@ -453,7 +453,7 @@
         "requirements": "- PHP with a web server, hosted by the user",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/346-nps-browser.zip"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/346-nps-browser.zip"
     },
     {
         "name": "NoMorePacKaGe",
@@ -477,7 +477,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/343-nomorepackage.zip"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/343-nomorepackage.zip"
     },
     {
         "name": "psvtools",
@@ -501,7 +501,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/322-psvtoolsvita.7z"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/322-psvtoolsvita.7z"
     },
     {
         "name": "PkgDecrypt",
@@ -525,7 +525,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/321-pkgdecryptvita.7z"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/321-pkgdecryptvita.7z"
     },
     {
         "name": "unpkg_vita",
@@ -573,7 +573,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://drdecki.github.io/VitaDBtoo-db/mirror/vid2pshv_win64.zip"
+        "url": "https://drdecki.github.io/VitaHomebrewDB/mirror/vid2pshv_win64.zip"
     },
     {
         "name": "PSVTrimmer",
@@ -597,7 +597,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/318-psvtrimmervita.7z"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/318-psvtrimmervita.7z"
     },
     {
         "name": "psvimgtools",
@@ -621,7 +621,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/316-psvimgtoolsvitayif.7z"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/316-psvimgtoolsvitayif.7z"
     },
     {
         "name": "Qcma",
@@ -645,7 +645,7 @@
         "requirements": "",
         "trophies": "0",
         "tags": "",
-        "url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/314-qcmavita.7z"
+        "url": "https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/314-qcmavita.7z"
     },
     {
         "id": "1457",

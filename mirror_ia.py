@@ -50,7 +50,7 @@ for i, a in enumerate(todo, 1):
             'mediatype': 'software',
             'collection': 'opensource',
             'subject': 'psvita; homebrew; vitadb',
-            'description': 'Mirror of PSVITA homebrew files catalogued by VitaDBtoo-db.'},
+            'description': 'Mirror of PSVITA homebrew files catalogued by VitaHomebrewDB.'},
             verbose=False, retries=3)
         url = 'https://archive.org/download/%s/%s' % (ITEM, name)
         a['url'] = url

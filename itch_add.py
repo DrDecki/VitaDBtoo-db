@@ -2,7 +2,7 @@ import hashlib, json, os, re, shutil, subprocess
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DL = os.path.expanduser('~/Downloads')
-BASE = 'https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/'
+BASE = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/'
 
 paare = {
     '1441': 'imango.vpk',

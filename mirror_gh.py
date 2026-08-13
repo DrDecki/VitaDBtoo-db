@@ -2,7 +2,7 @@ import hashlib, json, os, queue, re, subprocess, sys, threading, time, urllib.pa
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TAG = 'mirror'
-BASE = 'https://github.com/DrDecki/VitaDBtoo-db/releases/download/' + TAG + '/'
+BASE = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/' + TAG + '/'
 TMP = '/tmp/gh_stage'
 os.makedirs(TMP, exist_ok=True)
 

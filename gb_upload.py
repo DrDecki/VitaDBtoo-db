@@ -2,7 +2,7 @@ import hashlib, json, os, re, subprocess, sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TAG = 'mirror'
-BASE = 'https://github.com/DrDecki/VitaDBtoo-db/releases/download/' + TAG + '/'
+BASE = 'https://github.com/DrDecki/VitaHomebrewDB/releases/download/' + TAG + '/'
 VPKS = '/tmp/gamebrew'
 ARCS = '/tmp/gbsurvey'
 TOOLS = '/tmp/gbtools'
