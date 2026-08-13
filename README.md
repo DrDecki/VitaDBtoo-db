@@ -80,13 +80,13 @@ If you build another one, open an issue and it can be listed here.
 
 ## What is missing
 
-Nothing, as of 2026-08-06. Every entry has a working download, every screenshot and
-every trophy set VitaDB carried has been recovered.
+Nothing. Every entry has a working download, and every screenshot, trailer, data file and
+trophy set VitaDB carried has been recovered. None of it depends on the old webhost any
+more: what the authors no longer serve themselves is mirrored here.
 
-- **Data files**: some game data still points at the authors' own servers rather than
-  a copy kept here.
-- **Download counts** are frozen at the numbers VitaDB recorded on 31.07.2026. Static
-  hosting cannot count.
+Download counts are the one exception. They are frozen at the numbers VitaDB recorded on
+2026-07-31, because static hosting cannot count. Sorting by popularity still works, it just
+describes the day the site went down.
 
 Themes are unaffected and continue to work: they have always been hosted separately at
 [CatoTheYounger97/vitaDB_themes](https://github.com/CatoTheYounger97/vitaDB_themes).
