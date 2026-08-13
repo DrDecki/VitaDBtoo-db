@@ -46,7 +46,7 @@ for i, a in enumerate(todo, 1):
         path = os.path.join(TMP, name)
         open(path, 'wb').write(data)
         upload(ITEM, files={name: path}, metadata={
-            'title': 'VitaDBtoo mirror',
+            'title': 'VitaHomebrewDB mirror',
             'mediatype': 'software',
             'collection': 'opensource',
             'subject': 'psvita; homebrew; vitadb',
