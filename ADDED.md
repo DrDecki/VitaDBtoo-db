@@ -4,18 +4,21 @@ These were never on VitaDB. They were contributed afterwards, mostly by their
 own authors, and are kept apart so the preserved catalogue stays exactly what
 it was.
 
-## PSVITA homebrews (24)
+## PSVITA homebrews (27)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
 | Batman Doom | DraxTube | v.1.0 | 0.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/BatmanDoom.vpk) | — |
 | CEX 2 REX 2.0 | LiEnby | v.2.0.1 | 0.2 MB | [download](https://git.silica.codes/Li/cex-2-rex/releases/download/2.0.1/CEX2REX.vpk) | [repo](https://git.silica.codes/Li/cex-2-rex) |
+| Coordinated Motion | Bunkai9448 | v.1.0 | 3.2 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/CoordinatedMotion.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | CreeperDiver | LiEnby | v.1.2 | 10.3 MB | [download](https://git.silica.codes/Li/creeperdiver/releases/download/v1.2/creeperdiver-vita.vpk) | [repo](https://git.silica.codes/Li/creeperdiver) |
 | Dinosaur 2D | withLogic | v.1.0 | 2.7 MB | [download](https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk) | [repo](https://github.com/withLogic/chrome-dinosaur-2d) |
 | GCToolKit | oestriot | v.1.9 | 2.0 MB | [download](https://github.com/oestriot/GcToolKit/releases/download/v1.9/GcToolKit.vpk) | [repo](https://github.com/oestriot/GcToolKit) |
+| I am not a murderer | Bunkai9448 | v.1.0 | 3.7 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/Iamnotamurderer.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | ImMultiple | TheCrystalOrg | v.0.1 | 7.8 MB | [download](https://git.silica.codes/TheCrystalOrg/ImMultiple/releases/download/v0.1/ImMultiple_VITA.vpk) | [repo](https://git.silica.codes/TheCrystalOrg/ImMultiple) |
 | JaVitaScript Snake | largepelotas | v.1.2.0 | 1.6 MB | [download](https://github.com/largepelotas/JaVitaScript-Snake/releases/download/v1.2.0/snake.vpk) | [repo](https://github.com/largepelotas/JaVitaScript-Snake) |
 | Lego Island | isledecomp | v.0.1 | 6.8 MB | [download](https://github.com/isledecomp/isle-portable/releases/download/continuous/isle.vpk) | [repo](https://github.com/isledecomp/isle-portable) |
+| MarmaladeBoy_LCD | Bunkai9448 | v.1.0 | 3.9 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/MarmaladeBoy_LCD.vpk) | [repo](https://github.com/Bunkai9448/vita_gamemaker) |
 | Minecraft PE | minecraftpe-vita | v.1.0.7 | 8.3 MB | [download](https://github.com/minecraftpe-vita/minecraftpe-vita/releases/download/v1.0.7/minecraftpe.vpk) | [repo](https://github.com/minecraftpe-vita/minecraftpe-vita) |
 | Minecraft: Story Mode | LeZergan | v.1.10 | 3.3 MB | [download](https://github.com/LeZergan/mcsm-vita/releases/download/v1.10/MCSM-1.10.vpk) | [repo](https://github.com/LeZergan/mcsm-vita) |
 | NoSleep | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/nosleep/releases/download/v0.1/NoSleep.vpk) | [repo](https://git.silica.codes/Li/nosleep) |
