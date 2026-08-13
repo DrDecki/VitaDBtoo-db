@@ -32,11 +32,21 @@ it was.
 | ★RealPackage Installer | LiEnby | v.1.4 | 2.5 MB | [download](https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk) | [repo](https://github.com/LiEnby/real-package-installer) |
 | TrophyDumper | LiEnby | v.1.1 | 0.1 MB | [download](https://git.silica.codes/Li/trophydumper/releases/download/v1.1/TrophyDumper.vpk) | [repo](https://git.silica.codes/Li/trophydumper) |
 
-## Plugins (1)
+## Plugins (11)
 
 | Name | Author | Version | Size | Download | Source |
 | --- | --- | --- | ---: | --- | --- |
+| FreePSM | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/freepsm/releases/download/v1.1/FreePSM-v1.1.suprx) | [repo](https://git.silica.codes/Li/freepsm) |
+| iduSpoof | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/iduspoof/releases/download/v1.0/iduSpoof.suprx) | [repo](https://git.silica.codes/Li/iduspoof) |
+| noavls | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/noavls/releases/download/v0.1/noavls.skprx) | [repo](https://git.silica.codes/Li/noavls) |
+| NoPspEmuDrm | LiEnby | v.1.06 | 0.0 MB | [download](https://github.com/LiEnby/NoPspEmuDrm/releases/download/v1.06/NoPspEmuDrm_kern.skprx) | [repo](https://github.com/LiEnby/NoPspEmuDrm) |
+| Pocketstation Unlocker | LiEnby | v.1.1 | 0.0 MB | [download](https://git.silica.codes/Li/PocketstationUnlocker/releases/download/v1.1/pocketstationunlocker.skprx) | [repo](https://git.silica.codes/Li/PocketstationUnlocker) |
+| qaSpoofer | LiEnby | v.0.1 | 0.0 MB | [download](https://git.silica.codes/Li/qaspoofer/releases/download/0.1/qaSpoof.skprx) | [repo](https://git.silica.codes/Li/qaspoofer) |
+| ScoreHax | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/ScoreHax/releases/download/v1.0/ScoreHax.suprx) | [repo](https://git.silica.codes/Li/ScoreHax) |
+| TropHAX | LiEnby | v.0.2 | 0.0 MB | [download](https://git.silica.codes/Li/trophax/releases/download/v0.2/trophax2.0.suprx) | [repo](https://git.silica.codes/Li/trophax) |
 | uac-pstv-host | SJK132 | v.0.2 | 0.0 MB | [download](https://github.com/SJK132/uac-pstv-host/releases/download/v0.2/uac_pstv.skprx) | [repo](https://github.com/SJK132/uac-pstv-host) |
+| videoDebug | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/videodebug/releases/download/1.0/videoDebug.skprx) | [repo](https://git.silica.codes/Li/videodebug) |
+| vshPatch | LiEnby | v.1.0 | 0.0 MB | [download](https://git.silica.codes/Li/vshPatch/releases/download/v1.0/vshPatch.skprx) | [repo](https://git.silica.codes/Li/vshPatch) |
 
 ## PC tools (6)
 
