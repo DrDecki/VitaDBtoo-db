@@ -248,7 +248,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | Eldritch Vita | Rinnegatamante | v.1.2 | 4.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1100-Eldritch.vpk) | [repo](https://github.com/Rinnegatamante/eldritch-vita) |
 | ElevenMPV | joel16 | v.2.10 | 2.3 MB | [download](https://github.com/joel16/ElevenMPV/releases/download/v2.10/ElevenMPV.vpk) | [repo](https://github.com/joel16/ElevenMPV) |
 | Emu4Vita Arch | yizhigai | v.1.10 | 18.6 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/1094-Emu4VitaArch.vpk) | [repo](https://gitee.com/yizhigai/Emu4Vita) |
-| Emu4Vita++ | noword | v.0.78 | 187.9 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.78/Emu4VitaPlus_v0.78.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
+| Emu4Vita++ | noword | v.0.79 | 188.2 MB | [download](https://github.com/noword/Emu4VitaPlus/releases/download/v0.79/Emu4VitaPlus_v0.79.vpk) | [repo](https://github.com/noword/Emu4VitaPlus) |
 | EnbornX Vita | Rinnegatamante | v.1.0 | 1.2 MB | [download](https://github.com/Rinnegatamante/enbornx_vita/releases/download/v.1.0/enbornx.vpk) | [repo](https://github.com/Rinnegatamante/enbornx_vita) |
 | Enigma | rsn8887 | v.1.11 | 5.0 MB | [download](https://github.com/rsn8887/Enigma/releases/download/1.16/enigma_1.11.vpk) | [repo](https://github.com/rsn8887/Enigma) |
 | enso ex Installer | SKGleba & Team Molecule | v.5.0 | 0.1 MB | [download](https://github.com/SKGleba/enso_ex/releases/download/v5.0/enso_ex.vpk) | [repo](https://github.com/SKGleba/enso_ex) |
@@ -956,7 +956,7 @@ Entries added after the shutdown are in [ADDED.md](ADDED.md).
 | vitaQuakeII | Rinnegatamante | v.2.4 | 5.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/278-vitaQuakeII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeII) |
 | vitaQuakeIII | Rinnegatamante | v.1.3 | 4.4 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/375-vitaQuakeIII.vpk) | [repo](https://github.com/Rinnegatamante/vitaQuakeIII) |
 | VitaRebootShutdown | McCallum99 | v.1.08 | 0.2 MB | [download](https://github.com/McCallum99/PSVitaRebootShutdown/releases/download/v1.08/VitaRebootShutdown.vpk) | [repo](https://github.com/McCallum99/PSVitaRebootShutdown) |
-| VitaRPS5 | Claude AI & ywnico & AAGaming | v.3.0.3 | 3.5 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.0.3/VitakiFork-v3.0.3.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
+| VitaRPS5 | Claude AI & ywnico & AAGaming | v.3.1.0 | 3.9 MB | [download](https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.1.0/VitakiFork-v3.1.0.vpk) | [repo](https://github.com/mauricio-gg/vitaki-vitarps5) |
 | vitaRTCW | Rinnegatamante | v.0.9 | 4.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/459-vitaRTCW.vpk) | [repo](https://github.com/Rinnegatamante/vitaRTCW/) |
 | VitaRW | tomtomdu80 | #04d791c | 0.0 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/151-VitaRW.vpk) | [repo](https://github.com/tomtomdu80/VitaRW) |
 | VitaScreenFlasher | NamelessGhoul0 | v.1.1 | 0.3 MB | [download](https://github.com/DrDecki/VitaHomebrewDB/releases/download/mirror/122-VitaScreenFlasher.vpk) | [repo](https://github.com/NamelessGhoul0/VitaScreenFlasher) |
