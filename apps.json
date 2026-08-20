@@ -1712,7 +1712,7 @@
     {
         "name": "Emu4Vita++",
         "icon": "5d477df9a54e8716a41c634947fefbc5f8fb1bd9d024cf5d6c1d2d177facfc0d.png",
-        "version": "v.0.78",
+        "version": "v.0.79",
         "author": "noword",
         "type": "5",
         "description": "Libretro frontend for PSVITA.",
@@ -1726,7 +1726,7 @@
         "source": "https://github.com/noword/Emu4VitaPlus",
         "release_page": "https://github.com/noword/Emu4VitaPlus/releases",
         "trailer": "",
-        "size": "197044944",
+        "size": "197348129",
         "data_size": "0",
         "hash": "",
         "hash2": "",
@@ -1736,7 +1736,7 @@
         "tags": "",
         "ai": "0",
         "score": "0",
-        "url": "https://github.com/noword/Emu4VitaPlus/releases/download/v0.78/Emu4VitaPlus_v0.78.vpk",
+        "url": "https://github.com/noword/Emu4VitaPlus/releases/download/v0.79/Emu4VitaPlus_v0.79.vpk",
         "data": ""
     },
     {
@@ -3572,7 +3572,7 @@
     {
         "name": "VitaRPS5",
         "icon": "f754ebe4cee40540c181672aac04923a8cede8a57aee74e218000e6482bb49d0.png",
-        "version": "v.3.0.3",
+        "version": "v.3.1.0",
         "author": "Claude AI & ywnico & AAGaming",
         "type": "4",
         "description": "PS5 streaming application for PSVita.",
@@ -3586,9 +3586,9 @@
         "source": "https://github.com/mauricio-gg/vitaki-vitarps5",
         "release_page": "https://github.com/mauricio-gg/vitaki-vitarps5/releases",
         "trailer": "",
-        "size": "3712050",
+        "size": "4108047",
         "data_size": "0",
-        "hash": "16bb5da765da01396f9f8e8bf03c6a0e",
+        "hash": "4c7df7a1f4cbcde5112016ffa3615ba6",
         "hash2": "",
         "changelog": "-Fix production log writes and add UI logging toggle (#79) (fb34cc1).",
         "requirements": "",
@@ -3596,7 +3596,7 @@
         "tags": "",
         "ai": "1",
         "score": "0",
-        "url": "https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.0.3/VitakiFork-v3.0.3.vpk",
+        "url": "https://github.com/mauricio-gg/vitaki-vitarps5/releases/download/v3.1.0/VitakiFork-v3.1.0.vpk",
         "data": ""
     },
     {
